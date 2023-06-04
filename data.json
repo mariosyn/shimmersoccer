@@ -1,0 +1,2201 @@
+{
+    "bicicletas": [
+        {
+            "nombre": "#1 Leyer",
+            "modelo": "DEL",
+            "img": "img/1-DEL.png",
+            "precio": 89,
+            "categoria": "Gold",
+            "url": "https://soonaverse.com/nft/0x327fa6f5cc852ddff520688d35c8e5d8870b264d"
+        },
+        {
+            "nombre": "#2 Retwer",
+            "modelo": "MC",
+            "img": "img/2.png",
+            "precio": 88,
+            "categoria": "Gold",
+            "url": "https://soonaverse.com/nft/0x01cbe609fe5a737bfa70d83e789dfba3f6593ac7"
+        },
+        {
+            "nombre": "#3 Faran",
+            "modelo": "MC",
+            "img": "img/3.png",
+            "precio": 88,
+            "categoria": "Gold",
+            "url": "https://soonaverse.com/nft/0x223c0c9ca9d80e751cd52186b6899fc3508272d3"
+        },
+        {
+            "nombre": "#4 Twerry",
+            "modelo": "DEL",
+            "img": "img/4.png",
+            "precio": 89,
+            "categoria": "Gold",
+            "url": "https://soonaverse.com/nft/0x4455987cf492e85acfa3062c2887735632f08778"
+        },
+        {
+            "nombre": "#5 Jose",
+            "modelo": "DEL",
+            "img": "img/5.png",
+            "precio": 90,
+            "categoria": "Gold",
+            "url": "https://soonaverse.com/nft/0x9fbd0f18d019bda63f8f2b0131874c8131b392c7"
+        },
+        {
+            "nombre": "#6 Toti",
+            "modelo": "DEF",
+            "img": "img/6.png",
+            "precio": 90,
+            "categoria": "Gold",
+            "url": "https://soonaverse.com/nft/0x704827d785928971960b00b13e241410d8e264a2"
+        },
+        {
+            "nombre": "#7 Perri",
+            "modelo": "MC",
+            "img": "img/7.png",
+            "precio": 90,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0x9c75de191dbaba39a5a7b4d7c1808dca4f4e7d47"
+        },
+        {
+            "nombre": "#8 Lerry",
+            "modelo": "DEF",
+            "img": "img/8.png",
+            "precio": 89,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0x604ea367c3a08089c48b3c44cd0a6ba5051524c7"
+        },
+        {
+            "nombre": "#9 Werret",
+            "modelo": "DEF",
+            "img": "img/9.png",
+            "precio": 86,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0xeb9355fc556c61017dbe047043f0a901abc8fe7d"
+        },
+        {
+            "nombre": "#10 Sargent",
+            "modelo": "MC",
+            "img": "img/10.png",
+            "precio": 92,
+            "categoria": "Purple",
+            "url":"https://soonaverse.com/nft/0xde61e35c8f8cea9fc7ec28b1a9c14847aaf15c42"
+        },
+        {
+            "nombre": "#11 Viper",
+            "modelo": "DEF",
+            "img": "img/11.png",
+            "precio": 90,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0x353c2944d5ace01752199bde93e99789454d1aa6"
+        },
+        {
+            "nombre": "#12 Retwer",
+            "modelo": "POR",
+            "img": "img/12.png",
+            "precio": 90,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0x85d3a2c726fa85be312fa863f6ed6ec170a40db0"
+        },
+        {
+            "nombre": "#13 Darter",
+            "modelo": "MC",
+            "img": "img/13.png",
+            "precio": 79,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0x49a182bd30c970da6aaf972035aa66d977906619",
+            "url1":"https://soonaverse.com/nft/0xa79d5777032ac44780d6fa8030182a3adab08e59"
+        },
+        {
+            "nombre": "#14 Pepe",
+            "modelo": "DEF",
+            "img": "img/14.png",
+            "precio": 65,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0x62ef01a0a3fa44a7159c87a9bdc4c89f5549dc51",
+            "url1":"https://soonaverse.com/nft/0x44c0d96e06a7013ce59a20df0685331a56a8e302"
+        },
+        {
+            "nombre": "#15 Warter",
+            "modelo": "DEL",
+            "img": "img/15.png",
+            "precio": 81,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0x7ef0643a1a1c40be89d1cce23486ab784d8ea259",
+            "url1":"https://soonaverse.com/nft/0x6477c5abe734017aa927afbf380f645ea72f4df5"
+        },
+        {
+            "nombre": "#16 Fercir",
+            "modelo": "DEL",
+            "img": "img/16.png",
+            "precio": 85,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0xff9644da260e0f962cd0e35108572143c43bd277",
+            "url1":"https://soonaverse.com/nft/0x7db64310140d3e96d348af6508dbf4a185714c0d"
+        },
+        {
+            "nombre": "#17 Amart",
+            "modelo": "MC",
+            "img": "img/17.png",
+            "precio": 79,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0xe4f794da2cb6c851788c561ecdd6be69283d76f3",
+            "url1":"https://soonaverse.com/nft/0x5a495194b774c33714f5d082ffb2e3a8f7b4e32a"
+        },
+        {
+            "nombre": "#18 Miren",
+            "modelo": "MC",
+            "img": "img/18.png",
+            "precio": 69,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0x6fb4dad0603867079ad3bd9a9e03bf0f91acdcc6",
+            "url1":"https://soonaverse.com/nft/0x91fe3dc44f8b5bfbd189abdfbeaa7cee5109556d"
+        },
+        {
+            "nombre": "#19 Lemon",
+            "modelo": "DEF",
+            "img": "img/19.png",
+            "precio": 85,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0x39c00cb5c0a9f161a532886e811fe5cac40b0c0b",
+            "url1":"https://soonaverse.com/nft/0xa66adbd954cc614dee0774a4390ecc6d8414c201"
+        },
+        {
+            "nombre": "#20 Pedro",
+            "modelo": "DEF",
+            "img": "img/20.png",
+            "precio": 65,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0x2f4602fa8e2a289e019e93bdc0043d514bde1482",
+            "url1":"https://soonaverse.com/nft/0xb6f4b64f02fdfe2213eb02d9c80cb60ce9c2f45b"
+        },
+        {
+            "nombre": "#21 George",
+            "modelo": "DEF",
+            "img": "img/21.png",
+            "precio": 73,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0xd22c0816e911ab022fc36ae194520ed586a82f2d",
+            "url1":"https://soonaverse.com/nft/0x153e8baaf0950108b2f65c6521d5305a0bef275b"
+        },
+        {
+            "nombre": "#22 Beber",
+            "modelo": "DEL",
+            "img": "img/22.png",
+            "precio": 96,
+            "categoria": "Blue",
+            "url":"https://soonaverse.com/nft/0x04a09bd6c1407fea20439e2d2465175a834312b5"
+        },
+        {
+            "nombre": "#23 Keria",
+            "modelo": "DEF",
+            "img": "img/23.png",
+            "precio": 66,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0xdbf0369bbda646eed54b9f29dfc3a96d7e037c2f",
+            "url1":"https://soonaverse.com/nft/0x39cc4e6b7b1e20030b92827617ee5abc6c306a7f"
+        },
+        {
+            "nombre": "#24 Yeya",
+            "modelo": "DEL",
+            "img": "img/24.png",
+            "precio": 97,
+            "categoria": "Blue",
+            "url":"https://soonaverse.com/nft/0xf2778b4dd3e88c026552211dba3529741146031c"
+        },
+        {
+            "nombre": "#25 Angel",
+            "modelo": "DEF",
+            "img": "img/25.png",
+            "precio": 95,
+            "categoria": "Purple",
+            "url":"https://soonaverse.com/nft/0x6d7ca43417d0cc918372939924c66b8e03cc004f"
+            
+        },
+        {
+            "nombre": "#26 Bertor",
+            "modelo": "MC",
+            "img": "img/26.png",
+            "precio": 69,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0x2adf60a6515fabc6fb3f2c5d3e64d1dd60fd4238",
+            "url1":"https://soonaverse.com/nft/0x391f3ab4ed70f17020778e88b24c9db24f6dde9d"
+        },
+        {
+            "nombre": "#27 Hurtor",
+            "modelo": "MC",
+            "img": "img/27.png",
+            "precio": 68,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0x4ebf243e564235de5e88a932581ac0062bb44116",
+            "url1":"https://soonaverse.com/nft/0xc99f287546da3b7f764f9b146bc8b7c435557da8"
+        },
+        {
+            "nombre": "#28 Werfer",
+            "modelo": "POR",
+            "img": "img/28.png",
+            "precio": 95,
+            "categoria": "Purple",
+            "url":"https://soonaverse.com/nft/0x17d404960f189a9f850779384853ec2c6567fea3"
+            
+        },
+        {
+            "nombre": "#29 Moni",
+            "modelo": "DEF",
+            "img": "img/29.png",
+            "precio": 66,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0x4fdda1cb79e8b4fa7774c442dbb74c4752dd9d57",
+            "url1":"https://soonaverse.com/nft/0x06ba61287eec13c54147a7e087d488d4e04e7c86"
+
+        },
+        {
+            "nombre": "#30 Piscis",
+            "modelo": "DEF",
+            "img": "img/30.png",
+            "precio": 86,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0x0256a990c513d67caebf2408bc6c9ac5991d7870",
+            "url1":"https://soonaverse.com/nft/0x07bc376c9d4d3acfbed60a8b9cb8993cee482807"
+
+        },
+        {
+            "nombre": "#31 Turux",
+            "modelo": "MC",
+            "img": "img/31.png",
+            "precio": 75,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0x9a7711bafb7c3bf953838a1ed65a89e7d673f0b9",
+            "url1":"https://soonaverse.com/nft/0x8bb8e24a2948aa41eb2252bc1f48c974f0a21e00"
+
+        },
+        {
+            "nombre": "#32 Turtle",
+            "modelo": "DEL",
+            "img": "img/32.png",
+            "precio": 81,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0xef1cef2d04d7e97d96568d985f7d3074c5f13324",
+            "url1":"https://soonaverse.com/nft/0xc19f7e23ca57f8a0ceffee840377e018fdb49ec4"
+
+        },
+        {
+            "nombre": "#33 Arie",
+            "modelo": "MC",
+            "img": "img/33.png",
+            "precio": 72,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0x206f461f20c5b925b30013b1da47ce38f56c5043",
+            "url1":"https://soonaverse.com/nft/0x7ccd72aaa88aa650e2479b20cf780e1139c8c6d2"
+
+        },
+        {
+            "nombre": "#34 Derma",
+            "modelo": "MC",
+            "img": "img/34.png",
+            "precio": 66,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0xc19754f1a1eaf3096197dde70c19556e74f37897",
+            "url1":"https://soonaverse.com/nft/0x5b1de185be10ba87510c018cfe09369bb1e37be6"
+
+        },
+        {
+            "nombre": "#35 Jokert",
+            "modelo": "MC",
+            "img": "img/35.png",
+            "precio": 95,
+            "categoria": "Purple",
+            "url":"https://soonaverse.com/nft/0x59646b978d4d54fe416df835ca2d512d78f8020f"
+            
+
+        },
+        {
+            "nombre": "#36 Bryan",
+            "modelo": "MC",
+            "img": "img/36.png",
+            "precio": 92,
+            "categoria": "Purple",
+            "url":"https://soonaverse.com/nft/0x9dbade44e013fdd8caa5dba3b098d6bdf82060a7"
+
+        },
+        {
+            "nombre": "#37 Matthew",
+            "modelo": "DEL",
+            "img": "img/37.png",
+            "precio": 63,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0xb2fab9a63664588dada09159014906729a115902",
+            "url1":"https://soonaverse.com/nft/0x130a871b48fc9e6ad8b0f7d6cb706482a6ca41dd"
+
+        },
+        {
+            "nombre": "#38 Kevin",
+            "modelo": "DEF",
+            "img": "img/38.png",
+            "precio": 71,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0x9129dbe08ebeabc84e80cbb3d0a3f2ecb12ed243",
+            "url1":"https://soonaverse.com/nft/0x1773efc122b17beb06d6480030a792d0a21904fd"
+
+        },
+        {
+            "nombre": "#39 Ryan",
+            "modelo": "DEF",
+            "img": "img/39.png",
+            "precio": 63,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0x6bfe5284c03378ea37859da986a9f152ae41fb6c",
+            "url1":"https://soonaverse.com/nft/0x517a5edfd82acd5fe14459d19d2dde415a1e4a83"
+
+        },
+        {
+            "nombre": "#40 Gordon",
+            "modelo": "MC",
+            "img": "img/40.png",
+            "precio": 81,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0xd26e753a56447c6ed67645dbae9f9de72ed05343",
+            "url1":"https://soonaverse.com/nft/0x12d1c83f1d7391ac47c7db35daf38cd1cfc5bc61"
+
+        },
+        {
+            "nombre": "#41 Doyle",
+            "modelo": "DEF",
+            "img": "img/41.png",
+            "precio": 82,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0xdf45fea036d7fd7d95694ba2f2b2c4e362bc43d2",
+            "url1":"https://soonaverse.com/nft/0x21db296caf1c65187bd5de09582964d38b13a0b7"
+
+        },
+        {
+            "nombre": "#42 Barron",
+            "modelo": "DEL",
+            "img": "img/42.png",
+            "precio": 77,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0xdc97546dbe2c5375d38ab1d70bb6ed268e1f808d",
+            "url1":"https://soonaverse.com/nft/0xba7a23435afcef1fcd802badf83f8c76eb980a09"
+
+        },
+        {
+            "nombre": "#43 Martinez",
+            "modelo": "MC",
+            "img": "img/43.png",
+            "precio": 79,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0xf8d99142183f0c6274566ab9c35fd867e089aab8",
+            "url1":"https://soonaverse.com/nft/0x2af80419d1dcaca831b779619495eb068edac68c"
+
+        },
+        {
+            "nombre": "#44 Daniel",
+            "modelo": "MC",
+            "img": "img/44.png",
+            "precio": 67,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0xcb98984da966e322e69b7a640fa627185d332859",
+            "url1":"https://soonaverse.com/nft/0x69f23451e0d30b231881a5d28c0a689e1f129585"
+
+        },
+        {
+            "nombre": "#45 Lawrence",
+            "modelo": "DEL",
+            "img": "img/45.png",
+            "precio": 77,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0x285181f0885daa4b7a6e622e8f1abec0ab3daea8",
+            "url1":"https://soonaverse.com/nft/0xe9e67a851a2dc515de3347a0d4dca834407d0afb"
+
+        },
+        {
+            "nombre": "#46 John",
+            "modelo": "MC",
+            "img": "img/46.png",
+            "precio": 96,
+            "categoria": "Blue",
+            "url":"https://soonaverse.com/nft/0xe7f01926213b0922667164c2dc8b07ca1b778904"
+
+        },
+        {
+            "nombre": "#47 Butler",
+            "modelo": "DEF",
+            "img": "img/47.png",
+            "precio": 73,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0xc45c73890b1c2057572fbbb869871248e0f623d4",
+            "url1":"https://soonaverse.com/nft/0xfc8d2e5418eedaf0d71eb2e9af3d0d386dc59587"
+
+        },
+        {
+            "nombre": "#48 Hicks",
+            "modelo": "MC",
+            "img": "img/48.png",
+            "precio": 85,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0x2e68d06d32a85d7610d75db524eba4c3ee56085c",
+            "url1":"https://soonaverse.com/nft/0x3416577124c6177523d9bf4f75ecd5b9b4ef3e32"
+
+        },
+        {
+            "nombre": "#49 Aaron",
+            "modelo": "DEL",
+            "img": "img/49.png",
+            "precio": 83,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0xfa3c96e00f85cdae50ca3804021ec1acd5f0676f",
+            "url1":"https://soonaverse.com/nft/0xed75d66921866b6ecc8bf0427823e5405d1a7437"
+
+        },
+        {
+            "nombre": "#50 Maria",
+            "modelo": "MC",
+            "img": "img/50.png",
+            "precio": 79,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0x7690d054278fa9410e18ad59a32f8f24bcaaf939",
+            "url1":"https://soonaverse.com/nft/0x5264394757a645c892d5d9dda51919b76e3da359"
+        },
+        {
+            "nombre": "#51 Smith",
+            "modelo": "MC",
+            "img": "img/51.png",
+            "precio": 66,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0x2305fd593c575cec2a4b49daff28a02bcf72cd94",
+            "url1":"https://soonaverse.com/nft/0x6e5fcd20b626f4e0cf2f024ba2fa0264892419d6"
+        },
+        {
+            "nombre": "#52 Stanler",
+            "modelo": "DEF",
+            "img": "img/52.png",
+            "precio": 64,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0xc9ea312e2fca6689d1ca6e845e0f567bcbe96118",
+            "url1":"https://soonaverse.com/nft/0xb10efe772b855b8b600d6119caf48bcdd6b1f4b2"
+        },
+        {
+            "nombre": "#53 Boba",
+            "modelo": "DEL",
+            "img": "img/53.png",
+            "precio": 64,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0xd21b5909c0fa884d80de2fd2b8baf08bdd261344",
+            "url1":"https://soonaverse.com/nft/0xc93143f3b5c1fade0f78b3f6e89395117bb0ffb5"
+        },
+        {
+            "nombre": "#54 Moon",
+            "modelo": "DEL",
+            "img": "img/54.png",
+            "precio": 97,
+            "categoria": "Blue",
+            "url":"https://soonaverse.com/nft/0x3723a22b7bea42be81b229eeec9d1f7868f2775e"
+        },
+        {
+            "nombre": "#55 Mark",
+            "modelo": "DEF",
+            "img": "img/55.png",
+            "precio": 69,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0xf6dc0873a589f2c104d360c41bde92a6e964e23a",
+            "url1":"https://soonaverse.com/nft/0x4218137b4752a334f4f92bd46b7c1699d30ed254"
+        },
+        {
+            "nombre": "#56 Wolf",
+            "modelo": "DEF",
+            "img": "img/56.png",
+            "precio": 72,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0xd877c601b0b8a34e794f006cd460af8eabbfc643",
+            "url1":"https://soonaverse.com/nft/0x014bc1b626f22f9c1b128756f1e63b4a23c5b0c2"
+        },
+        {
+            "nombre": "#57 Gary",
+            "modelo": "MC",
+            "img": "img/57.png",
+            "precio": 73,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0xacc92927bda20facbfa59da4c925484c4eb21ade",
+            "url1":"https://soonaverse.com/nft/0x061374d2090980b8518068148cac7c4612e5bc1c"
+        },
+        {
+            "nombre": "#58 Rhodes",
+            "modelo": "MC",
+            "img": "img/58.png",
+            "precio": 79,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0x07aedc2240664cb08156d9ec5136cdb31b97c0ee",
+            "url1":"https://soonaverse.com/nft/0xbd0ea830b24502eb483e6c206f1a09d434087eef"
+        },
+        {
+            "nombre": "#59 Molina",
+            "modelo": "MC",
+            "img": "img/59.png",
+            "precio": 69,
+            "categoria": "Bronze",
+            "url":"https://soonaverse.com/nft/0xd2c7514327ddb100b4393bcfaf1b61ab796815c7",
+            "url1":"https://soonaverse.com/nft/0x86431844075fb5de31fa462b2daebaece82d16fb"
+        },
+        {
+            "nombre": "#60 Meyer",
+            "modelo": "MC",
+            "img": "img/60.png",
+            "precio": 70,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0x387d3c387e31b6a23927711078fb5ee933c26d3a",
+            "url1":"https://soonaverse.com/nft/0xbd5b844c6e107b40e8c1594f8d308800cf2387ed"
+        },
+        {
+            "nombre": "#61 Cowan",
+            "modelo": "DEF",
+            "img": "img/61.png",
+            "precio": 71,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0xe4f628b4eac65729d5ae1b25ef80badcba2ad04c",
+            "url1":"https://soonaverse.com/nft/0xbb9452accb67a799f9039c9135bc728503082a36"
+        },
+        {
+            "nombre": "#62 Queren",
+            "modelo": "DEF",
+            "img": "img/62.png",
+            "precio": 79,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0xb821fbe906c223b4a8f62e0d430ef6d1aa0bdf60",
+            "url1":"https://soonaverse.com/nft/0x0afa141dceb7a2af612f35a2e818169c2b22d3af"
+        },
+        {
+            "nombre": "#63 Simple",
+            "modelo": "MC",
+            "img": "img/63.png",
+            "precio": 85,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0x0e7e2e68ef961e03ad3aa9037f38d953d1e7d488",
+            "url1":"https://soonaverse.com/nft/0xb4ec999aa4bcb3d18565624e57e129b0755c9eb4"
+        },
+        {
+            "nombre": "#64 Laver",
+            "modelo": "MC",
+            "img": "img/64.png",
+            "precio": 77,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0xdce6c390686e35cd3e7bd5f86a9b1ccfda70ac82",
+            "url1":"https://soonaverse.com/nft/0xa2c4ab9ad3885a6a64f4b9a5b76beeb459cce4c6"
+        },
+        {
+            "nombre": "#65 Leon",
+            "modelo": "DEL",
+            "img": "img/65.png",
+            "precio": 87,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0x948a25e2c3e691ec99fa511a69e9ff45c8b71f18",
+            "url1":"https://soonaverse.com/nft/0x514c7a9b6123a5a780ba6fb29c7c7978d4cae5f4"
+        },
+        {
+            "nombre": "#66 Moore",
+            "modelo": "DEF",
+            "img": "img/66.png",
+            "precio": 93,
+            "categoria": "Purple",
+            "url":"https://soonaverse.com/nft/0x9f46d441539105986fc2fe184a3bb06eb77559de"
+        },
+        {
+            "nombre": "#67 Wheeler",
+            "modelo": "MC",
+            "img": "img/67.png",
+            "precio": 96,
+            "categoria": "Blue",
+            "url":"https://soonaverse.com/nft/0x3a3294f434eb6569a44bf27c4b954df0dce5b155"
+            
+        },
+        {
+            "nombre": "#68 Zimmer",
+            "modelo": "DEF",
+            "img": "img/68.png",
+            "precio": 74,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0x2d385e37c1034477f1372eda6376a7e7cbdde28a",
+            "url1":"https://soonaverse.com/nft/0x7f0b35d2d859c693b2c16758f021cd2c0bf55320"
+        },
+        {
+            "nombre": "#69 Levy",
+            "modelo": "MC",
+            "img": "img/69.png",
+            "precio": 76,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0x2c9b3639a910d0fbfdf356a718eaee07507f763e",
+            "url1":"https://soonaverse.com/nft/0x497ae3e8126bb469d9b07bb7521b59404263e0ae"
+        },
+        {
+            "nombre": "#70 Krystal",
+            "modelo": "DEL",
+            "img": "img/70.png",
+            "precio": 76,
+            "categoria": "Silver",
+            "url":"https://soonaverse.com/nft/0x497ae3e8126bb469d9b07bb7521b59404263e0ae",
+            "url1":"https://soonaverse.com/nft/0x036dad1733641a4f367fc2dcb222cf88f90f6433"
+        },
+        {
+            "nombre": "#71 Hines",
+            "modelo": "POR",
+            "img": "img/71.png",
+            "precio": 82,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0xe9b7311323502b9be67780b71ab258d8cfced5d6",
+            "url1":"https://soonaverse.com/nft/0x46b263f2618d4bf36065d715ee62718f4d265b5b"
+        },
+        {
+            "nombre": "#72 Torres",
+            "modelo": "POR",
+            "img": "img/72.png",
+            "precio": 80,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0xed43c1703f7e0d6c02efe1eb8483e46be6bbcab2",
+            "url1":"https://soonaverse.com/nft/0x7b72b76ef7a7a34d55b15768139f2e700870e022"
+        },
+        {
+            "nombre": "#73 Brown",
+            "modelo": "POR",
+            "img": "img/73.png",
+            "precio": 85,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0x8895b10071f3ec2651df92e3ee120dc5c447abe4",
+            "url1":"https://soonaverse.com/nft/0xd5d3eebdb75a98b364230c9806eec079150149dd"
+        },
+        {
+            "nombre": "#74 Amy",
+            "modelo": "POR",
+            "img": "img/74.png",
+            "precio": 83,
+            "categoria": "Gold",
+            "url":"https://soonaverse.com/nft/0x5ce5b18a6562629eb6a4cee800be5badcd7a9286",
+            "url1":"https://soonaverse.com/nft/0xb262caadcddb9bb9bc6d73e9a9be8b0ea678c2b1"
+        },
+        {
+            "nombre": "#75 Light",
+            "modelo": "MC",
+            "img": "img/75.png",
+            "precio": 99,
+            "categoria": "Platinum",
+            "url":"https://soonaverse.com/nft/0xb143fc0f5d6d7693381cf1f085b103d13f6f73b0"
+        },
+        {
+            "nombre": "#76 Ewing",
+            "modelo": "DEF",
+            "img": "img/76.png",
+            "precio": 71,
+            "categoria": "Silver",
+            "url":"",
+            "url1":""
+        },
+        {
+            "nombre": "#77 Byrd",
+            "modelo": "DEF",
+            "img": "img/77.png",
+            "precio": 72,
+            "categoria": "Silver",
+            "url":"",
+            "url1":""
+        },
+        {
+            "nombre": "#78 Moreno",
+            "modelo": "DEF",
+            "img": "img/78.png",
+            "precio": 73,
+            "categoria": "Silver",
+            "url":"",
+            "url1":""
+        },
+        {
+            "nombre": "#79 Taylor",
+            "modelo": "DEF",
+            "img": "img/79.png",
+            "precio": 74,
+            "categoria": "Silver",
+            "url":"",
+            "url1":""
+        },
+        {
+            "nombre": "#80 Reed",
+            "modelo": "DEF",
+            "img": "img/80.png",
+            "precio": 75,
+            "categoria": "Silver",
+            "url":"",
+            "url1":""
+        },
+        {
+            "nombre": "#81 Miller",
+            "modelo": "DEF",
+            "img": "img/81.png",
+            "precio": 76,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#82 Patton",
+            "modelo": "DEF",
+            "img": "img/82.png",
+            "precio": 77,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#83 Stephens",
+            "modelo": "DEF",
+            "img": "img/83.png",
+            "precio": 78,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#84 Weber",
+            "modelo": "DEF",
+            "img": "img/84.png",
+            "precio": 79,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#85 Mcfarland",
+            "modelo": "DEF",
+            "img": "img/85.png",
+            "precio": 80,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#86 Joseph",
+            "modelo": "MC",
+            "img": "img/86.png",
+            "precio": 71,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#87 Ashley",
+            "modelo": "MC",
+            "img": "img/87.png",
+            "precio": 72,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#88 Perkins",
+            "modelo": "MC",
+            "img": "img/88.png",
+            "precio": 73,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#89 Owens",
+            "modelo": "MC",
+            "img": "img/89.png",
+            "precio": 74,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#90 Davis",
+            "modelo": "MC",
+            "img": "img/90.png",
+            "precio": 75,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#91 Marsh",
+            "modelo": "MC",
+            "img": "img/91.png",
+            "precio": 76,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#92 Chang",
+            "modelo": "MC",
+            "img": "img/92.png",
+            "precio": 77,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#93 Mendez",
+            "modelo": "MC",
+            "img": "img/93.png",
+            "precio": 78,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#94 Cruz",
+            "modelo": "MC",
+            "img": "img/94.png",
+            "precio": 79,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#95 Weeks",
+            "modelo": "MC",
+            "img": "img/95.png",
+            "precio": 80,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#96 Mitchell",
+            "modelo": "DEL",
+            "img": "img/96.png",
+            "precio": 71,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#97 Thompson",
+            "modelo": "DEL",
+            "img": "img/97.png",
+            "precio": 72,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#98 Adkins",
+            "modelo": "DEL",
+            "img": "img/98.png",
+            "precio": 73,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#99 West",
+            "modelo": "DEL",
+            "img": "img/99.png",
+            "precio": 74,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#100 Massey",
+            "modelo": "POR",
+            "img": "img/100.png",
+            "precio": 85,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#101 James",
+            "modelo": "DEL",
+            "img": "img/101.png",
+            "precio": 75,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#102 Burnett",
+            "modelo": "DEL",
+            "img": "img/102.png",
+            "precio": 76,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#103 Cain",
+            "modelo": "DEL",
+            "img": "img/103.png",
+            "precio": 77,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#104 Daniel",
+            "modelo": "DEL",
+            "img": "img/104.png",
+            "precio": 78,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#105 Michael",
+            "modelo": "DEL",
+            "img": "img/105.png",
+            "precio": 79,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#106 Blankenship",
+            "modelo": "DEL",
+            "img": "img/106.png",
+            "precio": 80,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#107 Warren",
+            "modelo": "MC",
+            "img": "img/107.png",
+            "precio": 83,
+            "categoria": "clasedecategoria"
+        },
+        {
+            "nombre": "#108 Burton",
+            "modelo": "DEL",
+            "img": "img/108.png",
+            "precio": 82,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#109 Clark",
+            "modelo": "DEF",
+            "img": "img/109.png",
+            "precio": 84,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#110 Wise",
+            "modelo": "DEF",
+            "img": "img/110.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#111 Fitzgerald",
+            "modelo": "DEF",
+            "img": "img/111.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#112 Swanson",
+            "modelo": "DEF",
+            "img": "img/112.png",
+            "precio": 67,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#113 Carter",
+            "modelo": "DEF",
+            "img": "img/113.png",
+            "precio": 66,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#114 Lindsey",
+            "modelo": "DEF",
+            "img": "img/114.png",
+            "precio": 65,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#115 Alvarado",
+            "modelo": "MC",
+            "img": "img/115.png",
+            "precio": 66,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#116 Sanders",
+            "modelo": "MC",
+            "img": "img/116.png",
+            "precio": 67,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#117 Palmer",
+            "modelo": "MC",
+            "img": "img/117.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#118 Lee",
+            "modelo": "MC",
+            "img": "img/118.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#119 Foster",
+            "modelo": "DEL",
+            "img": "img/119.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#120 Gross",
+            "modelo": "DEL",
+            "img": "img/120.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#121 Wright",
+            "modelo": "DEL",
+            "img": "img/121.png",
+            "precio": 67,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#122 Davis",
+            "modelo": "DEL",
+            "img": "img/122.png",
+            "precio": 66,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#123 Meyer",
+            "modelo": "DEL",
+            "img": "img/123.png",
+            "precio": 65,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#124 Pacheco",
+            "modelo": "POR",
+            "img": "img/124.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#125 Boyle",
+            "modelo": "POR",
+            "img": "img/125.png",
+            "precio": 67,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#126 Keller",
+            "modelo": "DEF",
+            "img": "img/126.png",
+            "precio": 88,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#127 Sawyer",
+            "modelo": "DEL",
+            "img": "img/127.png",
+            "precio": 88,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#128 Barron",
+            "modelo": "MC",
+            "img": "img/128.png",
+            "precio": 88,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#129 Robinson",
+            "modelo": "DEF",
+            "img": "img/129.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#130 Ross",
+            "modelo": "DEF",
+            "img": "img/130.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#131 Kaiser",
+            "modelo": "DEF",
+            "img": "img/131.png",
+            "precio": 66,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#132 Ronald",
+            "modelo": "MC",
+            "img": "img/132.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#133 Fox",
+            "modelo": "MC",
+            "img": "img/133.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#134 Herrera",
+            "modelo": "MC",
+            "img": "img/134.png",
+            "precio": 67,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#135 Cole",
+            "modelo": "DEF",
+            "img": "img/135.png",
+            "precio": 67,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#136 Harris",
+            "modelo": "MC",
+            "img": "img/136.png",
+            "precio": 66,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#137 Carpenter",
+            "modelo": "DEL",
+            "img": "img/137.png",
+            "precio": 66,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#138 Wilson",
+            "modelo": "DEL",
+            "img": "img/138.png",
+            "precio": 67,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#139 Chandler",
+            "modelo": "DEL",
+            "img": "img/139.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#140 Powers",
+            "modelo": "DEL",
+            "img": "img/140.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#141 Hernandez",
+            "modelo": "DEF",
+            "img": "img/141.png",
+            "precio": 83,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#142 Gomez",
+            "modelo": "MC",
+            "img": "img/142.png",
+            "precio": 84,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#143 Hebert",
+            "modelo": "DEL",
+            "img": "img/143.png",
+            "precio": 85,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#144 Buchanan",
+            "modelo": "DEL",
+            "img": "img/144.png",
+            "precio": 92,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#145 Reese",
+            "modelo": "MC",
+            "img": "img/145.png",
+            "precio": 93,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#146 Hickman",
+            "modelo": "DEF",
+            "img": "img/146.png",
+            "precio": 94,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#147 Nolan",
+            "modelo": "DEF",
+            "img": "img/147.png",
+            "precio": 77,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#148 Allen",
+            "modelo": "DEF",
+            "img": "img/148.png",
+            "precio": 78,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#149 Barret",
+            "modelo": "MC",
+            "img": "img/149.png",
+            "precio": 78,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#150 Sniper",
+            "modelo": "MC",
+            "img": "img/150.png",
+            "precio": 77,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#151 Pratt",
+            "modelo": "DEL",
+            "img": "img/151.png",
+            "precio": 77,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#152 Ramirez",
+            "modelo": "DEL",
+            "img": "img/152.png",
+            "precio": 78,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#153 Lazaro",
+            "modelo": "DEL",
+            "img": "img/153.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#154 Velazquez",
+            "modelo": "MC",
+            "img": "img/154.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#155 Pace",
+            "modelo": "DEF",
+            "img": "img/155.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#156 Bray",
+            "modelo": "MC",
+            "img": "img/156.png",
+            "precio": 95,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#157 Fuller",
+            "modelo": "POR",
+            "img": "img/157.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#158 Gibson",
+            "modelo": "POR",
+            "img": "img/158.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#159 Cobo ",
+            "modelo": "POR",
+            "img": "img/159.png",
+            "precio": 85,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#160 Aguirre",
+            "modelo": "POR",
+            "img": "img/160.png",
+            "precio": 89,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#161 Navarro",
+            "modelo": "POR",
+            "img": "img/161.png",
+            "precio": 88,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#162 Villena",
+            "modelo": "POR",
+            "img": "img/162.png",
+            "precio": 72,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#163 Carballo",
+            "modelo": "POR",
+            "img": "img/163.png",
+            "precio": 74,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#164 Bonet",
+            "modelo": "POR",
+            "img": "img/164.png",
+            "precio": 76,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#165 Quevedo",
+            "modelo": "POR",
+            "img": "img/165.png",
+            "precio": 78,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#166 Tejedor",
+            "modelo": "POR",
+            "img": "img/166.png",
+            "precio": 79,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#167 Roman",
+            "modelo": "POR",
+            "img": "img/167.png",
+            "precio": 93,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#168 Sandoval",
+            "modelo": "DEF",
+            "img": "img/168.png",
+            "precio": 93,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#169 Velez",
+            "modelo": "DEF",
+            "img": "img/169.png",
+            "precio": 75,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#170 Nieto",
+            "modelo": "DEF",
+            "img": "img/170.png",
+            "precio": 78,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#171 Barrera",
+            "modelo": "MC",
+            "img": "img/171.png",
+            "precio": 79,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#172 Ribera",
+            "modelo": "DEL",
+            "img": "img/172.png",
+            "precio": 76,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#173 Gomis",
+            "modelo": "DEF",
+            "img": "img/173.png",
+            "precio": 84,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#174 Barreda",
+            "modelo": "DEL",
+            "img": "img/174.png",
+            "precio": 83,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#175 Murcia",
+            "modelo": "MC",
+            "img": "img/175.png",
+            "precio": 85,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#176 Torres",
+            "modelo": "DEF",
+            "img": "img/176.png",
+            "precio": 66,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#177 Sobrino",
+            "modelo": "DEL",
+            "img": "img/177.png",
+            "precio": 66,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#178 Enriquez",
+            "modelo": "MC",
+            "img": "img/178.png",
+            "precio": 66,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#179 Baldomero",
+            "modelo": "MC",
+            "img": "img/179.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#180 Fuente",
+            "modelo": "MC",
+            "img": "img/180.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#181 Dominguez",
+            "modelo": "DEL",
+            "img": "img/181.png",
+            "precio": 74,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#182 Reig",
+            "modelo": "MC",
+            "img": "img/182.png",
+            "precio": 67,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#183 Alemany",
+            "modelo": "DEL",
+            "img": "img/183.png",
+            "precio": 67,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#184 Escobar",
+            "modelo": "DEL",
+            "img": "img/184.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#185 Pages",
+            "modelo": "DEL",
+            "img": "img/185.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#186 Echevarria",
+            "modelo": "DEF",
+            "img": "img/186.png",
+            "precio": 67,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#187 Hoyos",
+            "modelo": "DEF",
+            "img": "img/187.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#188 Galvez",
+            "modelo": "DEF",
+            "img": "img/188.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#189 Mateu",
+            "modelo": "DEF",
+            "img": "img/189.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#190 Carbajo",
+            "modelo": "DEF",
+            "img": "img/190.png",
+            "precio": 78,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#191 Landa",
+            "modelo": "DEF",
+            "img": "img/191.png",
+            "precio": 80,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#192 Soler",
+            "modelo": "DEL",
+            "img": "img/192.png",
+            "precio": 80,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#193 Valles",
+            "modelo": "DEL",
+            "img": "img/193.png",
+            "precio": 78,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#194 Ortiz",
+            "modelo": "MC",
+            "img": "img/194.png",
+            "precio": 78,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#195 Arenas",
+            "modelo": "MC",
+            "img": "img/195.png",
+            "precio": 80,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#196 Arbeloa",
+            "modelo": "MC",
+            "img": "img/196.png",
+            "precio": 81,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#197 Atienza",
+            "modelo": "DEF",
+            "img": "img/197.png",
+            "precio": 81,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#198 Ignacio",
+            "modelo": "DEL",
+            "img": "img/198.png",
+            "precio": 81,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#199 Bellido",
+            "modelo": "DEL",
+            "img": "img/199.png",
+            "precio": 91,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#200 Perez",
+            "modelo": "DEF",
+            "img": "img/200.png",
+            "precio": 91,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#201 Tonya",
+            "modelo": "DEF",
+            "img": "img/201.png",
+            "precio": 65,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#202 Cox",
+            "modelo": "DEF",
+            "img": "img/202.png",
+            "precio": 66,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#203 Ortiz",
+            "modelo": "MC",
+            "img": "img/203.png",
+            "precio": 66,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#204 Moody",
+            "modelo": "MC",
+            "img": "img/204.png",
+            "precio": 65,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#205 Ayers",
+            "modelo": "DEL",
+            "img": "img/205.png",
+            "precio": 66,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#206 Beasly",
+            "modelo": "DEL",
+            "img": "img/206.png",
+            "precio": 65,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#207 Novak",
+            "modelo": "DEF",
+            "img": "img/207.png",
+            "precio": 95,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#208 Fuentes",
+            "modelo": "DEF",
+            "img": "img/208.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#209 Edwards",
+            "modelo": "DEL",
+            "img": "img/209.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#210 Booth",
+            "modelo": "MC",
+            "img": "img/210.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#211 Ted",
+            "modelo": "MC",
+            "img": "img/211.png",
+            "precio": 88,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#212 Mccoy",
+            "modelo": "POR",
+            "img": "img/212.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#213 Trevino",
+            "modelo": "POR",
+            "img": "img/213.png",
+            "precio": 70,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#214 Nichols",
+            "modelo": "DEL",
+            "img": "img/214.png",
+            "precio": 85,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#215 Carrol",
+            "modelo": "DEF",
+            "img": "img/215.png",
+            "precio": 88,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#216 Alemdar",
+            "modelo": "DEF",
+            "img": "img/216.png",
+            "precio": 89,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#217 Bayan",
+            "modelo": "DEF",
+            "img": "img/217.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#218 Zorlu",
+            "modelo": "DEL",
+            "img": "img/218.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#219 Egeneur",
+            "modelo": "MC",
+            "img": "img/219.png",
+            "precio": 69,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#220 Nurcan",
+            "modelo": "MC",
+            "img": "img/220.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#221 Evans",
+            "modelo": "MC",
+            "img": "img/221.png",
+            "precio": 95,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#222 Erasland",
+            "modelo": "DEL",
+            "img": "img/222.png",
+            "precio": 94,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#223 Arsoy",
+            "modelo": "DEL",
+            "img": "img/223.png",
+            "precio": 98,
+            "categoria": "Blue"
+        },
+        {
+            "nombre": "#224 Teybet",
+            "modelo": "MC",
+            "img": "img/224.png",
+            "precio": 97,
+            "categoria": "Blue"
+        },
+        {
+            "nombre": "#225 Parker",
+            "modelo": "DEF",
+            "img": "img/225.png",
+            "precio": 98,
+            "categoria": "Blue"
+        },
+        {
+            "nombre": "#226 Cobb",
+            "modelo": "MC",
+            "img": "img/226.png",
+            "precio": 77,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#227 Santana",
+            "modelo": "DEF",
+            "img": "img/227.png",
+            "precio": 77,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#228 Short",
+            "modelo": "DEL",
+            "img": "img/228.png",
+            "precio": 77,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#229 Patel",
+            "modelo": "POR",
+            "img": "img/229.png",
+            "precio": 98,
+            "categoria": "Blue"
+        },
+        {
+            "nombre": "#230 Lopez",
+            "modelo": "POR",
+            "img": "img/230.png",
+            "precio": 85,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#231 Griffin",
+            "modelo": "POR",
+            "img": "img/231.png",
+            "precio": 74,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#232 Hamilton",
+            "modelo": "DEF",
+            "img": "img/232.png",
+            "precio": 74,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#233 Marquez",
+            "modelo": "DEF",
+            "img": "img/233.png",
+            "precio": 82,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#234 Kim",
+            "modelo": "MC",
+            "img": "img/234.png",
+            "precio": 72,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#235 Irwin",
+            "modelo": "MC",
+            "img": "img/235.png",
+            "precio": 70,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#236 Burnet",
+            "modelo": "MC",
+            "img": "img/236.png",
+            "precio": 72,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#237 Goat",
+            "modelo": "DEL",
+            "img": "img/237.png",
+            "precio": 99,
+            "categoria": "Platinum"
+        },
+        {
+            "nombre": "#238 Miles",
+            "modelo": "POR",
+            "img": "img/238.png",
+            "precio": 68,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#239 Gutierrez",
+            "modelo": "POR",
+            "img": "img/239.png",
+            "precio": 67,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#240 Lowery",
+            "modelo": "POR",
+            "img": "img/240.png",
+            "precio": 70,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#241 Tran",
+            "modelo": "POR",
+            "img": "img/241.png",
+            "precio": 65,
+            "categoria": "Bronze"
+        },
+        {
+            "nombre": "#242 Garden",
+            "modelo": "POR",
+            "img": "img/242.png",
+            "precio": 78,
+            "categoria": "Silver"
+        },
+        {
+            "nombre": "#243 Mann",
+            "modelo": "DEL",
+            "img": "img/243.png",
+            "precio": 84,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#244 Maddox",
+            "modelo": "DEF",
+            "img": "img/244.png",
+            "precio": 84,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#245 Farell",
+            "modelo": "MC",
+            "img": "img/245.png",
+            "precio": 87,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#246 Dorsey",
+            "modelo": "DEL",
+            "img": "img/246.png",
+            "precio": 94,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#247 Castillo",
+            "modelo": "MC",
+            "img": "img/247.png",
+            "precio": 91,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#248 Scott",
+            "modelo": "DEF",
+            "img": "img/248.png",
+            "precio": 92,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#249 Long",
+            "modelo": "DEF",
+            "img": "img/249.png",
+            "precio": 96,
+            "categoria": "Blue"
+        },
+        {
+            "nombre": "#250 White",
+            "modelo": "DEL",
+            "img": "img/250.png",
+            "precio": 96,
+            "categoria": "Blue"
+        },
+        {
+            "nombre": "#251 Howe",
+            "modelo": "DEF",
+            "img": "img/251.png",
+            "precio": 94,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#252 Moran",
+            "modelo": "DEL",
+            "img": "img/252.png",
+            "precio": 93,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#253 Sanders",
+            "modelo": "POR",
+            "img": "img/253.png",
+            "precio": 83,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#254 Knight",
+            "modelo": "POR",
+            "img": "img/254.png",
+            "precio": 94,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#255 Sadat",
+            "modelo": "POR",
+            "img": "img/255.png",
+            "precio": 96,
+            "categoria": "Blue"
+        },
+        {
+            "nombre": "#256 Durdu",
+            "modelo": "DEL",
+            "img": "img/256.png",
+            "precio": 89,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#257 Aslan",
+            "modelo": "DEF",
+            "img": "img/257.png",
+            "precio": 87,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#258 Losekan",
+            "modelo": "DEL",
+            "img": "img/258.png",
+            "precio": 80,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#259 Enver",
+            "modelo": "DEL",
+            "img": "img/259.png",
+            "precio": 87,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#260 Ingmar",
+            "modelo": "DEF",
+            "img": "img/260.png",
+            "precio": 84,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#261 Naser",
+            "modelo": "DEF",
+            "img": "img/261.png",
+            "precio": 88,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#262 Trub",
+            "modelo": "MC",
+            "img": "img/262.png",
+            "precio": 89,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#263 Metz",
+            "modelo": "MC",
+            "img": "img/263.png",
+            "precio": 86,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#264 Rogger",
+            "modelo": "POR",
+            "img": "img/264.png",
+            "precio": 82,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#265 Ronald",
+            "modelo": "POR",
+            "img": "img/265.png",
+            "precio": 89,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#266 Faust",
+            "modelo": "MC",
+            "img": "img/266.png",
+            "precio": 92,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#267 Stolze",
+            "modelo": "DEL",
+            "img": "img/267.png",
+            "precio": 81,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#268 Rose",
+            "modelo": "DEL",
+            "img": "img/268.png",
+            "precio": 83,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#269 Martin",
+            "modelo": "DEL",
+            "img": "img/269.png",
+            "precio": 85,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#270 Rust",
+            "modelo": "DEL",
+            "img": "img/270.png",
+            "precio": 88,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#271 Carolin",
+            "modelo": "DEF",
+            "img": "img/271.png",
+            "precio": 88,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#272 Stumpf",
+            "modelo": "DEF",
+            "img": "img/272.png",
+            "precio": 86,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#273 Hoffmann",
+            "modelo": "DEF",
+            "img": "img/273.png",
+            "precio": 84,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#274 Plath",
+            "modelo": "DEF",
+            "img": "img/274.png",
+            "precio": 82,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#275 Ivonne",
+            "modelo": "MC",
+            "img": "img/275.png",
+            "precio": 80,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#276 Speer",
+            "modelo": "MC",
+            "img": "img/276.png",
+            "precio": 82,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#277 Beyer",
+            "modelo": "MC",
+            "img": "img/277.png",
+            "precio": 84,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#278 Kensy",
+            "modelo": "MC",
+            "img": "img/278.png",
+            "precio": 86,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#279 Kuhl",
+            "modelo": "MC",
+            "img": "img/279.png",
+            "precio": 88,
+            "categoria": "Gold"
+        },
+        {
+            "nombre": "#280 Geisler",
+            "modelo": "MC",
+            "img": "img/280.png",
+            "precio": 91,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#281 Vargas",
+            "modelo": "DEF",
+            "img": "img/281.png",
+            "precio": 92,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#282 Infante",
+            "modelo": "DEL",
+            "img": "img/282.png",
+            "precio": 93,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#283 Casals",
+            "modelo": "DEF",
+            "img": "img/283.png",
+            "precio": 94,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#284 Conde",
+            "modelo": "DEL",
+            "img": "img/284.png",
+            "precio": 95,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#285 Galindo",
+            "modelo": "DEF",
+            "img": "img/285.png",
+            "precio": 97,
+            "categoria": "Blue"
+        },
+        {
+            "nombre": "#286 Diego",
+            "modelo": "MC",
+            "img": "img/286.png",
+            "precio": 98,
+            "categoria": "Blue"
+        },
+        {
+            "nombre": "#287 Olmo",
+            "modelo": "DEL",
+            "img": "img/287.png",
+            "precio": 96,
+            "categoria": "Blue"
+        },
+        {
+            "nombre": "#288 Varela",
+            "modelo": "POR",
+            "img": "img/288.png",
+            "precio": 93,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#289 Rojas",
+            "modelo": "DEL",
+            "img": "img/289.png",
+            "precio": 94,
+            "categoria": "Purple"
+        },
+        {
+            "nombre": "#290 Lion",
+            "modelo": "DEL",
+            "img": "img/290.png",
+            "precio": 96,
+            "categoria": "Blue"
+        }
+        
+        
+       
+        
+    ]
+
+}

@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>SHIMMER SOCCER</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:type" content="article" />
+
+  
+  <meta name="author" content="" />
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="og:title" property="og:title" content="" />
+  <meta name="og:description" property="og:description" content="" />
+  <meta name="og:image" property="og:image" content="" />
+  <meta name="twitter:title" content="" />
+  <meta name="twitter:description" content="" />
+  <meta name="twitter:image" content="" />
+  <meta name="twitter:card" content="summary_large_image" />
+    <!-- Tailwind CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Pazly Colors -->
+    <link rel="stylesheet" href="https://pazly.dev/colors/gradients.css" />
+    <link rel="stylesheet" href="https://pazly.dev/colors/backgrounds.css" />
+    <link rel="stylesheet" href="https://pazly.dev/colors/text.css" />
+    <link rel="stylesheet" href="https://pazly.dev/colors/border.css" />
+    <style>
+    body { overflow-x: hidden; }
+    h1, h2, h3, h4, h5, h6 { line-height:1.3 !important; }
+    .stretchToScreen { width:100vw; height:100vh; }
+    </style>
+
+    <!-- Fontswesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+    
+</head>
+
+
+
+    <div id="leyenda">
+            <p class="tituloleyenda">
+                Legend
+            </p>
+                
+            <p class="leyendabronze" data-category="bronze">
+                65 --> 70 🥉
+            </p>
+
+            <p class="leyendasilver" data-category="silver">
+                71 --> 79 🥈
+            </p>
+
+            <p class="leyendagold" data-category="gold">
+                80 --> 89 🥇
+            </p>
+
+            <p class="leyendapurple" data-category="purple">
+                90 --> 95 🟣
+            </p>
+
+            <p class="leyendablue" data-category="blue">
+                96 --> 98 🔵
+            </p>
+
+            <p class="leyendaplatinum" data-category="platinum">
+                99 💎
+            </p>
+    </div>
+
+
+    <div id="miembros">
+            <p class="tituloleyenda">
+             ⚽️Early Investors⚽️
+            </p>
+                
+            <p>
+                Ruben
+            </p>
+
+            <p>
+                Tomstrug
+            </p>
+
+            <p>
+                Chobby
+            </p>
+
+            <p>
+                Zizou
+            </p>
+
+            <p>
+                Ice
+            </p>
+
+            <p>
+                D3r_schosh
+            </p>
+
+            <p>
+                Relaxo
+            </p>
+
+            <p>
+                Fritzflohmarkt
+            </p>
+
+            <p>
+                November man
+            </p>
+
+            <p>
+                Shimmerbull
+            </p>
+
+            <p>
+                Rindakebere
+            </p>
+
+            <p>
+                Punikus
+            </p>
+
+            <p>
+                Rudrasavior
+            </p>
+
+            <p>
+                Segagaga
+            </p>
+
+            <p>
+                Pikachu
+            </p>
+
+            <p>
+                Iotaguru
+            </p>
+            
+    </div>
+
+
+
+
+        <body style="font-family: Kanit, sans-serif;">
+            <header style="position: fixed;">
+                
+                <div class="background"></div>
+        <div class="logo">
+            
+        </div>
+       
+            </header>
+            <nav>
+                <ul  style="margin-top: 0.25%; margin-left: 35%;">
+                    <li style="background-color:#ebf0f3;"><a href="https://soonaverse.com/space/0xd39143c03a1dcd8aecd665be69ee71eb9ef04cf2/overview" style="color:black;">Soonaverse</a></li>
+                    <li style="background-color: #5865F2;"><a href="https://discord.com/invite/2Y7EhaA4MW">Discord</a></li>
+                    <li  style="background-color: #1DA1F2;"><a href="https://twitter.com/ShimmerSoccer">Twitter</a></li>
+                    <button class="wallet-btn btn" id="connectWallet">MetaMask</button>
+                    
+                </ul>
+                
+            </nav>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <main>
+                    
+            </section>
+
+            <div id="cuadrobajobanner" style="border: 1px solid black; padding: 1px; background-color: rgba(0, 0, 0, 0.5); border-radius: 10px;">
+                <div class="search-container">
+                <!-- Filtro por modelo -->
+            <select id="filtro-modelo">
+                <option value="">All Cards</option>
+                <option value="DEL">DEL</option>
+                <option value="MC">MC</option>
+                <option value="DEF">DEF</option>
+                <option value="POR">POR</option>
+                
+            </select>
+
+            
+            <!-- Filtro por categoria -->
+            <select id="filtro-categoria">
+                <option value="">All categories</option>
+                <option value="Bronze">Bronze</option>
+                <option value="Silver">Silver</option>
+                <option value="Gold">Gold</option>
+                <option value="Purple">Purple</option>
+                <option value="Blue">Blue</option>
+                <option value="Platinum">Platinum</option>
+            </select>
+            
+            <!-- Filtro por Trainer -->
+            <button id="boton-trainers">Trainers</button>
+
+                
+                
+            </select>
+
+            <section id="trainers">
+                <!-- aquí van los entrenadores -->
+              </section>
+
+            <section id="bicicletas">
+                <form id="search-form">
+                    <input type="text" id="search-input" placeholder="Search by name..."autocomplete="off">
+                    <button type="submit" class="search-button">Search</button>
+                    
+                </form>
+            </div>
+            </div>
+
+                    <div id="search-results"></div>
+                    <div id="bicicletas-contenedor"></div>
+                </section>
+            
+            </main>
+            <footer>
+                <p>Copyright © 2021 Bicycle Rentals</p>
+            </footer>
+            <script src="main.js"></script>
+            
+
+
+            <!--//scripts vinculacion archivos para metamask -->
+
+            <script src="https://cdn.jsdelivr.net/npm/@metamask/onboarding@1.0.1/dist/metamask-onboarding.bundle.js"></script>
+            <script src="js/countdown.js"></script>
+            <script src="js/app.js"></script>
+
+            
+
+    </body>
+    
+</html>
