@@ -19,6 +19,7 @@ header {
   color: rgb(233, 226, 226);
   text-align: center;
   padding: 10px;
+  position: fixed;
 }
 
 nav {
@@ -71,13 +72,52 @@ footer {
   background-color: rgba(0, 0, 0, 0.621);
   border-radius: 15px;
   position: fixed;
-  width: 12vw;
+  width: auto;
   height: auto;
   margin-top: 25%;
-  margin-left: 25px;
+  margin-left: 0.5%;
   font-size: 1.3em; /* equivalente a 22.5px */
   z-index: -2;
 }
+
+/* Tamaño de pantalla 1148px */
+@media screen and (max-width: 1148px) {
+  #leyenda {
+    width: auto; 
+    margin-left: 0.5%; 
+    font-size: 1.4em; 
+  }
+}
+
+/* Tamaño de pantalla 912px */
+@media screen and (max-width: 1024px) {
+  #leyenda {
+    width: auto; 
+    margin-left: 0.5%; 
+    font-size: 1.4em; 
+  }
+}
+
+/* Tamaño de pantalla 768px */
+@media screen and (max-width: 768px) {
+  #leyenda {
+    width: auto; 
+    margin-left: 0.5%; 
+    font-size: 1.4em; 
+  }
+}
+
+/* Tamaño de pantalla 612px */
+@media screen and (max-width: 612px) {
+  #leyenda {
+    width: auto; 
+    margin-left: 1.5%; 
+    font-size: 1.25em; 
+  }
+}
+
+
+
 .tituloleyenda {
   font-family: Kanit, sans-serif;
   text-align: center;
@@ -132,7 +172,7 @@ footer {
   border: 1px solid rgba(255, 255, 255, 0);
   color: rgba(255, 255, 255, 0.664);
   padding: 1px 20px;
-  margin-right: auto;
+  
 }
 
 .filtro-modelo {
@@ -172,10 +212,44 @@ footer {
   grid-template-columns: repeat(5, 1fr);
   grid-gap: 25px;
   margin-top: 70px;
-  width: 115%;
-  margin-left: -8%;
-  border: #000;
-  
+  width: 110%;
+  margin-left: -5%;
+  margin-right: auto;
+}
+
+@media screen and (max-width: 1148px) {
+  #bicicletas-contenedor {
+    grid-template-columns: repeat(4, 1fr); /* Reduce a 3 columnas */
+    margin-left: 10%;
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  #bicicletas-contenedor {
+    grid-template-columns: repeat(3, 1fr); /* Reduce a 3 columnas */
+    grid-gap: auto;
+    margin-left: 20%;
+    margin-right: auto;
+    width: 65%;
+    
+  }
+}
+
+@media screen and (max-width: 812px) {
+  #bicicletas-contenedor {
+    grid-template-columns: repeat(2, 1fr); /* Reduce a 3 columnas */
+    margin-left: 32.5%;
+    margin-right: auto;
+    width: 10%;
+  }
+}
+
+@media screen and (max-width: 612px) {
+  #bicicletas-contenedor {
+    grid-template-columns: repeat(1, 1fr); /* Reduce a 2 columnas */
+    margin-left: 40%;
+  }
 }
 
 
@@ -193,14 +267,11 @@ footer {
   border: 2px solid white;
   border-radius: 20px;
   color: white;
-  padding: 10px 20px;
-  margin-left: auto;
 }
 
 .search-container {
   border-radius: 10px;
   display: flex;
-  justify-content: flex-end;
   padding: 10px;
 }
 
@@ -214,8 +285,8 @@ footer {
   border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0);
   color: rgba(255, 255, 255, 0.664);
-  padding: 1px 10px;
-  margin-left: -2%;
+  
+
 }
 
 .search-input {
@@ -288,14 +359,55 @@ body {
 }
 
 .bicicleta {
-  line-height: 99;
+  line-height: 1; /* Por lo general, line-height se maneja con valores sin unidad */
   border: 1px solid black;
-  padding: 1px;
+  padding: 1%; /* Usar porcentaje en lugar de píxeles para el padding hace que se adapte al tamaño del contenedor */
   background-color: rgba(0, 0, 0, 0.5);
   border-radius: 10px;
   transition: all 0.20s ease-in-out;
-  width: 105%;
+  width: 100%; /* Cambiado de 105% a 100% para evitar el desbordamiento */
+  box-sizing: border-box; /* Esta propiedad incluye el padding y el border en el tamaño del elemento, evitando problemas de desbordamiento */
+  margin-left: 30%;
+  margin-right: 150%;
 }
+
+@media screen and (max-width: 1148px) {
+  .bicicleta {
+    border-radius: 7px; 
+    margin-left: 25%;
+    margin-right: 150%;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .bicicleta {
+    border-radius: 7px; 
+    margin-right: auto;
+    width: 100%;
+    
+  }
+}
+
+/* Borde redondeado más pequeño para pantallas de tamaño medio */
+@media screen and (max-width: 812px) {
+  .bicicleta {
+    border-radius: 7px; 
+
+    margin-right: auto;
+    width: 100%;
+  }
+}
+
+/* Borde redondeado aún más pequeño para pantallas pequeñas */
+@media screen and (max-width: 612px) {
+  .bicicleta {
+    border-radius: 5px;
+    margin-left: 60%;
+    width: 140%;
+  }
+}
+
 
 .bicicleta:hover {
   transform: scale(1.1);
@@ -459,7 +571,46 @@ nav {
 #cuadrobajobanner {
   margin-top: 1%;
   z-index: 1;
+  width: 95%;
+  border: 1px solid black;
+  padding: 1px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  display: flex;
+  padding: 10px;
+  margin-left: 8.5%;
 }
+
+@media only screen and (max-width: 1148px) {
+  #cuadrobajobanner {
+    /* Estilos específicos para pantallas con un ancho de hasta 1148px */
+    margin-left: 15%;
+    font-size: 0.80em;
+    width: 85%;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  #cuadrobajobanner {
+    /* Estilos específicos para pantallas con un ancho de hasta 1024px */
+    font-size: 0.70em;
+    width: 76.5%;
+    margin-left: 20%;
+  }
+}
+
+@media only screen and (max-width: 812px) {
+  #cuadrobajobanner {
+    /* Estilos específicos para pantallas con un ancho de hasta 812px */
+  }
+}
+
+@media only screen and (max-width: 612px) {
+  #cuadrobajobanner {
+    /* Estilos específicos para pantallas con un ancho de hasta 612px */
+  }
+}
+
 
 li {
   font-size:15px;
