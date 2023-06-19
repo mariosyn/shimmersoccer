@@ -11,9 +11,6 @@ body {
   src: url('fonts/kanit/Kanit-ExtraLight.ttf') format('truetype');
 }
 
-
-
-
 header {
   background-color: #060706;
   color: rgb(233, 226, 226);
@@ -23,24 +20,22 @@ header {
 }
 
 nav {
-  background-color: #040704;
-  text-align: center;
-}
-
-nav {
   list-style-type: none;
   background-color: #040704;
   margin: 0;
   padding: 0;
-
-
-  
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  height: 60px;
+  margin-top: 4.8%;
+  z-index: 2;
 }
+
 
 nav li {
   display: inline-block;
   margin-right: 10px;
-  
 }
 
 nav a {
@@ -76,11 +71,10 @@ footer {
   height: auto;
   margin-top: 25%;
   margin-left: 0.5%;
-  font-size: 1.3em; /* equivalente a 22.5px */
+  font-size: 1.3em;
   z-index: -2;
 }
 
-/* Tamaño de pantalla 1148px */
 @media screen and (max-width: 1148px) {
   #leyenda {
     width: auto; 
@@ -89,7 +83,6 @@ footer {
   }
 }
 
-/* Tamaño de pantalla 912px */
 @media screen and (max-width: 1024px) {
   #leyenda {
     width: auto; 
@@ -98,7 +91,6 @@ footer {
   }
 }
 
-/* Tamaño de pantalla 768px */
 @media screen and (max-width: 768px) {
   #leyenda {
     width: auto; 
@@ -107,7 +99,6 @@ footer {
   }
 }
 
-/* Tamaño de pantalla 612px */
 @media screen and (max-width: 612px) {
   #leyenda {
     width: auto; 
@@ -219,7 +210,7 @@ footer {
 
 @media screen and (max-width: 1148px) {
   #bicicletas-contenedor {
-    grid-template-columns: repeat(4, 1fr); /* Reduce a 3 columnas */
+    grid-template-columns: repeat(4, 1fr);
     margin-left: 10%;
     width: 85%;
   }
@@ -227,7 +218,7 @@ footer {
 
 @media screen and (max-width: 1024px) {
   #bicicletas-contenedor {
-    grid-template-columns: repeat(3, 1fr); /* Reduce a 3 columnas */
+    grid-template-columns: repeat(3, 1fr);
     grid-gap: auto;
     margin-left: 20%;
     margin-right: auto;
@@ -238,7 +229,7 @@ footer {
 
 @media screen and (max-width: 812px) {
   #bicicletas-contenedor {
-    grid-template-columns: repeat(2, 1fr); /* Reduce a 3 columnas */
+    grid-template-columns: repeat(2, 1fr);
     margin-left: 32.5%;
     margin-right: auto;
     width: 10%;
@@ -247,7 +238,7 @@ footer {
 
 @media screen and (max-width: 612px) {
   #bicicletas-contenedor {
-    grid-template-columns: repeat(1, 1fr); /* Reduce a 2 columnas */
+    grid-template-columns: repeat(1, 1fr);
     margin-left: 40%;
   }
 }
@@ -320,56 +311,23 @@ footer {
   height: 200px;
   object-fit: cover;
   transition: transform 0.3s;
-  animation: brillo 10s linear infinite;
-}
-
-/*@keyframes brillo{
-  0% {
-    
-    filter: brightness(1.2) saturate(1.5) contrast(1.2) drop-shadow(0 0 10px rgba(255, 213, 0, 0.832));
-  }
-  50% {
-    
-    filter: brightness(1.4) saturate(2) contrast(1.4) drop-shadow(0 0 20px rgba(255, 213, 0, 0.832));
-  }
-  100% {
-    
-    filter: brightness(1.2) saturate(1.5) contrast(1.2) drop-shadow(0 0 10px rgba(255, 213, 0, 0.832));
-  }
-}
-
-@keyframes brillo-silver{
-  0% {
-    
-    filter: brightness(1.2) saturate(1.5) contrast(1.2) drop-shadow(0 0 10px rgba(221, 0, 255, 0.832));
-  }
-  50% {
-    
-    filter: brightness(1.4) saturate(2) contrast(1.4) drop-shadow(0 0 20px rgba(221, 0, 255, 0.832));
-  }
-  100% {
-    
-    filter: brightness(1.2) saturate(1.5) contrast(1.2) drop-shadow(0 0 10px rgba(221, 0, 255, 0.832));
-  }
-}
-*/
-
-body {
-  background-color: black;
 }
 
 .bicicleta {
-  line-height: 1; /* Por lo general, line-height se maneja con valores sin unidad */
-  border: 1px solid black;
-  padding: 1%; /* Usar porcentaje en lugar de píxeles para el padding hace que se adapte al tamaño del contenedor */
+  line-height: 1;
+  border: 2.5px solid white;
+  padding: 1%;
   background-color: rgba(0, 0, 0, 0.5);
   border-radius: 10px;
   transition: all 0.20s ease-in-out;
-  width: 100%; /* Cambiado de 105% a 100% para evitar el desbordamiento */
-  box-sizing: border-box; /* Esta propiedad incluye el padding y el border en el tamaño del elemento, evitando problemas de desbordamiento */
+  width: 100%;
+  box-sizing: border-box;
   margin-left: 30%;
   margin-right: 150%;
+  position: relative;
+  overflow: hidden; /* añadir esta línea */
 }
+
 
 @media screen and (max-width: 1148px) {
   .bicicleta {
@@ -389,7 +347,6 @@ body {
   }
 }
 
-/* Borde redondeado más pequeño para pantallas de tamaño medio */
 @media screen and (max-width: 812px) {
   .bicicleta {
     border-radius: 7px; 
@@ -399,7 +356,6 @@ body {
   }
 }
 
-/* Borde redondeado aún más pequeño para pantallas pequeñas */
 @media screen and (max-width: 612px) {
   .bicicleta {
     border-radius: 5px;
@@ -457,55 +413,6 @@ header .slogan p {
   letter-spacing: 2px;
 }
 
-
-
-
-/*
-
-.bicicleta {
-  position: relative;
-  width: 200px;
-  height: 200px;
-  overflow: hidden;
-}
-
-.bicicleta img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.bicicleta .humo {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  z-index: -1;
-  background: radial-gradient(ellipse at center, rgba(255, 255, 255, 0.3) 0%, rgba(0, 0, 0, 0.8) 80%);
-  animation: humo 5s ease-in-out infinite;
-}
-
-@keyframes humo {
-  0% {
-    opacity: 0.3;
-    transform: scale(1);
-  }
-  50% {
-    opacity: 0.6;
-    transform: scale(1.5);
-  }
-  100% {
-    opacity: 0.3;
-    transform: scale(1);
-  }
-}
-
-*/
 .result-container {
     margin-top: 15px;
     margin-left: 11.8%;
@@ -535,7 +442,7 @@ header .slogan p {
       margin-bottom: 25px;
   }
   .tituloleyenda {
-    font-size: 0.9em; /* Cambiar el valor a uno más pequeño si es necesario */
+    font-size: 0.9em;
   }
 
 
@@ -557,17 +464,6 @@ header .slogan p {
 
 }
 
-
-nav {
-  position: fixed;
-  text-align: center;
-  width: 100%;
-  height: 60px;
-  margin-top: 4.8%;
-  z-index: 2;
-}
-
-
 #cuadrobajobanner {
   margin-top: 1%;
   z-index: 1;
@@ -583,7 +479,6 @@ nav {
 
 @media only screen and (max-width: 1148px) {
   #cuadrobajobanner {
-    /* Estilos específicos para pantallas con un ancho de hasta 1148px */
     margin-left: 15%;
     font-size: 0.80em;
     width: 85%;
@@ -592,7 +487,6 @@ nav {
 
 @media only screen and (max-width: 1024px) {
   #cuadrobajobanner {
-    /* Estilos específicos para pantallas con un ancho de hasta 1024px */
     font-size: 0.70em;
     width: 76.5%;
     margin-left: 20%;
@@ -601,13 +495,11 @@ nav {
 
 @media only screen and (max-width: 812px) {
   #cuadrobajobanner {
-    /* Estilos específicos para pantallas con un ancho de hasta 812px */
   }
 }
 
 @media only screen and (max-width: 612px) {
   #cuadrobajobanner {
-    /* Estilos específicos para pantallas con un ancho de hasta 612px */
   }
 }
 
@@ -669,5 +561,311 @@ ul {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+.bicicleta::before {
+  content: "";
+  position: absolute;
+  top: -10%;
+  left: -50%;
+  height: 50rem; /* disminuir el valor de la altura */
+  transform: rotate(-45deg);
+  box-shadow: 0 0 30px 10px #ffffff50; /* aumentar la opacidad y disminuir la propagación y el difuminado */
+  transition: .7s all;
+}
+
+
+
+.bicicleta:hover::before{
+  top: -50%;
+  left: 150%;
+}
+
+
+
+.bicicleta::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  transition: opacity 1.5s;
+  opacity: 0;
+  z-index: 1;
+}
+
+.bicicleta:hover::after {
+  opacity: 1;
+  background-color: #0000008c;
+  z-index: -1;
+  border-radius: 10px;
+  border: 2.5px solid white;
+  width: 102.25%;
+  height: 100.9%;
+  margin-left: -1.5px;
+  margin-top: -1.5px;
+}
+
+.bicicleta:hover img {
+  opacity: 0;
+} 
+
+.bicicleta h3, .bicicleta p {
+  position: relative;
+  z-index: 0;
+}
+
+.bicicleta h3, .bicicleta p, .bicicleta img {
+  transition: opacity 1s;
+  opacity: 1;
+}
+
+.bicicleta:hover h3, .bicicleta:hover p, .bicicleta:hover a, .bicicleta:hover img {
+  opacity: 0;
+}
+
+
+
+.bicicleta h4 {
+  transition: opacity 1.5s ease-in-out;
+  transition-delay: 0.5s;
+  opacity: 0;
+  font-size: 0px;
+  height: 0px;
+  width: 0px;
+
+}
+
+.bicicleta:hover h4 {
+  opacity: 1;
+  color: white;
+  font-size: 12px;
+  position: absolute;
+  margin-top: -310px;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: justify;
+  height: auto;
+  width: auto;
+}
+
+
+h5-inferno, h5-celestial, h5-quantum, h5-arcane, h5-technomancer, h5-titan {
+  font-size: 27px;
+  visibility: hidden;
+  /*font-family: 'Nebula'7*/;
+  font-family: 'Exo';
+  
+}
+
+.bicicleta:hover h5-inferno, h5-celestial, h5-quantum, h5-arcane, h5-technomancer, h5-titan {
+  visibility:visible;
+  color: rgba(0, 0, 0, 0);
+}
+
+
+
+.bicicleta:hover h5-inferno {
+  color: rgb(211, 142, 100);
+  text-shadow:
+  0 0 5px #ff0000, /* color de las llamas o neón */
+  0 0 10px #ff0000, /* color de las llamas o neón */
+  0 0 15px #ff0000, /* color de las llamas o neón */
+  0 0 20px #ff0000, /* color de las llamas o neón */
+  0 0 30px #ff0000, /* color de las llamas o neón */
+  0 0 40px #ff0000; /* color de las llamas o neón */
+  opacity: 1;
+}
+
+.bicicleta:hover h5-celestial {
+  color: rgb(116, 191, 206);
+  text-shadow:
+  0 0 5px rgba(116, 191, 206, 0.7),
+  0 0 10px rgba(116, 191, 206, 0.7),
+  0 0 15px rgba(116, 191, 206, 0.7),
+  0 0 20px rgba(116, 191, 206, 0.7),
+  0 0 30px rgba(116, 191, 206, 0.7),
+  0 0 40px rgba(116, 191, 206, 0.7);
+  opacity: 1;
+}
+
+.bicicleta:hover h5-quantum {
+  color: rgb(113, 0, 212);
+  text-shadow:
+  0 0 5px rgba(113, 0, 212, 0.7),
+  0 0 10px rgba(113, 0, 212, 0.7),
+  0 0 15px rgba(113, 0, 212, 0.7),
+  0 0 20px rgba(113, 0, 212, 0.7),
+  0 0 30px rgba(113, 0, 212, 0.7),
+  0 0 40px rgba(113, 0, 212, 0.7);
+  opacity: 1;
+}
+
+.bicicleta:hover h5-arcane {
+  color: rgb(165, 157, 0);
+  text-shadow:
+    0 0 5px rgba(165, 157, 0, 0.7),
+    0 0 10px rgba(165, 157, 0, 0.7),
+    0 0 15px rgba(165, 157, 0, 0.7),
+    0 0 20px rgba(165, 157, 0, 0.7),
+    0 0 30px rgba(165, 157, 0, 0.7),
+    0 0 40px rgba(165, 157, 0, 0.7);
+  opacity: 1;
+}
+
+
+
+
+.bicicleta:hover h5-technomancer {
+  color: rgb(62, 238, 18);
+  text-shadow:
+    0 0 5px rgba(62, 238, 18, 0.7),
+    0 0 10px rgba(62, 238, 18, 0.7),
+    0 0 15px rgba(62, 238, 18, 0.7),
+    0 0 20px rgba(62, 238, 18, 0.7),
+    0 0 30px rgba(62, 238, 18, 0.7),
+    0 0 40px rgba(62, 238, 18, 0.7);
+  opacity: 1;
+}
+
+
+.bicicleta:hover h5-titan {
+  color: rgb(97, 91, 82);
+  text-shadow:
+    0 0 5px #5f5b52,  /* color del brillo */
+    0 0 10px #5f5b52, /* color del brillo */
+    0 0 15px #5f5b52, /* color del brillo */
+    0 0 20px #5f5b52, /* color del brillo */
+    0 0 30px #5f5b52, /* color del brillo */
+    0 0 40px #5f5b52; /* color del brillo */
+  opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+/* only animate if the device supports hover */
+@media (hover: hover) {
+  #creditcard {
+    /*  set start position */
+    transform: translateY(110px);
+    transition: transform 0.1s ease-in-out;
+    /*  set transition for mouse enter & exit */
+  }
+
+  #money {
+    /*  set start position */
+    transform: translateY(180px);
+    transition: transform 0.1s ease-in-out;
+    /*  set transition for mouse enter & exit */
+  }
+
+  button:hover #creditcard {
+    transform: translateY(0px);
+    transition: transform 0.2s ease-in-out;
+    /*  overide transition for mouse enter */
+  }
+
+  button:hover #money {
+    transform: translateY(0px);
+    transition: transform 0.3s ease-in-out;
+    /*  overide transition for mouse enter */
+  }
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-0.25rem);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.button:hover .button__text span {
+  transform: translateY(-0.25rem);
+  transition: transform .2s ease-in-out;
+}
+
+/* styling */
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap");
+
+
+
+.button {
+  border: none;
+  outline: none;
+  background-color: purple;
+  padding: 1rem 90px 1rem 2rem;
+  position: relative;
+  border-radius: 8px;
+  letter-spacing: 0.7px;
+  background-color: #5086bd;
+  color: #fff;
+  font-size: 21px;
+  font-family: "Lato", sans-serif;
+  cursor: pointer;
+  box-shadow: rgba(0, 9, 61, 0.2) 0px 4px 8px 0px;
+  scale: 0.5;
+}
+
+.button:active {
+  transform: translateY(1px);
+}
+
+.button__svg {
+  position: absolute;
+  overflow: visible;
+  bottom: 6px;
+  right: 0.2rem;
+  height: 140%;
+}
+
+/*---------------boton cartera-----------*/
+
+.divboton {
+  width: 250px;
+  margin-left: -20%;
+  margin-top: -30%;
+}
+
+.bicicleta:not(:hover) .divboton {
+  transition: opacity 0s;
+  opacity: 0;
+  z-index: -2;
+}
+
+.bicicleta:hover .divboton {
+  transition: opacity 1.5s ease-in-out;
+  transition-delay: 1s;
+  opacity: 1;
+  z-index: 10;
+}
+
+
+
+/*------------------------------------------------------------------*/
 
 
