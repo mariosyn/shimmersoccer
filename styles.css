@@ -1,9 +1,15 @@
+
+
 body {
   font-family: Kanit, sans-serif;
   background-image: url('img/def1.png');
-  background-size: contain;
-  margin: 10;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
   padding: 0;
+  height: 100%;
 }
 
 @font-face {
@@ -11,41 +17,114 @@ body {
   src: url('fonts/kanit/Kanit-ExtraLight.ttf') format('truetype');
 }
 
-header {
-  background-color: #060706;
-  color: rgb(233, 226, 226);
-  text-align: center;
-  padding: 10px;
-  position: fixed;
+.imgheader {
+  height: 90%;
+  width: 125%;
 }
+
+header {
+  background-image: url("img/newbanner.png");
+  margin-top: -35vh;
+  height: 50vh;
+  width: auto;
+  position: static;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  background-clip: content-box; /* Añadido para ajustar la imagen de fondo a la caja de contenido */
+  padding: 0; /* Asegurarse de que no haya relleno */
+  border: none; /* Asegurarse de que no haya borde */
+  z-index: 2;
+}
+
+@media screen and (max-width: 2425px) {
+  header {
+    margin-top: -32.5vh;
+  }
+}
+
+@media screen and (max-width: 1800px) {
+  header {
+    margin-top: -31vh;
+  }
+}
+
+@media screen and (max-width: 1448px) {
+  header {
+    margin-top: -29vh;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  header {
+    margin-top: -28vh;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    margin-top: -27vh;
+  }
+}
+
+@media screen and (max-width: 612px) {
+  header {
+
+  }
+}
+
+
 
 nav {
   list-style-type: none;
   background-color: #040704;
   margin: 0;
   padding: 0;
-  position: fixed;
+  position: absolute;
   text-align: center;
   width: 100%;
-  height: 60px;
-  margin-top: 4.8%;
+  height: 7.5vh; /* Cambiado a vh */
+  top: 9.5vh; /* Cambiado de margin-top a top y a vh */
   z-index: 2;
+  overflow-x: auto; /* Cambiado de initial a auto */
+  display: inline-block;
 }
+
 
 
 nav li {
   display: inline-block;
+  margin-top: 0%;
   margin-right: 10px;
 }
 
+
 nav a {
   color: rgba(255, 255, 255, 0.692);
-  text-decoration: none;
-  padding: 10px;
+
+}
+
+#connectWallet {
+  font-size:20px;
+  background-color: rgb(255, 145, 0);
+  color: white;
+  border: solid 1px white;
+  border-radius: 10px;
+  height: 6.25vh;
+  width: 15%;
+  margin-top: 0%;
+  margin-left: auto;
+  margin-right: 15%;
+  position: static;
+  font-weight: bold;
+  line-height: 0.8;
+  right: 10%;
+
 }
 
 main {
-  margin: 0 auto;
+  margin-top: -9em !important;
+  margin: auto;
   max-width: 800px;
 }
 
@@ -61,6 +140,82 @@ footer {
   padding: 10px;
 }
 
+#tipos {
+  border: 1px solid white;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.621);
+  border-radius: 15px;
+  position: fixed;
+  width: 14%;
+  height: auto;
+  top: 57.5%;
+  margin-left: 0.5%;
+  font-size: 1.3em;
+  z-index: -2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+@media screen and (max-width: 1148px) {
+  #tipos {
+    width: auto; 
+    margin-left: 0.5%; 
+    font-size: 1.4em; 
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  #tipos {
+    width: auto; 
+    margin-left: 0.5%; 
+    font-size: 1.4em; 
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #tipos {
+    width: auto; 
+    margin-left: 0.5%; 
+    font-size: 1.4em;
+  }
+}
+
+@media screen and (max-width: 612px) {
+  #tipos {
+    width: auto; 
+    margin-left: 1.5%; 
+    font-size: 1.25em; 
+  }
+}
+
+
+.titulotipos {
+  font-family: Kanit, sans-serif;
+  margin-left: 75%;
+  color: white;
+  margin-bottom: 10px; /* Reduce este valor según tus necesidades */
+}
+
+#tipos p {
+  color: white;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px; /* Reduce este valor según tus necesidades */
+  font-size: 15px;
+}
+
+#tipos img {
+  height: 30px; /* Reduce este valor para hacer las imágenes más pequeñas */
+  width: auto;
+}
+
+
+
+
 #leyenda {
   border: 1px solid white;
   padding: 10px;
@@ -69,7 +224,7 @@ footer {
   position: fixed;
   width: auto;
   height: auto;
-  margin-top: 25%;
+  top: 20%;
   margin-left: 0.5%;
   font-size: 1.3em;
   z-index: -2;
@@ -212,8 +367,7 @@ footer {
   #bicicletas-contenedor {
     grid-template-columns: repeat(4, 1fr);
     margin-left: 10%;
-    width: 85%;
-  }
+    width: 750px;  }
 }
 
 @media screen and (max-width: 1024px) {
@@ -222,8 +376,7 @@ footer {
     grid-gap: auto;
     margin-left: 20%;
     margin-right: auto;
-    width: 65%;
-    
+    width: 550px;    
   }
 }
 
@@ -232,14 +385,23 @@ footer {
     grid-template-columns: repeat(2, 1fr);
     margin-left: 32.5%;
     margin-right: auto;
-    width: 10%;
+    width: 350px;
   }
 }
 
 @media screen and (max-width: 612px) {
   #bicicletas-contenedor {
     grid-template-columns: repeat(1, 1fr);
-    margin-left: 40%;
+    margin-left: 50%;
+    width: 110px;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  #bicicletas-contenedor {
+    grid-template-columns: repeat(1, 1fr);
+    margin-left: 50%;
+    width: 150px;
   }
 }
 
@@ -303,7 +465,7 @@ footer {
 }
 
 .bicicleta h3 {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .bicicleta img {
@@ -315,7 +477,7 @@ footer {
 
 .bicicleta {
   line-height: 1;
-  border: 2.5px solid white;
+  border: 2px solid white;
   padding: 1%;
   background-color: rgba(0, 0, 0, 0.5);
   border-radius: 10px;
@@ -325,7 +487,7 @@ footer {
   margin-left: 30%;
   margin-right: 150%;
   position: relative;
-  overflow: hidden; /* añadir esta línea */
+  overflow: hidden;
 }
 
 
@@ -364,6 +526,21 @@ footer {
   }
 }
 
+@media screen and (max-width: 480px) {
+  .bicicleta {
+    border-radius: 5px;
+    margin-left: 40%;
+    width: 150%;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .bicicleta {
+    border-radius: 5px;
+    margin-left: 5%;
+    width: 115%;
+  }
+}
 
 .bicicleta:hover {
   transform: scale(1.1);
@@ -372,42 +549,27 @@ footer {
 
 
 
-header .slogan h1 {
+.slogan h1 {
   font-size: 48px;
   margin-bottom: 20px;
   text-shadow: 2px 2px #000;
 }
 
-header .slogan p {
-  font-size: 24px;
-  margin-bottom: 40px;
-}
 
-header {
-  background-image: url("img/newbanner.png");
-  height: 20%;
-  margin-top: -5%;
-  width: 100%;
-  object-fit:cover;
-  background-size: 140%;
-  background-repeat: no-repeat;
-  background-position: center center;
-  z-index: 2;
-  background-size: cover;
-  background-size: 140%;
-}
 
-header .background {
+
+
+.background {
   background-color: rgba(0, 0, 0, 0.6);
 }
 
-header .slogan h1 {
+.slogan h1 {
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
   letter-spacing: 4px;
 }
 
-header .slogan p {
+.slogan p {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   letter-spacing: 2px;
@@ -446,26 +608,11 @@ header .slogan p {
   }
 
 
-#connectWallet {
-  font-size:25px;
-  background-color: rgb(255, 145, 0);
-  color: white;
-  border: solid 1px white;
-  border-radius: 10px;
-  height: 50px;
-  width: 150px;
-  margin-top: 0%;
-  margin-left: auto;
-  margin-right: 15%;
-  position: static;
-  font-weight: bold;
-  line-height: 0.8;
-  right: 10%;
 
-}
 
 #cuadrobajobanner {
-  margin-top: 1%;
+  margin-top: 10%;
+  margin-left: 5.5%;
   z-index: 1;
   width: 95%;
   border: 1px solid black;
@@ -473,9 +620,11 @@ header .slogan p {
   background-color: rgba(0, 0, 0, 0.5);
   border-radius: 10px;
   display: flex;
+  flex-wrap: nowrap;
   padding: 10px;
-  margin-left: 8.5%;
+
 }
+
 
 @media only screen and (max-width: 1148px) {
   #cuadrobajobanner {
@@ -495,14 +644,33 @@ header .slogan p {
 
 @media only screen and (max-width: 812px) {
   #cuadrobajobanner {
+    transform: scale(0.85); /* Usando transform para aplicar scale */
+    margin-left: 25%;
+    display: flex;
+    flex-wrap: wrap;
   }
 }
 
 @media only screen and (max-width: 612px) {
   #cuadrobajobanner {
+    transform: scale(0.8); /* Aplicando un valor de scale más pequeño para pantallas aún más pequeñas */
   }
 }
 
+@media only screen and (max-width: 480px) {
+  #cuadrobajobanner {
+    transform: scale(0.75); /* Aplicando un valor de scale más pequeño para pantallas aún más pequeñas */
+
+  }
+}
+
+@media only screen and (max-width: 428px) {
+  #cuadrobajobanner {
+    transform: scale(0.70); /* Aplicando un valor de scale más pequeño para pantallas aún más pequeñas */
+    margin-right: 50%;
+    margin-top: -40px;
+  }
+}
 
 li {
   font-size:15px;
@@ -645,6 +813,7 @@ ul {
   font-size: 0px;
   height: 0px;
   width: 0px;
+
 
 }
 
@@ -843,7 +1012,7 @@ h5-inferno, h5-celestial, h5-quantum, h5-arcane, h5-technomancer, h5-titan {
   height: 140%;
 }
 
-/*---------------boton cartera-----------*/
+/*-----------------------------------------------boton cartera-----------------------------------------------------*/
 
 .divboton {
   width: 250px;
@@ -866,6 +1035,76 @@ h5-inferno, h5-celestial, h5-quantum, h5-arcane, h5-technomancer, h5-titan {
 
 
 
-/*------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------*/
 
+.divstats {
+
+  position: relative; /* Esto permitirá posicionar absolutamente los hijos */
+  width: 100%; /* Esto permitirá que el div ocupe toda la anchura disponible */
+  height: 85px;
+  scale: 95%;
+  font-weight: bold;
+}
+
+.bicicletamodel {
+  color: white;
+
+  border: 2px solid white;
+  width: 50%;
+  position: absolute; /* Establece la posición a absoluta */
+  top: 0; /* Esto moverá el div a la esquina superior */
+  left: 0; /* Esto moverá el div a la esquina izquierda */
+  margin-left: 0%;
+  scale: 85%;
+}
+
+.bicicletaPrice {
+  color: white;
+
+  border: 2px solid white;
+  width: 50%;
+  font-size: 17.5px !important;
+  overflow: hidden;
+  white-space: nowrap;
+  text-indent: -12.5px;
+  position: absolute; /* Establece la posición a absoluta */
+  top: 0; /* Esto moverá el div a la esquina superior */
+  right: 0; /* Esto moverá el div a la esquina derecha */
+  margin-top: 0px !important;
+  scale: 85%;
+}
+
+.idbici {
+  color: white;
+
+  border: 2px solid white;
+  width: 50%;
+  font-size: 17.5px !important;
+  overflow: hidden;
+  white-space: nowrap;
+  text-indent: -12.5px;
+  position: absolute; /* Establece la posición a absoluta */
+  top: -84.5%; /* Esto moverá el div a la esquina superior */
+  right: -70px; /* Esto moverá el div a la esquina derecha */
+  scale: 85%;
+}
+
+.imgtipodiv {
+  
+  scale: 1;
+  left: 75px;
+  top: -32.5px;
+  z-index: 120;
+  position: absolute;
+  overflow: visible;
+}
+
+
+
+.imgtipo {
+  
+  overflow: visible;
+  transition: all 0.20s ease-in-out;
+  scale: 0.2;
+}
 

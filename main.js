@@ -54,7 +54,7 @@ bicicletasFiltradas.forEach(function(bicicleta) {
   bicicletaDiv.appendChild(bicicletaNombre);
 
   const bicicletaPrecio = document.createElement("p");
-  bicicletaPrecio.textContent = "Score->" + bicicleta.precio;
+  bicicletaPrecio.textContent = "" + bicicleta.precio;
   bicicletaDiv.appendChild(bicicletaPrecio);
 
   bicicletasContenedor.appendChild(bicicletaDiv);
@@ -138,41 +138,66 @@ window.bicicletas.forEach(function (bicicleta) {
       const bicicletaImg = document.createElement("img");
       bicicletaImg.src = bicicleta.img;
       bicicletaImg.alt = bicicleta.modelo;
-      bicicletaImg.setAttribute("data-url", bicicleta.url); // Agrega el atributo data-url
       bicicletaDiv.appendChild(bicicletaImg);
-
-      bicicletaImg.addEventListener("click", function() {
-          const url = this.getAttribute("data-url");
-          window.open(url, "_blank"); // Abre la URL en una nueva pestaña
-      });
 
       // Crear un h3 para el nombre de la bicicleta
       const bicicletaNombre = document.createElement("h3");
       bicicletaNombre.innerHTML = bicicleta.nombre;
       bicicletaDiv.appendChild(bicicletaNombre);
 
+      // Crear un div para las estadísticas de la bicicleta
+      const divStats = document.createElement("div");
+      divStats.classList.add("divstats");
+
       // Crear un p para el modelo de la bicicleta
       const bicicletaModel = document.createElement("p");
+      bicicletaModel.classList.add("bicicletamodel");  // Agregar la clase al p
       bicicletaModel.innerHTML = bicicleta.modelo;
-      bicicletaDiv.appendChild(bicicletaModel);
+      divStats.appendChild(bicicletaModel);
 
       // Crear un p para el precio de la bicicleta
       const bicicletaPrice = document.createElement("p");
-      bicicletaPrice.innerHTML = "SCORE->" + bicicleta.precio;
-      bicicletaDiv.appendChild(bicicletaPrice);
+      bicicletaPrice.classList.add("bicicletaPrice");  // Agregar la clase al p
+      bicicletaPrice.innerHTML = "" + bicicleta.precio;
+      divStats.appendChild(bicicletaPrice);
+
+      // Crear un p para el #id de la bicicleta
+      const idbici = document.createElement("p");
+      idbici.classList.add("idbici");  // Agregar la clase al p
+      idbici.innerHTML = bicicleta.id;
+      divStats.appendChild(idbici);
+
+// Crear un elemento div para la imagen tipo
+const imgtipodiv = document.createElement("div");
+imgtipodiv.classList.add("imgtipodiv");
+
+// Crear una imagen para el tipo
+const imgTipo = document.createElement("img");
+imgTipo.src = bicicleta.imgtipo;
+imgTipo.alt = bicicleta.tipo;
+imgTipo.classList.add("imgtipo");  // Agregar la clase a img
+imgtipodiv.appendChild(imgTipo);
+
+// Añadir la imagen al div de las estadísticas
+divStats.appendChild(imgtipodiv);
+
+
+
+      // Agregar el div de estadísticas al div de la bicicleta
+      bicicletaDiv.appendChild(divStats);
 
       const bicicletaHistory = document.createElement("h4");
       bicicletaHistory.innerHTML = bicicleta.historia; // Toma el valor de historia del objeto JSON.          
       bicicletaDiv.appendChild(bicicletaHistory);
 
-// Crear el div que va a contener el botón
-const botonDiv = document.createElement("div");
-botonDiv.classList.add("divboton");  // Agregar la clase al div
+      // Crear el div que va a contener el botón
+      const botonDiv = document.createElement("div");
+      botonDiv.classList.add("divboton");  // Agregar la clase al div
 
-// Crear el botón con todo el contenido HTML que necesitas
-const bicicletaBoton = document.createElement("button");
-bicicletaBoton.classList.add("button");
-bicicletaBoton.innerHTML = `
+      // Crear el botón con todo el contenido HTML que necesitas
+      const bicicletaBoton = document.createElement("button");
+      bicicletaBoton.classList.add("button");
+      bicicletaBoton.innerHTML = `
     <span class="button__text">
         <span>B</span><span>u</span><span>y</span><span> </span><span>N</span><span>F</span><span>T</span>
     </span>
@@ -262,8 +287,12 @@ results.forEach(result => {
   resultContainer.appendChild(resultModel);
 
   const resultPrice = document.createElement('p');
-  resultPrice.textContent = "SCORE->" + result.precio;
+  resultPrice.textContent = result.precio;
   resultContainer.appendChild(resultPrice);
+
+  const resultidbici = document.createElement('p');
+  resultidbici.textContent = result.id;
+  resultContainer.appendChild(resultidbici);
 
   const resultHistory = document.createElement('h4');
   resultHistory.textContent = result.historia; // Toma el valor de historia del objeto JSON.
