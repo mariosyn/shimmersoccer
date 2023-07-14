@@ -898,10 +898,10 @@
             "img": "img/75.webp",
             "precio": "SC->99",
             "categoria": "Platinum",
-            "tipo": "",
-            "imgtipo": "",
+            "tipo": "Inferno",
+            "imgtipo": "img/inferno.webp",
             "url":"https://soonaverse.com/nft/0xb143fc0f5d6d7693381cf1f085b103d13f6f73b0",
-            "historia": "<h5->Light:</h5-> <br> Light, a gifted and righteous footballer, rises against darkness, inspiring the world with his magical skills and unwavering integrity, becoming a legendary symbol of hope and unity in the game." },
+            "historia": "<h5-inferno>Light:</h5-inferno> <br> Light, a gifted and righteous footballer, rises against darkness, inspiring the world with his magical skills and unwavering integrity, becoming a legendary symbol of hope and unity in the game." },
         {
             "id": "#76",
             "nombre": "Ewing",
