@@ -86,7 +86,7 @@ nav {
   height: 100%; /* Cambiado a vh */
 
   z-index: 2;
-  overflow-x: initial; /* Cambiado de initial a auto */
+  overflow-x: hidden; /* Cambiado de initial a auto */
   display: inline-block;
 }
 
@@ -152,7 +152,7 @@ footer {
   position: fixed;
   width: 14%;
   height: auto;
-  top: 57.5%;
+  top: 58%;
   margin-left: 0.5%;
   font-size: 1.3em;
   z-index: -2;
@@ -188,8 +188,8 @@ footer {
 
 @media screen and (max-width: 612px) {
   #tipos {
-    width: auto; 
-    margin-left: 1.5%; 
+    width: auto;
+    margin-left: 1.5%;
     font-size: 1.25em; 
   }
 }
@@ -228,7 +228,7 @@ footer {
   position: fixed;
   width: auto;
   height: auto;
-  top: 20%;
+  top: 19.5%;
   margin-left: 0.5%;
   font-size: 1.3em;
   z-index: -2;
@@ -536,230 +536,6 @@ footer {
 }
 
 
-
-
-
-/*
-  GUIA PARA RESULT CONTAINER BASADA EN DIV BICICLETA
-
-
-  line-height: 1;
-  border: 2px solid white;
-  padding: 1%;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 10px;
-  transition: all 0.20s ease-in-out;
-  width: 100%;
-  box-sizing: border-box;
-  margin-left: 30%;
-  margin-right: 150%;
-  position: relative;
-  overflow: hidden;
-
-*/
-
-.result-container {
-    
-  line-height: 1;
-  border: 2px solid white;
-    
-  
-    margin-top: 15px;
-    margin-left: 11.8%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: 25px;
-    color: #e5e5e5;
-    text-shadow: 
-    0 0 5px #000, 
-    0 0 10px #000, 
-    0 0 20px #000, 
-    0 0 40px #000, 
-    0 0 80px #000, 
-    0 0 90px #fff, 
-    0 0 100px #fff, 
-    0 0 150px #fff;
-    width: 75%;
-   
-    padding-bottom: 30px;
-}
-
-
-
-  .result-container h3{
-      margin-bottom: 25px;
-  }
-
-
-
-
-
-
-
-
-
-.slogan h1 {
-  font-size: 48px;
-  margin-bottom: 20px;
-  text-shadow: 2px 2px #000;
-}
-
-
-
-
-
-.background {
-  background-color: rgba(0, 0, 0, 0.6);
-}
-
-.slogan h1 {
-  font-family: "Montserrat", sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 4px;
-}
-
-.slogan p {
-  font-family: "Montserrat", sans-serif;
-  font-weight: bold;
-  letter-spacing: 2px;
-}
-
-  .tituloleyenda {
-    font-size: 0.9em;
-  }
-
-#cuadrobajobanner {
-  margin-top: 10%;
-  margin-left: 5.5%;
-  z-index: 1;
-  width: 95%;
-  border: 1px solid black;
-  padding: 1px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 10px;
-  display: flex;
-  flex-wrap: nowrap;
-  padding: 10px;
-
-}
-
-
-@media only screen and (max-width: 1148px) {
-  #cuadrobajobanner {
-    margin-left: 15%;
-    font-size: 0.80em;
-    width: 85%;
-  }
-}
-
-@media only screen and (max-width: 1024px) {
-  #cuadrobajobanner {
-    font-size: 0.70em;
-    width: 76.5%;
-    margin-left: 20%;
-  }
-}
-
-@media only screen and (max-width: 812px) {
-  #cuadrobajobanner {
-    transform: scale(0.85); /* Usando transform para aplicar scale */
-    margin-left: 25%;
-    display: flex;
-    flex-wrap: wrap;
-  }
-}
-
-@media only screen and (max-width: 612px) {
-  #cuadrobajobanner {
-    transform: scale(0.8); /* Aplicando un valor de scale más pequeño para pantallas aún más pequeñas */
-  }
-}
-
-@media only screen and (max-width: 480px) {
-  #cuadrobajobanner {
-    transform: scale(0.75); /* Aplicando un valor de scale más pequeño para pantallas aún más pequeñas */
-
-  }
-}
-
-@media only screen and (max-width: 428px) {
-  #cuadrobajobanner {
-    transform: scale(0.75); /* Aplicando un valor de scale más pequeño para pantallas aún más pequeñas */
-    margin-right: 50%;
-    margin-top: 20px;
-  }
-}
-
-li {
-  font-size:15px;
-  background-color: rgb(255, 145, 0);
-  color: white;
-  border: solid 1px white;
-  border-radius: 10px;
-  text-align: center;
-  height: 30px;
-  width: 150px;
-  position: relative;
-  line-height: 175%;
-}
-
-
-
-#miembros {
-  display: none;
-}
-
-ul {
-  font-weight: bold;
-  list-style-type: none;
-  display: flex;
-  align-items: center;
-  margin-left: auto;
-  
-}
-
-.trainer div {
-  font-size: 18px;
-  color: white;
-  text-align: center;
-  padding: 20px;
-  line-height: 0.002;
-}
-.trainer img {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  transition: transform 0.3s;
-  animation: brillo 10s linear infinite;
-}
-.trainer {
-  line-height: 99;
-  border: 1px solid black;
-  padding: 1px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 10px;
-  transition: all 0.20s ease-in-out;
-  width: 105%;
-}
-.trainer:hover {
-  transform: scale(1.1);
-  border-width: 2px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
 .bicicleta::before {
   content: "";
   position: absolute;
@@ -943,6 +719,745 @@ h5-inferno, h5-celestial, h5-quantum, h5-arcane, h5-technomancer, h5-titan {
 }
 
 
+/*
+  GUIA PARA RESULT CONTAINER BASADA EN DIV BICICLETA
+
+
+  line-height: 1;
+  border: 2px solid white;
+  padding: 1%;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  transition: all 0.20s ease-in-out;
+  width: 100%;
+  box-sizing: border-box;
+  margin-left: 30%;
+  margin-right: 150%;
+  position: relative;
+  overflow: hidden;
+
+*/
+
+.result-container {
+  transform: scale(0.75);
+  left: 30%;
+  margin-top: 5%;
+  line-height: 1;
+  border: 2px solid white;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 40px;
+  transition: all 0.20s ease-in-out;
+  width: 50%;
+  height: auto;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+/* Styles for screens up to 1440px wide */
+@media screen and (max-width: 1440px) {
+  .result-container {
+    transform: scale(1);
+  }
+}
+
+/* Styles for screens up to 1024px wide */
+@media screen and (max-width: 1024px) {
+  .result-container {
+    transform: scale(0.9);
+  }
+}
+
+/* Styles for screens up to 768px wide */
+@media screen and (max-width: 768px) {
+  .result-container {
+    transform: scale(0.8);
+    margin-left: 17%;
+  }
+}
+
+/* Styles for screens up to 425px wide */
+@media screen and (max-width: 425px) {
+  .result-container {
+    transform: scale(0.9);
+    margin-left: 17%;
+  }
+}
+
+/* Styles for screens up to 375px wide */
+@media screen and (max-width: 375px) {
+  .result-container {
+    transform: scale(0.9);
+    margin-left: 20%;
+  }
+}
+
+/* Styles for screens up to 320px wide */
+@media screen and (max-width: 320px) {
+  .result-container {
+    transform: scale(0.9);
+    margin-left: 20%;
+  }
+}
+
+
+.result-divstats {
+
+  height: auto;
+  width: 100%;
+  margin-top: 14%;
+  margin-bottom: 25%;
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* crea dos columnas de igual tamaño */
+  grid-template-rows: 1fr 1fr; /* crea dos filas de igual tamaño */
+  gap: 10px; /* define el espacio entre las celdas de la cuadrícula */
+
+  
+  
+
+}
+
+/* Styles for screens up to 2560px wide */
+@media screen and (max-width: 2560px) {
+  .result-divstats {
+    transform: scale(0.9);
+  }
+}
+
+/* Styles for screens up to 1440px wide */
+@media screen and (max-width: 1440px) {
+  .result-divstats {
+    transform: scale(0.8);
+  }
+}
+
+/* Styles for screens up to 1024px wide */
+@media screen and (max-width: 1024px) {
+  .result-divstats {
+    transform: scale(0.7);
+  }
+}
+
+/* Styles for screens up to 768px wide */
+@media screen and (max-width: 768px) {
+  .result-divstats {
+    transform: scale(0.6);
+  }
+}
+
+/* Styles for screens up to 425px wide */
+@media screen and (max-width: 425px) {
+  .result-divstats {
+    transform: scale(0.5);
+  }
+}
+
+/* Styles for screens up to 375px wide */
+@media screen and (max-width: 375px) {
+  .result-divstats {
+    transform: scale(0.4);
+  }
+}
+
+/* Styles for screens up to 320px wide */
+@media screen and (max-width: 320px) {
+  .result-divstats {
+    transform: scale(0.3);
+  }
+}
+
+
+
+
+
+
+
+
+
+
+.result-container:hover {
+  transform: scale(0.9);
+  border-width: 2px;
+}
+
+
+#search-results {
+  display: flex;
+  flex-direction: column;
+  gap: -1000px;
+}
+
+.result-container::before {
+  content: "";
+  position: absolute;
+  top: 25%;
+  left: -25%;
+  height: 50rem; /* disminuir el valor de la altura */
+  transform: rotate(-40deg);
+  box-shadow: 0 0 30px 10px #ffffff50; /* aumentar la opacidad y disminuir la propagación y el difuminado */
+  transition: .7s all;
+
+}
+
+
+
+.result-container:hover::before{
+  top: -50%;
+  left: 75%;
+}
+
+
+
+.result-container::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  transition: opacity 1.5s;
+  opacity: 0;
+  z-index: 1;
+  border-radius: 40px;
+}
+
+.result-container:hover::after {
+  opacity: 1;
+  background-color: #0000008c;
+  z-index: -1;
+  border-radius: 40px;
+  border: 2.5px solid white;
+  width: 101%;
+  height: 100.9%;
+  margin-left: -1.5px;
+  margin-top: -1.5px;
+}
+
+.result-container:hover img {
+  opacity: 0;
+  position: absolute
+} 
+
+.result-container:hover .imgtipodiv {
+  top: 50px;
+}
+
+.result-container h4, .result-container p {
+  position: relative;
+  z-index: 0;
+  font-size: 30px !important;
+  font-weight: bold;
+  height: 75px;
+  
+}
+
+.result-container p, .result-container .imgtipodiv {
+  border: solid 3px;
+  
+  width: 150px;
+}
+
+
+.result-container:hover .result-divstats {
+  margin-top: 100%;
+
+}
+
+.result-container h3, .result-container p, .result-container img, .result-container .imgtipo, .result-container .resultimg {
+  transition: opacity 1s;
+  opacity: 1;
+}
+
+.result-container:hover h3, .result-container:hover p, .result-container:hover a, .result-container:hover img,.result-container:hover .imgtipo, .result-container:hover .resultimg {
+  opacity: 0;
+}
+
+.result-container h3 {
+  font-size: 200% !important;
+}
+
+.result-model {
+  margin-left: 12.5%;
+  size: 100%;
+}
+
+.result-id {
+  margin-left: 115%;
+  position:sticky;
+  top: -117.5%;
+
+}
+
+.result-price {
+  margin-left: -92.5%;
+  top: 175%;
+}
+
+.result-model,
+.result-id,
+.result-price {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.result-container h4 {
+
+  transition: opacity 1.5s ease-in-out;
+  transition-delay: 0.5s;
+  opacity: 0;
+  font-size: 0px;
+  height: 0px;
+  width: 0px;
+
+
+}
+
+.result-container:hover h4 {
+  margin-top: -600px !important;
+  opacity: 1;
+  color: white;
+  font-size: 12px;
+  position: absolute;
+  margin-top: -650px !important;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: justify;
+  height: auto;
+  width: auto;
+  transition: opacity 1.5s ease-in-out;
+  transition-delay: 1s;
+}
+
+
+.result-container h5-inferno {
+  visibility: hidden;
+  font-family: 'Exo';
+}
+
+.result-container h5-celestial {
+  visibility: hidden;
+  font-family: 'Exo';
+}
+
+.result-container h5-quantum {
+  visibility: hidden;
+  font-family: 'Exo';
+}
+
+.result-container h5-arcane {
+  visibility: hidden;
+  font-family: 'Exo';
+}
+
+.result-container h5-technomancer {
+  visibility: hidden;
+  font-family: 'Exo';
+}
+
+.result-container h5-titan {
+  visibility: hidden;
+  font-family: 'Exo';
+}
+
+.result-container:hover h5-inferno {
+  position: relative;
+  top: -60%;
+  font-size: 50px;
+  visibility: visible;
+  color: rgba(0, 0, 0, 0);
+}
+
+.result-container:hover h5-celestial {
+  position: relative;
+  top: -60%;
+  font-size: 50px;
+  visibility: visible;
+  color: rgba(0, 0, 0, 0);
+}
+
+.result-container:hover h5-quantum {
+  position: relative;
+  top: -60%;
+  font-size: 50px;
+  visibility: visible;
+  color: rgba(0, 0, 0, 0);
+}
+
+.result-container:hover h5-arcane {
+  position: relative;
+  top: -60%;
+  font-size: 50px;
+  visibility: visible;
+  color: rgba(0, 0, 0, 0);
+}
+
+.result-container:hover h5-technomancer {
+  position: relative;
+  top: -60%;
+  font-size: 50px;
+  visibility: visible;
+  color: rgba(0, 0, 0, 0);
+}
+
+.result-container:hover h5-titan {
+  position: relative;
+  top: -60%;
+  font-size: 50px;
+  visibility: visible;
+  color: rgba(0, 0, 0, 0);
+}
+
+
+
+
+.result-container:hover h5-inferno {
+  color: rgb(211, 142, 100);
+  text-shadow:
+  0 0 5px #ff0000, /* color de las llamas o neón */
+  0 0 10px #ff0000, /* color de las llamas o neón */
+  0 0 15px #ff0000, /* color de las llamas o neón */
+  0 0 20px #ff0000, /* color de las llamas o neón */
+  0 0 30px #ff0000, /* color de las llamas o neón */
+  0 0 40px #ff0000; /* color de las llamas o neón */
+  opacity: 1;
+}
+
+.result-container:hover h5-celestial {
+  color: rgb(116, 191, 206);
+  text-shadow:
+  0 0 5px rgba(116, 191, 206, 0.7),
+  0 0 10px rgba(116, 191, 206, 0.7),
+  0 0 15px rgba(116, 191, 206, 0.7),
+  0 0 20px rgba(116, 191, 206, 0.7),
+  0 0 30px rgba(116, 191, 206, 0.7),
+  0 0 40px rgba(116, 191, 206, 0.7);
+  opacity: 1;
+}
+
+.result-container:hover h5-quantum {
+  color: rgb(113, 0, 212);
+  text-shadow:
+  0 0 5px rgba(113, 0, 212, 0.7),
+  0 0 10px rgba(113, 0, 212, 0.7),
+  0 0 15px rgba(113, 0, 212, 0.7),
+  0 0 20px rgba(113, 0, 212, 0.7),
+  0 0 30px rgba(113, 0, 212, 0.7),
+  0 0 40px rgba(113, 0, 212, 0.7);
+  opacity: 1;
+}
+
+.result-container:hover h5-arcane {
+  color: rgb(165, 157, 0);
+  text-shadow:
+    0 0 5px rgba(165, 157, 0, 0.7),
+    0 0 10px rgba(165, 157, 0, 0.7),
+    0 0 15px rgba(165, 157, 0, 0.7),
+    0 0 20px rgba(165, 157, 0, 0.7),
+    0 0 30px rgba(165, 157, 0, 0.7),
+    0 0 40px rgba(165, 157, 0, 0.7);
+  opacity: 1;
+}
+
+
+
+
+.result-container:hover h5-technomancer {
+  color: rgb(62, 238, 18);
+  text-shadow:
+    0 0 5px rgba(62, 238, 18, 0.7),
+    0 0 10px rgba(62, 238, 18, 0.7),
+    0 0 15px rgba(62, 238, 18, 0.7),
+    0 0 20px rgba(62, 238, 18, 0.7),
+    0 0 30px rgba(62, 238, 18, 0.7),
+    0 0 40px rgba(62, 238, 18, 0.7);
+  opacity: 1;
+}
+
+
+.result-container:hover h5-titan {
+  color: rgb(97, 91, 82);
+  text-shadow:
+    0 0 5px #5f5b52,  /* color del brillo */
+    0 0 10px #5f5b52, /* color del brillo */
+    0 0 15px #5f5b52, /* color del brillo */
+    0 0 20px #5f5b52, /* color del brillo */
+    0 0 30px #5f5b52, /* color del brillo */
+    0 0 40px #5f5b52; /* color del brillo */
+  opacity: 1;
+}
+
+
+.result-container .imgtipodiv{
+  scale: 0.5;
+  margin-top: 132.5%;
+  margin-left: 37.5%;
+}
+
+.result-container img{
+ scale: 1.25;
+ margin-top: 10%;
+ transition: transform 0.3s;
+}  
+
+.resultdivboton {
+  scale: 1.5;
+  margin-left: 30%;
+
+  z-index: 10;
+}
+
+.result-container .resultdivboton {
+  transition: opacity 0s;
+  opacity: 0;
+  z-index: -2;
+}
+
+.result-container:hover .resultdivboton {
+  transition: opacity 1.5s ease-in-out;
+  transition-delay: 1.5s;
+  opacity: 1;
+  z-index: 10;
+}
+
+.result-container button{
+
+  position: relative;
+  display: none;
+
+
+
+}
+
+.result-container:hover button{
+  display: initial;
+  position: absolute;
+  top: -75px !important;
+}
+
+.result-container p,
+.result-container h3 {
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  line-height: 0.002;
+}
+
+.result-container p {
+  margin-top: -15px;
+}
+
+.result-container h3 {
+  font-size: 30px;
+  transition: all 0.3s ease-in-out !important;
+  opacity: 1;
+  position:sticky;
+  top: 50%;
+
+}
+
+.result-container:hover h3 {
+  opacity: 0 !important;
+  color: rgba(0, 0, 0, 0.5);
+  
+}
+
+
+.result-container .resultname {
+
+}
+
+
+.result-container:hover .resultname {
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.slogan h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px #000;
+}
+
+
+
+
+
+.background {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.slogan h1 {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+.slogan p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+  .tituloleyenda {
+    font-size: 0.9em;
+  }
+
+#cuadrobajobanner {
+  margin-top: 10%;
+  margin-left: 15.5%;
+  z-index: 1;
+  width: 95%;
+  border: 1px solid black;
+  padding: 1px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 10px;
+
+}
+
+
+@media only screen and (max-width: 1148px) {
+  #cuadrobajobanner {
+    margin-left: 15%;
+    font-size: 0.80em;
+    width: 85%;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  #cuadrobajobanner {
+    font-size: 0.70em;
+    width: 76.5%;
+    margin-left: 20%;
+  }
+}
+
+@media only screen and (max-width: 812px) {
+  #cuadrobajobanner {
+    transform: scale(0.85); /* Usando transform para aplicar scale */
+    margin-left: 25%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+@media only screen and (max-width: 612px) {
+  #cuadrobajobanner {
+    transform: scale(0.8); /* Aplicando un valor de scale más pequeño para pantallas aún más pequeñas */
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  #cuadrobajobanner {
+    transform: scale(0.75); /* Aplicando un valor de scale más pequeño para pantallas aún más pequeñas */
+
+  }
+}
+
+@media only screen and (max-width: 428px) {
+  #cuadrobajobanner {
+    transform: scale(0.75); /* Aplicando un valor de scale más pequeño para pantallas aún más pequeñas */
+    margin-right: 50%;
+    margin-top: 20px;
+  }
+}
+
+li {
+  font-size:15px;
+  background-color: rgb(255, 145, 0);
+  color: white;
+  border: solid 1px white;
+  border-radius: 10px;
+  text-align: center;
+  height: 30px;
+  width: 150px;
+  position: relative;
+  line-height: 175%;
+}
+
+
+
+#miembros {
+  display: none;
+}
+
+ul {
+  font-weight: bold;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  
+}
+
+.trainer div {
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  line-height: 0.002;
+}
+.trainer img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  transition: transform 0.3s;
+  animation: brillo 10s linear infinite;
+}
+.trainer {
+  line-height: 99;
+  border: 1px solid black;
+  padding: 1px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  transition: all 0.20s ease-in-out;
+  width: 105%;
+}
+.trainer:hover {
+  transform: scale(1.1);
+  border-width: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1111,12 +1626,13 @@ h5-inferno, h5-celestial, h5-quantum, h5-arcane, h5-technomancer, h5-titan {
 
 .imgtipodiv {
   
-  scale: 1;
+
   left: 75px;
   top: -32.5px;
   z-index: 120;
   position: absolute;
   overflow: visible;
+  border: none !important;
 }
 
 
@@ -1128,3 +1644,6 @@ h5-inferno, h5-celestial, h5-quantum, h5-arcane, h5-technomancer, h5-titan {
   scale: 0.2;
 }
 
+.ocultar {
+  visibility: none !important;
+}
