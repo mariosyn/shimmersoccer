@@ -13,28 +13,33 @@ fetch("data.json")
 
 // Función para mostrar las bicicletas en la página
 function mostrarBicicletas() {
+  //alert("mostrarBicicletaazs");
   bicicletasContenedor.innerHTML = "";
 
   // Obtener los valores seleccionados en los filtros
   const filtroModelo = document.getElementById("filtro-modelo").value;
   const filtroCategoria = document.getElementById("filtro-categoria").value;
+  const filtroBusqueda = document.getElementById("search-input").value;
 
   // Filtrar las bicicletas según los valores seleccionados
   const bicicletasFiltradas = bicicletas.filter(function(bicicleta) {
-    if (filtroModelo !== "Todos" && filtroModelo !== bicicleta.modelo) {
+    if (filtroModelo !== "" && filtroModelo !== bicicleta.modelo) {
         return false;
     }
-    if (filtroCategoria !== "Todos" && filtroCategoria !== bicicleta.categoria) {
+    if (filtroCategoria !== "" && filtroCategoria !== bicicleta.categoria) {
+        return false;
+    }
+    const filtrado = bicicleta.nombre.toLowerCase() + " " +  bicicleta.id.toLowerCase()
+    if (filtroBusqueda !== "" && !filtrado.includes(filtroBusqueda.toLowerCase())) {
         return false;
     }
     return true;
   });
-
-
+  //alert("Filtro: " + filtroBusqueda + ", modelo: " + filtroModelo + ", categoría: " + filtroCategoria);
+  //alert("Filtro: " + filtroBusqueda + ", modelo: " + filtroModelo + ", categoría: " + filtroCategoria + " BICICLETAS: " + window.bicicletas.length + "filtradas : " + bicicletasFiltradas.length);
 // Recorrer cada bicicleta
-window.bicicletas.forEach(function (bicicleta) {
+bicicletasFiltradas.forEach(function (bicicleta) {
   // Comprobar si la bicicleta cumple con los criterios de los filtros
-  if ((filtroModelo === "" || bicicleta.modelo === filtroModelo) && (filtroCategoria === "" || bicicleta.categoria === filtroCategoria)) {
       // Crear un elemento div para la bicicleta
       const bicicletaDiv = document.createElement("div");
       bicicletaDiv.classList.add("bicicleta");
@@ -149,18 +154,18 @@ bicicletaDiv.appendChild(botonDiv);
 bicicletasContenedor.appendChild(bicicletaDiv);
 }
 
-});
+);
 
-
+/*
     // Obtener elementos del DOM
 const form = document.querySelector('#search-form');
 const input = document.querySelector('#search-input');
 const resultsContainer = document.querySelector('#search-results');
 
+
 // Manejar el evento de envío del formulario
 form.addEventListener('submit', (event) => {
   event.preventDefault(); // Evita que el formulario se envíe
-
   // Obtener el término de búsqueda del campo de entrada
   const searchTerm = input.value.trim();
   // Si el término de búsqueda está vacío, recargar la página
@@ -172,7 +177,12 @@ form.addEventListener('submit', (event) => {
 
 
 
+const botonBusqueda = document.getElementById("search-button");
 
+ // Agregar el evento al botón
+ botonBusqueda.addEventListener("click", function() {
+  mostrarBicicletas()
+});
 
 
 // Realizar la búsqueda y mostrar los resultados en el contenedor
@@ -294,7 +304,7 @@ results.forEach(result => {
 
   // Agregar el div al resultContainer
   resultContainer.appendChild(botonDiv);
-
+  resultsContainer.innerHTML = ''
 });
 
 
@@ -337,9 +347,9 @@ results.forEach(result => {
 
         });
   
+
   
-  
-  
+  */
   
 };
 
@@ -355,6 +365,7 @@ function searchForTerm(term) {
 }
 
 // Función para mostrar los resultados en el contenedor
+/*
 function displayResults(results) {
   
   // Vaciar el contenedor de resultados
@@ -378,21 +389,52 @@ function displayResults(results) {
 
     const resultName = document.createElement('p');
     resultName.textContent = result.nombre;
-    /*resultContainer.appendChild(resultName);*/
+    //resultContainer.appendChild(resultName);
 
     
 
     resultsContainer.appendChild(resultContainer);
   });
 }
+*/
 
-    
-
+const botonBusqueda = document.getElementById("search-button");
+botonBusqueda.addEventListener("click", function(event) {
+  event.preventDefault();
+  mostrarBicicletas();
+});
 
 // Agregar eventos a los filtros para que al cambiar su valor, se vuelva a mostrar las bicicletas
-document.getElementById("filtro-modelo").addEventListener("change", mostrarBicicletas);
+document.getElementById("filtro-modelo").addEventListener("change", function() {
+  //alert("Pasa por aqui")
+  mostrarBicicletas();
+});
 
-document.getElementById("filtro-categoria").addEventListener("change", mostrarBicicletas);
+document.getElementById("filtro-categoria").addEventListener("change", function() {
+  //alert("Pasa por aquiii")
+  mostrarBicicletas();
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
