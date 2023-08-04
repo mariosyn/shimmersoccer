@@ -2,7 +2,7 @@
     "bicicletas": [
         {
             "id": "#1",
-            "nombre": "Leyer****",
+            "nombre": "Leyer",
             "modelo": "DEL",
             "img": "img/1-DEL.webp",
             "precio": "SC->89",
@@ -13,7 +13,7 @@
             "historia": "<h5-inferno>Leyer:</h5-inferno> <br> An ancient warrior who swapped his sword for a football. Leyer's kick can defy the laws of physics, bending the wind in his favor. His legendary skills resonate every time he steps onto the football field." },
         {
             "id": "#2",
-            "nombre": "Retwer****",
+            "nombre": "Retwer",
             "modelo": "MC",
             "img": "img/2.webp",
             "precio": "SC->88",
@@ -24,7 +24,7 @@
             "historia": "<h5-technomancer>Retwer:</h5-technomancer> <br> A mountain giant who never lets a ball past him. Retwer's resilience is as sturdy as rocks. His imposing presence and unbeatable determination are the last line of defense his team can always count on." },
         {
             "id": "#3",
-            "nombre": "Faran****",
+            "nombre": "Faran",
             "modelo": "MC",
             "img": "img/3.webp",
             "precio": "SC->88",
@@ -35,7 +35,7 @@
             "historia": "<h5-quantum>Faran:</h5-quantum> <br> A spirit from the woods, Faran can run like the wind and blend with the shadows. His swift and unpredictable movements keep his opponents on their toes, making him the field's most elusive player." },
         {
             "id": "#4",
-            "nombre": "Twerry****",
+            "nombre": "Twerry",
             "modelo": "DEL",
             "img": "img/4.webp",
             "precio": "SC->89",
@@ -46,7 +46,7 @@
             "historia": "<h5-titan>Twerry:</h5-titan> <br> Twerry's cunning on the field comes from his past as a street trickster. No one can predict his moves. He weaves through the opposition with ease, making every game a spectacle of his nimble footwork." },
         {
             "id": "#5",
-            "nombre": "Jose****",
+            "nombre": "Jose",
             "modelo": "DEL",
             "img": "img/5.webp",
             "precio": "SC->90",
@@ -57,7 +57,7 @@
             "historia": "<h5-arcane>Jose:</h5-arcane> <br> A martial arts master, Jose employs his precision and balance to command the ball, leaving his opponents in awe. His techniques create a blend of art and football that never fails to fascinate the spectators." },
         {
             "id": "#6",
-            "nombre": "Toti****",
+            "nombre": "Toti",
             "modelo": "DEF",
             "img": "img/6.webp",
             "precio": "SC->90",
@@ -68,7 +68,7 @@
             "historia": "<h5-arcane>Toti:</h5-arcane> <br> Toti, a football enthusiast since childhood, can control the ball as if it was an extension of himself. His natural affinity with the game coupled with relentless practice makes him a formidable player." },
         {
             "id": "#7",
-            "nombre": "Perri****",
+            "nombre": "Perri",
             "modelo": "MC",
             "img": "img/7.webp",
             "precio": "SC->90",
@@ -79,7 +79,7 @@
             "historia": "<h5-technomancer>Perri:</h5-technomancer> <br> Born into nobility, Perri uses his strategic education to outmaneuver his opponents, leading his team to victory. His aristocratic upbringing did not deter his love for football, but only made him a smarter player." },
         {
             "id": "#8",
-            "nombre": "Lerry****",
+            "nombre": "Lerry",
             "modelo": "DEF",
             "img": "img/8.webp",
             "precio": "SC->89",
@@ -90,7 +90,7 @@
             "historia": "<h5-celestial>Lerry:</h5-celestial> <br> Lerry can sense the pulse of the earth beneath his feet, allowing him to predict the ball's movements before anyone else. His connection with nature gives him an uncanny ability to be at the right place at the right time." },
         {
             "id": "#9",
-            "nombre": "Werret****",
+            "nombre": "Werret",
             "modelo": "DEF",
             "img": "img/9.webp",
             "precio": "SC->86",
@@ -101,7 +101,7 @@
             "historia": "<h5-inferno>Werret:</h5-inferno> <br> Werret, a football sensation, set the pitch ablaze with his lightning-fast speed and jaw-dropping skills. With his mesmerizing dribbles and impeccable ball control, he left defenders in a state of bewilderment." },
         {
             "id": "#10",
-            "nombre": "Sargent****",
+            "nombre": "Sargent",
             "modelo": "MC",
             "img": "img/10.webp",
             "precio": "SC->92",
@@ -112,7 +112,7 @@
             "historia": "<h5-inferno>Sargent:</h5-inferno> <br> Sargent, a rising star in the world of football, showcased his immense talent and tenacity on the pitch. With his lightning speed and impeccable technique, he darted past defenders with ease" },
         {
             "id": "#11",
-            "nombre": "Viper****",
+            "nombre": "Viper",
             "modelo": "DEF",
             "img": "img/11.webp",
             "precio": "SC->90",
@@ -123,7 +123,7 @@
             "historia": "<h5-arcane>Viper:</h5-arcane> <br> Viper, a formidable football player, possesses exceptional skills, agility, and precision. His dynamic gameplay and powerful strikes make him a constant threat on the field, leaving opponents in awe." },
         {
             "id": "#12",
-            "nombre": "Retwer****",
+            "nombre": "Retwer",
             "modelo": "POR",
             "img": "img/12.webp",
             "precio": "SC->90",
@@ -134,7 +134,7 @@
             "historia": "<h5-titan>Retwer:</h5-titan> <br> Retwer, a skillful footballer, is a versatile player known for their exceptional technique, vision, and agility. They possess remarkable dribbling skills and possess a keen sense of positioning, contributing significantly to their team's success." },
         {
             "id": "#13",
-            "nombre": "Darter****",
+            "nombre": "Darter",
             "modelo": "MC",
             "img": "img/13.webp",
             "precio": "SC->79",
@@ -146,7 +146,7 @@
             "historia": "<h5-celestial>Darter:</h5-celestial> <br> Darter, a skilled football player, embarked on a remarkable journey. With unwavering determination, he conquered challenges, shattered records, and inspired millions. His legacy, an epitome of perseverance, forever etched in football history." },
         {
             "id": "#14",
-            "nombre": "Pepe****",
+            "nombre": "Pepe",
             "modelo": "DEF",
             "img": "img/14.webp",
             "precio": "SC->65",
@@ -158,7 +158,7 @@
             "historia": "<h5-titan>Pepe:</h5-titan> <br> Pepe, the luminary of the soccer field, mesmerizes with his sublime artistry. A juggernaut of precision, his astonishing footwork and audacious maneuvers captivate fans worldwide. The epitome of brilliance, Pepe's charisma echoes through every game, etching an indelible legacy in the annals of football." },
         {
             "id": "#15",
-            "nombre": "Warter****",
+            "nombre": "Warter",
             "modelo": "DEL",
             "img": "img/15.webp",
             "precio": "SC->81",
@@ -170,7 +170,7 @@
             "historia": "<h5-quantum>Warter:</h5-quantum> <br> Meet Warter, the prodigious football maestro whose mere presence electrifies the pitch. With swift agility and unparalleled precision, he orchestrates symphonies of passes, leaving opponents in awe. A mesmerizing blend of finesse and power, he's a force of nature, transcending the beautiful game." },
         {
             "id": "#16",
-            "nombre": "Fercir****",
+            "nombre": "Fercir",
             "modelo": "DEL",
             "img": "img/16.webp",
             "precio": "SC->85",
@@ -182,7 +182,7 @@
             "historia": "<h5-technomancer>Fercir:</h5-technomancer> <br> Once upon a time, Fercir, a skilled football player, embarked on a fantastical journey. With his team, he discovered a mystical soccer field where magical creatures challenged them to a match. Fercir's precise passes and stunning goals led them to victory, becoming legends forever." },
         {
             "id": "#17",
-            "nombre": "Amart****",
+            "nombre": "Amart",
             "modelo": "MC",
             "img": "img/17.webp",
             "precio": "SC->79",
@@ -194,7 +194,7 @@
             "historia": "<h5-inferno>Amart:</h5-inferno> <br> Once upon a time, Amart, a talented footballer, possessed a magical amulet. With each kick, he unleashed extraordinary power, defying physics and scoring impossible goals. The world marveled at his abilities, but only he knew the secret behind his legendary success." },
         {
             "id": "#18",
-            "nombre": "Miren****",
+            "nombre": "Miren",
             "modelo": "MC",
             "img": "img/18.webp",
             "precio": "SC->69",
@@ -206,7 +206,7 @@
             "historia": "<h5-quantum>Miren:</h5-quantum> <br> Miren, a talented footballer, discovered an ancient talisman that granted him incredible powers. With each touch, he controlled time, making him unbeatable on the field. His legendary skills captivated fans worldwide, forever changing the game." },
         {
             "id": "#19",
-            "nombre": "Lemon****",
+            "nombre": "Lemon",
             "modelo": "DEF",
             "img": "img/19.webp",
             "precio": "SC->85",
@@ -218,7 +218,7 @@
             "historia": "<h5-celestial>Lemon:</h5-celestial> <br> Once upon a time, Lemon, a skilled  football player, possessed extraordinary powers. With lightning speed and precision, his magnificent kicks could ignite fireballs, turning the pitch into a magical arena. Spectators marveled, forever enchanted by Lemon's mesmerizing abilities." },
         {
             "id": "#20",
-            "nombre": "Pedro****",
+            "nombre": "Pedro",
             "modelo": "DEF",
             "img": "img/20.webp",
             "precio": "SC->65",
@@ -230,7 +230,7 @@
             "historia": "<h5-arcane>Pedro:</h5-arcane> <br> Once upon a time, Pedro, a talented football player, discovered a mystical amulet. When he wore it, he transformed into a powerful, agile being. With his newfound abilities, he led his team to victory, becoming a legend on the field and beyond." },
         {
             "id": "#21",
-            "nombre": "George****",
+            "nombre": "George",
             "modelo": "DEF",
             "img": "img/21.webp",
             "precio": "SC->73",
@@ -242,7 +242,7 @@
             "historia": "<h5-technomancer>George:</h5-technomancer> <br> George, a talented football player, embarked on a mystical quest to retrieve the enchanted trophy. Armed with his nimble footwork, he conquered treacherous terrains and defeated mythical creatures. In the end, his perseverance and skill earned him the coveted prize, bringing glory to his team." },
         {
             "id": "#22",
-            "nombre": "Beber****",
+            "nombre": "Beber",
             "modelo": "DEL",
             "img": "img/22.webp",
             "precio": "SC->96",
@@ -253,7 +253,7 @@
             "historia": "<h5-celestial>Beber:</h5-celestial> <br> Once upon a time, there was a skilled football player named Beber. With extraordinary agility, he mesmerized crowds, scoring miraculous goals. Legends spoke of his 17-character nickname, Unstoppable Dynamo. Beber's legacy inspired future generations, forever etching his name in the annals of football history." },
         {
             "id": "#23",
-            "nombre": "Keria****",
+            "nombre": "Keria",
             "modelo": "DEF",
             "img": "img/23.webp",
             "precio": "SC->66",
@@ -265,7 +265,7 @@
             "historia": "<h5-quantum>Keria:</h5-quantum> <br> Once upon a time, Keria, a talented football player, embarked on a magical journey. Guided by a mystical soccer ball, he defeated monstrous opponents, enchanted stadiums, and led his team to victory, becoming a legendary hero of the beautiful game." },
         {
             "id": "#24",
-            "nombre": "Yeya****",
+            "nombre": "Yeya",
             "modelo": "DEL",
             "img": "img/24.webp",
             "precio": "SC->97",
@@ -276,7 +276,7 @@
             "historia": "<h5-Technomancer>Yeya:</h5-technomancer> <br> Yeya, a skilled football player, discovered a secret laboratory beneath the stadium. Inside, he found a futuristic exosuit that enhanced his abilities. With newfound powers, he became the greatest player the world had ever seen." },
         {
             "id": "#25",
-            "nombre": "Angel****",
+            "nombre": "Angel",
             "modelo": "DEF",
             "img": "img/25.webp",
             "precio": "SC->95",
@@ -288,7 +288,7 @@
             "historia": "<h5-arcane>Angel:</h5-arcane> <br> Angel, a talented footballer, dreamt of victory. Through relentless training, he honed his skills. On the fateful day, he soared, scoring the winning goal, sealing his team's triumph and etching his name in sporting history." },
         {
             "id": "#26",
-            "nombre": "Bertor****",
+            "nombre": "Bertor",
             "modelo": "MC",
             "img": "img/26.webp",
             "precio": "SC->69",
@@ -300,7 +300,7 @@
             "historia": "<h5-titan>Bertor:</h5-titan> <br> Bertor, a gifted footballer, shattered records with his audacious bicycle kick. Crowds roared, captivated by his prowess. Legends spread of his mesmerizing footwork, etching his name into football history forever." },
         {
             "id": "#27",
-            "nombre": "Hurtor****",
+            "nombre": "Hurtor",
             "modelo": "MC",
             "img": "img/27.webp",
             "precio": "SC->68",
@@ -312,7 +312,7 @@
             "historia": "<h5-inferno>Hurtor:</h5-inferno> <br> Once upon a time, Hurtor, a talented footballer, faced countless obstacles. With sheer determination, he overcame adversity, leading his team to victory and becoming a legend on and off the field." },
         {
             "id": "#28",
-            "nombre": "Werfer****",
+            "nombre": "Werfer",
             "modelo": "POR",
             "img": "img/28.webp",
             "precio": "SC->95",
@@ -324,7 +324,7 @@
             "historia": "<h5-titan>Werfer:</h5-titan> <br> In the world of football, Werfer, a rising star, faced countless obstacles. Through relentless determination, he conquered adversity, inspiring his teammates and fans alike. With each goal, he etched his name in the annals of greatness." },
         {
             "id": "#29",
-            "nombre": "Moni****",
+            "nombre": "Moni",
             "modelo": "DEF",
             "img": "img/29.webp",
             "precio": "SC->66",
@@ -337,7 +337,7 @@
             "historia": "<h5-arcane>Moni:</h5-arcane> <br> In the realm of football, Moni emerged as a force to be reckoned with. With lightning-fast speed and unparalleled finesse, she left defenders in her wake. Her name echoed through stadiums as she led her team to triumph, forever etching her legacy in the beautiful game." },
         {
             "id": "#30",
-            "nombre": "Piscis****",
+            "nombre": "Piscis",
             "modelo": "DEF",
             "img": "img/30.webp",
             "precio": "SC->86",
@@ -350,7 +350,7 @@
             "historia": "<h5-titan>Piscis:</h5-titan> <br> Piscis, a skilled football player, discovered a magical amulet. It granted him extraordinary speed and agility, helping him score incredible goals. His legend spread, inspiring aspiring athletes worldwide." },
         {
             "id": "#31",
-            "nombre": "Turux****",
+            "nombre": "Turux",
             "modelo": "MC",
             "img": "img/31.webp",
             "precio": "SC->75",
@@ -363,7 +363,7 @@
             "historia": "<h5-inferno>Turux:</h5-inferno> <br> Turux, a talented football player, possessed an extraordinary power. With his colossal kick, he shattered the stadium, unleashing a magical storm that forever changed the game." },
         {
             "id": "#32",
-            "nombre": "Turtle****",
+            "nombre": "Turtle",
             "modelo": "DEL",
             "img": "img/32.webp",
             "precio": "SC->81",
@@ -376,7 +376,7 @@
             "historia": "<h5-celestial>Turtle:</h5-celestial> <br> Turtle, a football prodigy, possessed grace and agility on the field. With each precise pass and nimble footwork, he orchestrated mesmerizing plays. Despite his quiet nature, his impact spoke volumes, propelling his team to victory and leaving opponents shell-shocked in his wake." },
         {
             "id": "#33",
-            "nombre": "Arie****",
+            "nombre": "Arie",
             "modelo": "MC",
             "img": "img/33.webp",
             "precio": "SC->72",
@@ -389,7 +389,7 @@
             "historia": "<h5-quantum>Arie:</h5-quantum> <br> Arie, a talented footballer, discovered a mysterious amulet. It granted him extraordinary powers on the pitch, leading his team to victory. However, dark forces sought to steal it, unleashing an epic battle for its possession." },
         {
             "id": "#34",
-            "nombre": "Derma****",
+            "nombre": "Derma",
             "modelo": "MC",
             "img": "img/34.webp",
             "precio": "SC->66",
@@ -402,7 +402,7 @@
             "historia": "<h5-arcane>Derma:</h5-arcane> <br> Derma, a unique footballer, had an extraordinary gift. His skin possessed a magical touch, granting him unparalleled control over the ball. With each delicate touch, he weaved through defenders effortlessly, leaving them bewildered. His mesmerizing skills" },
         {
             "id": "#35",
-            "nombre": "Jokert****",
+            "nombre": "Jokert",
             "modelo": "MC",
             "img": "img/35.webp",
             "precio": "SC->95",
@@ -415,7 +415,7 @@
             "historia": "<h5-quantum>Jokert:</h5-quantum> <br> Jokert, a football maverick, brought laughter and unpredictability to the game. With a mischievous grin and endless trickery, he bewildered defenders and delighted fans. His audacious flicks and unexpected moves made him an enigma on the field." },
         {
             "id": "#36",
-            "nombre": "Bryan****",
+            "nombre": "Bryan",
             "modelo": "MC",
             "img": "img/36.webp",
             "precio": "SC->92",
@@ -427,7 +427,7 @@
             "historia": "<h5-inferno>Bryan:</h5-inferno> <br> Bryan, a humble footballer, possessed an indomitable spirit. Despite facing setbacks, he never lost faith in his abilities. With relentless determination, he overcame every challenge, emerging as a beacon of resilience. " },
         {
             "id": "#37",
-            "nombre": "Matthew****",
+            "nombre": "Matthew",
             "modelo": "DEL",
             "img": "img/37.webp",
             "precio": "SC->63",
@@ -440,7 +440,7 @@
             "historia": "<h5-technomancer>Matthew:</h5-technomancer> <br> Matthew, a rising star in football, was a true embodiment of elegance and precision. With impeccable technique and a keen eye for opportunities, he orchestrated plays that left spectators in awe." },
         {
             "id": "#38",
-            "nombre": "Kevin****",
+            "nombre": "Kevin",
             "modelo": "DEF",
             "img": "img/38.webp",
             "precio": "SC->71",
@@ -453,7 +453,7 @@
             "historia": "<h5-technomancer>Kevin:</h5-technomancer> <br> Kevin, a tenacious footballer, possessed an insatiable hunger for success. With lightning speed and unwavering determination, he dashed past defenders, leaving them in his wake. His thunderous strikes and unwavering work ethic made him a force to be reckoned with." },
         {
             "id": "#39",
-            "nombre": "Ryan****",
+            "nombre": "Ryan",
             "modelo": "DEF",
             "img": "img/39.webp",
             "precio": "SC->63",
@@ -466,7 +466,7 @@
             "historia": "<h5-titan>Ryan:</h5-titan> <br> Ryan, a charismatic footballer, had an infectious energy that ignited his teammates and captivated fans. With his lightning-quick reflexes and impeccable timing, he made jaw-dropping saves that defied logic. " },
         {
             "id": "#40",
-            "nombre": "Gordon****",
+            "nombre": "Gordon",
             "modelo": "MC",
             "img": "img/40.webp",
             "precio": "SC->81",
@@ -479,7 +479,7 @@
             "historia": "<h5-inferno>Gordon:</h5-inferno> <br> Gordon, a fearless footballer, possessed an unyielding spirit on the pitch. With his thunderous tackles and commanding presence, he dominated the game. His strategic prowess and exceptional leadership inspired his teammates to push beyond their limits. " },
         {
             "id": "#41",
-            "nombre": "Doyle****",
+            "nombre": "Doyle",
             "modelo": "DEF",
             "img": "img/41.webp",
             "precio": "SC->82",
@@ -492,7 +492,7 @@
             "historia": "<h5-celestial>Doyle:</h5-celestial> <br> Doyle, a gifted footballer, had an uncanny ability to read the game. With his intelligent positioning and tactical awareness, he controlled the flow of play. His pinpoint passes and visionary assists orchestrated moments of brilliance." },
         {
             "id": "#42",
-            "nombre": "Barron****",
+            "nombre": "Barron",
             "modelo": "DEL",
             "img": "img/42.webp",
             "precio": "SC->77",
@@ -505,7 +505,7 @@
             "historia": "<h5-quantum>Barron:</h5-quantum> <br> Barron, a powerhouse on the football field, possessed unrivaled strength and athleticism. With his thunderous headers and bone-crushing tackles, he dominated both ends of the pitch. His towering presence instilled fear in opponents." },
         {
             "id": "#43",
-            "nombre": "Martinez****",
+            "nombre": "Martinez",
             "modelo": "MC",
             "img": "img/43.webp",
             "precio": "SC->79",
@@ -518,7 +518,7 @@
             "historia": "<h5-arcane>Martinez:</h5-arcane> <br> Martinez, a prodigious footballer, showcased sublime skill and artistry on the field. With his elegant dribbling and surgical precision, he mesmerized spectators. His powerful strikes found the back of the net with unerring accuracy." },
         {
             "id": "#44",
-            "nombre": "Daniel****",
+            "nombre": "Daniel",
             "modelo": "MC",
             "img": "img/44.webp",
             "precio": "SC->67",
@@ -531,7 +531,7 @@
             "historia": "<h5-titan>Daniel:</h5-titan> <br> Daniel, a prodigy in the world of football, possessed a natural talent that set him apart. With effortless grace and exceptional ball control, he danced past defenders, leaving them in his wake. " },
         {
             "id": "#45",
-            "nombre": "Lawrence****",
+            "nombre": "Lawrence",
             "modelo": "DEL",
             "img": "img/45.webp",
             "precio": "SC->77",
@@ -544,7 +544,7 @@
             "historia": "<h5-technomancer>Lawrence:</h5-technomancer> <br> Lawrence, a football enigma, defied conventional norms on the pitch. With his unorthodox style and unconventional tactics, he perplexed opponents and confounded analysts. His unexpected moves and audacious gambles paid off." },
         {
             "id": "#46",
-            "nombre": "John****",
+            "nombre": "John",
             "modelo": "MC",
             "img": "img/46.webp",
             "precio": "SC->96",
@@ -556,7 +556,7 @@
             "historia": "<h5-titan>John:</h5-titan> <br> John, a tenacious footballer, possessed an unwavering determination that fueled his every move on the field. With his relentless work rate and never-say-die attitude, he inspired his teammates to give their all. " },
         {
             "id": "#47",
-            "nombre": "Butler****",
+            "nombre": "Butler",
             "modelo": "DEF",
             "img": "img/47.webp",
             "precio": "SC->73",
@@ -569,7 +569,7 @@
             "historia": "<h5-arcane>Butler:</h5-arcane> <br> Butler, a football virtuoso, conducted the game with masterful precision. With his impeccable control and visionary passes, he orchestrated plays like a symphony. His elegant footwork and calculated decision-making earned him the title of The Maestro of the Midfield" },
         {
             "id": "#48",
-            "nombre": "Hicks****",
+            "nombre": "Hicks",
             "modelo": "MC",
             "img": "img/48.webp",
             "precio": "SC->85",
@@ -582,7 +582,7 @@
             "historia": "<h5-celestial>Hicks:</h5-celestial> <br> Hicks, a dynamic footballer, possessed explosive speed and agility on the field. With lightning-quick sprints and dazzling footwork, he left defenders in his wake." },
         {
             "id": "#49",
-            "nombre": "Aaron****",
+            "nombre": "Aaron",
             "modelo": "DEL",
             "img": "img/49.webp",
             "precio": "SC->83",
@@ -595,7 +595,7 @@
             "historia": "<h5-quantum>Aaron:</h5-quantum> <br> Aaron, a young and aspiring footballer, had a heart filled with passion for the game. Despite facing numerous setbacks, he never lost sight of his dreams. With unwavering determination and countless hours of practice." },
         {
             "id": "#50",
-            "nombre": "Maria****",
+            "nombre": "Maria",
             "modelo": "MC",
             "img": "img/50.webp",
             "precio": "SC->79",
@@ -607,7 +607,7 @@
             "historia": "<h5-inferno>Maria:</h5-inferno> <br> In the bustling city of Rosario, Maria, a young girl with fire in her eyes, fell in love with football. From the moment she touched the ball, her talent was undeniable. Against societal expectations, Maria defied stereotypes, paving her own path in a male-dominated sport." },
         {
             "id": "#51",
-            "nombre": "Smith****",
+            "nombre": "Smith",
             "modelo": "MC",
             "img": "img/51.webp",
             "precio": "SC->66",
@@ -619,7 +619,7 @@
             "historia": "<h5-technomancer>Smith:</h5-technomancer> <br> In the small town of Willowbrook, a young boy named Smith discovered his love for football. From an early age, he would kick a tattered ball against the old brick wall, dreaming of one day playing on a grand stage." },
         {
             "id": "#52",
-            "nombre": "Stanler****",
+            "nombre": "Stanler",
             "modelo": "DEF",
             "img": "img/52.webp",
             "precio": "SC->64",
@@ -631,7 +631,7 @@
             "historia": "<h5-quantum>Stanler:</h5-quantum> <br> In the bustling city of Metropolis, Stanler, a charismatic and ambitious footballer, emerged from the shadows. With his magnetic personality and natural leadership, he united his teammates like a tightly-knit family." },
         {
             "id": "#53",
-            "nombre": "Boba****",
+            "nombre": "Boba",
             "modelo": "DEL",
             "img": "img/53.webp",
             "precio": "SC->64",
@@ -643,7 +643,7 @@
             "historia": "<h5-celestial>Boba:</h5-celestial> <br> In the quiet town of Serenity Valley, Boba, an unassuming figure, found solace in the game of football. With a calm demeanor and precise technique, he effortlessly glided across the pitch. Boba's humility masked his extraordinary talent." },
         {
             "id": "#54",
-            "nombre": "Moon****",
+            "nombre": "Moon",
             "modelo": "DEL",
             "img": "img/54.webp",
             "precio": "SC->97",
@@ -654,7 +654,7 @@
             "historia": "<h5-arcane>Moon:</h5-arcane> <br> In the mystical land of Lunaris, Moon, a football prodigy, was born under a celestial alignment. Gifted with extraordinary agility and grace, she moved across the field as if floating on moonbeams. " },
         {
             "id": "#55",
-            "nombre": "Mark****",
+            "nombre": "Mark",
             "modelo": "DEF",
             "img": "img/55.webp",
             "precio": "SC->69",
@@ -666,7 +666,7 @@
             "historia": "<h5-inferno>Mark:</h5-inferno> <br> Mark, a relentless and determined footballer, had a burning desire for success. From an early age, he displayed an unwavering work ethic, dedicating himself to perfecting his craft." },
         {
             "id": "#56",
-            "nombre": "Wolf****",
+            "nombre": "Wolf",
             "modelo": "DEF",
             "img": "img/56.webp",
             "precio": "SC->72",
@@ -678,7 +678,7 @@
             "historia": "<h5-celestial>Wolf:</h5-celestial> <br> Wolf, a fearless and predatory footballer, prowled the pitch with unmatched intensity. With his piercing eyes and lightning-quick reflexes, he hunted down the ball relentlessly." },
         {
             "id": "#57",
-            "nombre": "Gary****",
+            "nombre": "Gary",
             "modelo": "MC",
             "img": "img/57.webp",
             "precio": "SC->73",
@@ -690,7 +690,7 @@
             "historia": "<h5-quantum>Gary:</h5-quantum> <br> In the bustling city of Steelport, Gary, a tenacious and gritty footballer, emerged from humble beginnings. With his unwavering determination and iron will, he fought his way through adversity to reach the pinnacle of the sport." },
         {
             "id": "#58",
-            "nombre": "Rhodes****",
+            "nombre": "Rhodes",
             "modelo": "MC",
             "img": "img/58.webp",
             "precio": "SC->79",
@@ -702,7 +702,7 @@
             "historia": "<h5-arcane>Rhodes:</h5-arcane> <br> In the picturesque town of Meadowbrook, Rhodes, a charismatic and elegant footballer, graced the fields with his presence. With his graceful movements and impeccable technique, he mesmerized onlookers." },
         {
             "id": "#59",
-            "nombre": "Molina****",
+            "nombre": "Molina",
             "modelo": "MC",
             "img": "img/59.webp",
             "precio": "SC->69",
@@ -714,7 +714,7 @@
             "historia": "<h5-technomancer>Molina:</h5-technomancer> <br> In the vibrant city of Solana, Molina, a dynamic and versatile footballer, emerged as a beacon of talent. With his explosive speed and quicksilver footwork, he left defenders in his wake." },
         {
             "id": "#60",
-            "nombre": "Meyer****",
+            "nombre": "Meyer",
             "modelo": "MC",
             "img": "img/60.webp",
             "precio": "SC->70",
@@ -726,7 +726,7 @@
             "historia": "<h5-titan>Meyer:</h5-titan> <br> In the vibrant footballing hub of Riverton, Meyer, a prodigious young talent, burst onto the scene. With his creative flair and impeccable ball control, he mesmerized fans and pundits alike. " },
         {
             "id": "#61",
-            "nombre": "Cowan****",
+            "nombre": "Cowan",
             "modelo": "DEF",
             "img": "img/61.webp",
             "precio": "SC->71",
@@ -738,7 +738,7 @@
             "historia": "<h5-celestial>Cowan:</h5-celestial> <br> Cowan, a towering presence on the football pitch, commanded attention with his strength and aerial prowess. His towering headers and dominant presence in the box made him a formidable force on set pieces." },
         {
             "id": "#62",
-            "nombre": "Queren****",
+            "nombre": "Queren",
             "modelo": "DEF",
             "img": "img/62.webp",
             "precio": "SC->79",
@@ -750,7 +750,7 @@
             "historia": "<h5-arcane>Queren:</h5-arcane> <br> Queren, a graceful and nimble footballer, glided across the pitch with effortless ease. With her mesmerizing dribbling and lightning-fast footwork, she left defenders chasing shadows." },
         {
             "id": "#63",
-            "nombre": "Simple****",
+            "nombre": "Simple",
             "modelo": "MC",
             "img": "img/63.webp",
             "precio": "SC->85",
@@ -762,7 +762,7 @@
             "historia": "<h5-technomancer>Simple:</h5-technomancer> <br> Simple, a footballer with a pure and unadorned style of play, embraced the essence of the game. With his clean and precise passes, he simplified the complex, effortlessly dictating the flow of the match." },
         {
             "id": "#64",
-            "nombre": "Laver****",
+            "nombre": "Laver",
             "modelo": "MC",
             "img": "img/64.webp",
             "precio": "SC->77",
@@ -774,7 +774,7 @@
             "historia": "<h5-quantum>Laver:</h5-quantum> <br> Laver, a dynamic and explosive footballer, blazed across the pitch like a shooting star. With his electrifying speed and lightning-quick reflexes, he left defenders in his wake." },
         {
             "id": "#65",
-            "nombre": "Leon****",
+            "nombre": "Leon",
             "modelo": "DEL",
             "img": "img/65.webp",
             "precio": "SC->87",
@@ -786,7 +786,7 @@
             "historia": "<h5-inferno>Leon:</h5-inferno> <br> Leon, a football prodigy with a lion's heart, roared onto the field with unmatched ferocity. With his unrivaled strength and relentless drive, he dominated opponents in every duel." },
         {
             "id": "#66",
-            "nombre": "Moore****",
+            "nombre": "Moore",
             "modelo": "DEF",
             "img": "img/66.webp",
             "precio": "SC->93",
@@ -797,7 +797,7 @@
             "historia": "<h5-celestial>Moore:</h5-celestial> <br> Moore, a visionary footballer, possessed an innate ability to read the game like a book. With his intelligent positioning and exceptional anticipation, he dictated the flow of play." },
         {
             "id": "#67",
-            "nombre": "Wheeler****",
+            "nombre": "Wheeler",
             "modelo": "MC",
             "img": "img/67.webp",
             "precio": "SC->96",
@@ -809,7 +809,7 @@
             "historia": "<h5-quantum>Wheeler:</h5-quantum> <br> Wheeler, a talented footballer with a captivating presence, burst onto the scene with an undeniable flair. From the bustling streets of London to the grandest stadiums, his mesmerizing skills dazzled spectators." },
         {
             "id": "#68",
-            "nombre": "Zimmer****",
+            "nombre": "Zimmer",
             "modelo": "DEF",
             "img": "img/68.webp",
             "precio": "SC->74",
@@ -821,7 +821,7 @@
             "historia": "<h5-technomancer>Zimmer:</h5-technomancer> <br> Zimmer, a resilient and indomitable footballer, hailed from a small village nestled amidst rolling hills. From an early age, he displayed an unwavering passion for the game." },
         {
             "id": "#69",
-            "nombre": "Levy****",
+            "nombre": "Levy",
             "modelo": "MC",
             "img": "img/69.webp",
             "precio": "SC->76",
@@ -833,7 +833,7 @@
             "historia": "<h5-titan>Levy:</h5-titan> <br> Levy, a prodigious young footballer, possessed a natural talent that set him apart from his peers. With his elegant footwork and exquisite ball control, he glided across the pitch like a ballet dancer." },
         {
             "id": "#70",
-            "nombre": "Krystal****",
+            "nombre": "Krystal",
             "modelo": "DEL",
             "img": "img/70.webp",
             "precio": "SC->76",
@@ -845,7 +845,7 @@
             "historia": " <h5-quantum>Krystal:</h5-quantum> <br> Amidst the bustling city streets, Krystal, a rising star in the world of football, emerged with a captivating presence." },
         {
             "id": "#71",
-            "nombre": "Hines****",
+            "nombre": "Hines",
             "modelo": "POR",
             "img": "img/71.webp",
             "precio": "SC->82",
@@ -857,7 +857,7 @@
             "historia": "<h5-arcane>Hines:</h5-arcane> <br> Hines, a charismatic and enigmatic footballer, possessed an aura that captivated both fans and opponents. With his mesmerizing dribbling skills and lightning-fast agility." },
         {
             "id": "#72",
-            "nombre": "Torres****",
+            "nombre": "Torres",
             "modelo": "POR",
             "img": "img/72.webp",
             "precio": "SC->80",
@@ -869,7 +869,7 @@
             "historia": "<h5-technomancer>Torres:</h5-technomancer> <br> Torres, a prodigious young footballer, possessed an innate talent that set him apart from the rest. With his graceful movements and impeccable control, he glided across the pitch like a maestro." },
         {
             "id": "#73",
-            "nombre": "Brown****",
+            "nombre": "Brown",
             "modelo": "POR",
             "img": "img/73.webp",
             "precio": "SC->85",
@@ -881,7 +881,7 @@
             "historia": "<h5-celestial>Brown:</h5-celestial> <br> Brown, a resilient and tenacious footballer, rose from humble beginnings to become a symbol of perseverance. With his relentless work ethic and unwavering determination, he overcame every obstacle in his path." },
         {
             "id": "#74",
-            "nombre": "Amy****",
+            "nombre": "Amy",
             "modelo": "POR",
             "img": "img/74.webp",
             "precio": "SC->83",
@@ -893,7 +893,7 @@
             "historia": "<h5-titan>Amy:</h5-titan> <br> Amy, a dynamic and spirited footballer, possessed a natural talent that radiated on the pitch. With her lightning-fast speed and nimble footwork, she weaved through defenses effortlessly." },
         {
             "id": "#75",
-            "nombre": "Light****",
+            "nombre": "Light",
             "modelo": "MC",
             "img": "img/75.webp",
             "precio": "SC->99",
@@ -904,7 +904,7 @@
             "historia": "<h5-inferno>Light:</h5-inferno> <br> Light, a gifted and righteous footballer, rises against darkness, inspiring the world with his magical skills and unwavering integrity, becoming a legendary symbol of hope and unity in the game." },
         {
             "id": "#76",
-            "nombre": "Ewing****",
+            "nombre": "Ewing",
             "modelo": "DEF",
             "img": "img/76.webp",
             "precio": "SC->71",
@@ -916,7 +916,7 @@
             "historia": "<h5-inferno>Ewing:</h5-inferno> <br> Ewing, a towering presence on the football pitch, dominated both in the air and on the ground. With his commanding presence in defense, he thwarted attacks and instilled fear in opponents." },
         {
             "id": "#77",
-            "nombre": "Byrd****",
+            "nombre": "Byrd",
             "modelo": "DEF",
             "img": "img/77.webp",
             "precio": "SC->72",
@@ -928,7 +928,7 @@
             "historia": "<h5-celestial>Byrd:</h5-celestial> <br> Byrd, a fearless and agile footballer, soared above the competition with grace and precision. With his lightning-fast speed and impeccable timing, he outmaneuvered defenders and left them in his wake. " },
         {
             "id": "#78",
-            "nombre": "Moreno****",
+            "nombre": "Moreno",
             "modelo": "DEF",
             "img": "img/78.webp",
             "precio": "SC->73",
@@ -940,7 +940,7 @@
             "historia": "<h5-quantum>Moreno:</h5-quantum> <br> In the heart of the footballing world, a legend was born—Moreno, a maestro of the beautiful game. From the very first touch of the ball, his extraordinary talent was evident." },
         {
             "id": "#79",
-            "nombre": "Taylor****",
+            "nombre": "Taylor",
             "modelo": "DEF",
             "img": "img/79.webp",
             "precio": "SC->74",
@@ -952,7 +952,7 @@
             "historia": "<h5-arcane>Taylor:</h5-arcane> <br> Taylor, a rising star in the world of football, emerged with a tenacity and hunger for greatness that set her apart from the rest. With her lightning-fast speed and impeccable technique." },
         {
             "id": "#80",
-            "nombre": "Reed****",
+            "nombre": "Reed",
             "modelo": "DEF",
             "img": "img/80.webp",
             "precio": "SC->75",
@@ -964,7 +964,7 @@
             "historia": "<h5-technomancer>Reed:</h5-technomancer> <br> Reed, a gifted and versatile footballer, possessed an innate ability to influence the game from any position. With his exceptional vision and precise passing, he orchestrated plays and set up his teammates for success." },
         {
             "id": "#81",
-            "nombre": "Miller****",
+            "nombre": "Miller",
             "modelo": "DEF",
             "img": "img/81.webp",
             "precio": "SC->76",
@@ -975,7 +975,7 @@
             "historia": "<h5-titan>Miller:</h5-titan> <br> Miller, a relentless and determined footballer, left a trail of fire in his wake. With his explosive speed and unwavering focus, he tore through defenses like a force of nature." },
         {
             "id": "#82",
-            "nombre": "Patton****",
+            "nombre": "Patton",
             "modelo": "DEF",
             "img": "img/82.webp",
             "precio": "SC->77",
@@ -986,7 +986,7 @@
             "historia": "<h5-titan>Patton:</h5-titan> <br> " },
         {
             "id": "#83",
-            "nombre": "Stephens****",
+            "nombre": "Stephens",
             "modelo": "DEF",
             "img": "img/83.webp",
             "precio": "SC->78",
@@ -997,7 +997,7 @@
             "historia": "<h5-technomancer>Stephens:</h5-technomancer> <br> Stephens, a composed and intelligent footballer, possessed a rare blend of technical skill and tactical awareness. With his precise passes and ability to control the tempo of the game." },
         {
             "id": "#84",
-            "nombre": "Weber****",
+            "nombre": "Weber",
             "modelo": "DEF",
             "img": "img/84.webp",
             "precio": "SC->79",
@@ -1008,7 +1008,7 @@
             "historia": "<h5-arcane>Weber:</h5-arcane> <br> Weber, a towering presence on the football field, commanded respect with his physicality and aerial dominance. With his imposing stature and commanding presence in defense." },
         {
             "id": "#85",
-            "nombre": "Mcfarland****",
+            "nombre": "Mcfarland",
             "modelo": "DEF",
             "img": "img/85.webp",
             "precio": "SC->80",
@@ -1019,7 +1019,7 @@
             "historia": "<h5-quantum>Mcfarland:</h5-quantum> <br> McFarland, a fearless and relentless footballer, brought an unmatched intensity to the game." },
         {
             "id": "#86",
-            "nombre": "Joseph****",
+            "nombre": "Joseph",
             "modelo": "MC",
             "img": "img/86.webp",
             "precio": "SC->71",
@@ -1030,7 +1030,7 @@
             "historia": "<h5-celestial>Joseph:</h5-celestial> <br> Joseph, a charismatic and gifted footballer, possessed an innate flair that mesmerized both fans and opponents. With his quick feet and exceptional ball control." },
         {
             "id": "#87",
-            "nombre": "Ashley****",
+            "nombre": "Ashley",
             "modelo": "MC",
             "img": "img/87.webp",
             "precio": "SC->72",
@@ -1041,7 +1041,7 @@
             "historia": "<h5-inferno>Ashley:</h5-inferno> <br> Ashley, a relentless and dynamic footballer, blazed a trail on the pitch with her unmatched speed and agility. With lightning-quick sprints and lightning-fast footwork." },
         {
             "id": "#88",
-            "nombre": "Perkins****",
+            "nombre": "Perkins",
             "modelo": "MC",
             "img": "img/88.webp",
             "precio": "SC->73",
@@ -1052,7 +1052,7 @@
             "historia": "<h5-titan>Perkins:</h5-titan> <br> In the world of football, Perkins emerged as a formidable presence between the posts, ready to protect his team's goal with unwavering determination. " },
         {
             "id": "#89",
-            "nombre": "Owens****",
+            "nombre": "Owens",
             "modelo": "MC",
             "img": "img/89.webp",
             "precio": "SC->74",
@@ -1063,7 +1063,7 @@
             "historia": "<h5-arcane>Ownes:</h5-arcane> <br> Owens, a prodigious talent in the world of football, emerged with a burning desire to leave a lasting impact on the game. With his innate skills and unmatched work ethic." },
         {
             "id": "#90",
-            "nombre": "Davis****",
+            "nombre": "Davis",
             "modelo": "MC",
             "img": "img/90.webp",
             "precio": "SC->75",
@@ -1074,7 +1074,7 @@
             "historia": "<h5-quantum>Davis:</h5-quantum> <br> Davis, a football prodigy, burst onto the scene with an unrivaled blend of skill and creativity. With his silky dribbling and impeccable ball control, he weaved through opponents like a magician on the pitch." },
         {
             "id": "#91",
-            "nombre": "Marsh****",
+            "nombre": "Marsh",
             "modelo": "MC",
             "img": "img/91.webp",
             "precio": "SC->76",
@@ -1085,7 +1085,7 @@
             "historia": "<h5-celestial>Marsh:</h5-celestial> <br> Marsh, a relentless and dynamic footballer, carved his path on the pitch with a blend of speed, agility, and determination. With his lightning-fast runs and exceptional control of the ball." },
         {
             "id": "#92",
-            "nombre": "Chang****",
+            "nombre": "Chang",
             "modelo": "MC",
             "img": "img/92.webp",
             "precio": "SC->77",
@@ -1096,7 +1096,7 @@
             "historia": "<h5-technomancer>Chang:</h5-technomancer> <br> Chang, a football virtuoso, captivated the world with his mesmerizing skills and innovative style of play. With his exceptional close control and quick footwork." },
         {
             "id": "#93",
-            "nombre": "Mendez****",
+            "nombre": "Mendez",
             "modelo": "MC",
             "img": "img/93.webp",
             "precio": "SC->78",
@@ -1107,7 +1107,7 @@
             "historia": "<h5-celestial>Mendez:</h5-celestial> <br> Mendez, a football magician, dazzled the world with his extraordinary skills and natural flair. With his effortless dribbling and exquisite ball control, he left defenders in a state of bewilderment" },
         {
             "id": "#94",
-            "nombre": "Cruz****",
+            "nombre": "Cruz",
             "modelo": "MC",
             "img": "img/94.webp",
             "precio": "SC->79",
@@ -1118,7 +1118,7 @@
             "historia": "<h5-inferno>Cruz:</h5-inferno> <br> In the world of football, Cruz emerged as a beacon of inspiration and resilience. With unwavering determination and a relentless work ethic, he overcame every obstacle in his path." },
         {
             "id": "#95",
-            "nombre": "Weeks****",
+            "nombre": "Weeks",
             "modelo": "MC",
             "img": "img/95.webp",
             "precio": "SC->80",
@@ -1129,7 +1129,7 @@
             "historia": "<h5-quantum>Weeks:</h5-quantum> <br> Weeks, a tenacious and hardworking footballer, epitomized the spirit of never giving up. With his relentless energy and determination, he covered every inch of the pitch." },
         {
             "id": "#96",
-            "nombre": "Mitchell****",
+            "nombre": "Mitchell",
             "modelo": "DEL",
             "img": "img/96.webp",
             "precio": "SC->71",
@@ -1140,7 +1140,7 @@
             "historia": "<h5-arcane>Mitchell:</h5-arcane> <br> Mitchell, a dynamic and versatile footballer, possessed a unique blend of athleticism and skill. With his lightning speed and agility, he glided past defenders with ease." },
         {
             "id": "#97",
-            "nombre": "Thompson****",
+            "nombre": "Thompson",
             "modelo": "DEL",
             "img": "img/97.webp",
             "precio": "SC->72",
@@ -1151,7 +1151,7 @@
             "historia": "<h5-titan>Thompson:</h5-titan> <br> Thompson, a natural-born leader on the football pitch, commanded respect with his presence and unwavering dedication. With his exceptional aerial prowess and physical strength" },
         {
             "id": "#98",
-            "nombre": "Adkins****",
+            "nombre": "Adkins",
             "modelo": "DEL",
             "img": "img/98.webp",
             "precio": "SC->73",
@@ -1162,7 +1162,7 @@
             "historia": "<h5-inferno>Adkins:</h5-inferno> <br> Adkins, a master of the game, possessed a deep understanding of football's intricacies. With his exceptional vision and tactical intelligence, he dictated play from Striker." },
         {
             "id": "#99",
-            "nombre": "West****",
+            "nombre": "West",
             "modelo": "DEL",
             "img": "img/99.webp",
             "precio": "SC->74",
@@ -1173,7 +1173,7 @@
             "historia": "<h5-quantum>West:</h5-quantum> <br> West, a football prodigy, emerged as a rising star with his innate talent and natural flair. With his lightning-fast speed and nimble footwork, he left defenders in his wake." },
         {
             "id": "#100",
-            "nombre": "Massey****",
+            "nombre": "Massey",
             "modelo": "POR",
             "img": "img/100.webp",
             "precio": "SC->85",
@@ -1184,7 +1184,7 @@
             "historia": "<h5-arcane>Massey:</h5-arcane> <br> Massey, a football prodigy with an insatiable hunger for success, captured the hearts of fans with his breathtaking displays on the pitch." },
         {
             "id": "#101",
-            "nombre": "James****",
+            "nombre": "James",
             "modelo": "DEL",
             "img": "img/101.webp",
             "precio": "SC->75",
@@ -1195,7 +1195,7 @@
             "historia": "<h5-technomancer>James:</h5-technomancer> <br> James, a football prodigy with a magical touch, mesmerized audiences with his sublime skills and creativity on the pitch. With his exceptional vision and precision passing, he orchestrated his team's attacks with grace." },
         {
             "id": "#102",
-            "nombre": "Burnett****",
+            "nombre": "Burnett",
             "modelo": "DEL",
             "img": "img/102.webp",
             "precio": "SC->76",
@@ -1206,7 +1206,7 @@
             "historia": "<h5-titan>Burnett:</h5-titan> <br> Burnett, a prodigious footballer, possessed unrivaled speed and skill. His thunderous strikes shook stadiums, earning him fame worldwide. Despite adversity, he remained humble, inspiring aspiring players to chase their dreams relentlessly." },
         {
             "id": "#103",
-            "nombre": "Cain****",
+            "nombre": "Cain",
             "modelo": "DEL",
             "img": "img/103.webp",
             "precio": "SC->77",
@@ -1217,7 +1217,7 @@
             "historia": "<h5-inferno>Cain:</h5-inferno> <br> Cain, a formidable footballer with a relentless drive, dominated the field with his impeccable technique and unwavering determination. His fierce tackles sent shivers down opponents' spines." },
         {
             "id": "#104",
-            "nombre": "Daniel****",
+            "nombre": "Daniel",
             "modelo": "DEL",
             "img": "img/104.webp",
             "precio": "SC->78",
@@ -1228,7 +1228,7 @@
             "historia": "<h5-celestial>Daniel:</h5-celestial> <br> Daniel, a gifted footballer, possessed an innate vision on the field. His precise passes and calculated moves orchestrated mesmerizing plays." },
         {
             "id": "#105",
-            "nombre": "Michael****",
+            "nombre": "Michael",
             "modelo": "DEL",
             "img": "img/105.webp",
             "precio": "SC->79",
@@ -1239,7 +1239,7 @@
             "historia": "<h5-quantum>Michael:</h5-quantum> <br> Michael, a fearless footballer, defied all odds with his indomitable spirit. His agility and acrobatic saves made him a guardian between the posts." },
         {
             "id": "#106",
-            "nombre": "Blankenship****",
+            "nombre": "Blankenship",
             "modelo": "DEL",
             "img": "img/106.webp",
             "precio": "SC->80",
@@ -1250,7 +1250,7 @@
             "historia": "<h5-arcane>Blankenship:</h5-arcane> <br> Blankenship, a maverick footballer, embraced creativity in every aspect of the game. His audacious dribbles and innovative plays mesmerized spectators." },
         {
             "id": "#107",
-            "nombre": "Warren****",
+            "nombre": "Warren",
             "modelo": "MC",
             "img": "img/107.webp",
             "precio": "SC->83",
@@ -1261,7 +1261,7 @@
             "historia": "<h5-technomancer>Warren:</h5-technomancer> <br> Warren, a charismatic footballer, captured hearts with his flair and finesse. His mesmerizing dribbling skills and impeccable ball control left defenders bewildered." },
         {
             "id": "#108",
-            "nombre": "Burton****",
+            "nombre": "Burton",
             "modelo": "DEL",
             "img": "img/108.webp",
             "precio": "SC->82",
@@ -1272,7 +1272,7 @@
             "historia": "<h5-titan>Burton:</h5-titan> <br> Burton, a tenacious footballer, was known for his unmatched determination. His relentless work ethic and never-give-up attitude inspired his teammates." },
         {
             "id": "#109",
-            "nombre": "Clark****",
+            "nombre": "Clark",
             "modelo": "DEF",
             "img": "img/109.webp",
             "precio": "SC->84",
@@ -1283,7 +1283,7 @@
             "historia": "<h5-inferno>Clark:</h5-inferno> <br> Clark, a reserved footballer, let his actions speak louder than words. His intelligent positioning and tactical brilliance made him a formidable force on the field." },
         {
             "id": "#110",
-            "nombre": "Wise****",
+            "nombre": "Wise",
             "modelo": "DEF",
             "img": "img/110.webp",
             "precio": "SC->69",
@@ -1294,7 +1294,7 @@
             "historia": "<h5-celestial>Wise:</h5-celestial> <br> Wise, a football prodigy, possessed wisdom beyond his years. His astute decision-making and strategic gameplay set him apart. " },
         {
             "id": "#111",
-            "nombre": "Fitzgerald****",
+            "nombre": "Fitzgerald",
             "modelo": "DEF",
             "img": "img/111.webp",
             "precio": "SC->68",
@@ -1305,7 +1305,7 @@
             "historia": "<h5-quantum>Fitzgerald:</h5-quantum> <br> In the realm of football, Fitzgerald emerged as a formidable force. His lightning-fast speed and unparalleled agility left defenders in his wake." },
         {
             "id": "#112",
-            "nombre": "Swanson****",
+            "nombre": "Swanson",
             "modelo": "DEF",
             "img": "img/112.webp",
             "precio": "SC->67",
@@ -1316,7 +1316,7 @@
             "historia": "<h5-arcane>Swanson:</h5-arcane> <br> Swanson was a visionary. His ability to anticipate plays and create opportunities set him apart. With an elegant touch and impeccable finesse." },
         {
             "id": "#113",
-            "nombre": "Carter****",
+            "nombre": "Carter",
             "modelo": "DEF",
             "img": "img/113.webp",
             "precio": "SC->66",
@@ -1327,7 +1327,7 @@
             "historia": "<h5-technomancer>Carter:</h5-technomancer> <br> Carter, a relentless footballer, possessed a burning passion that fueled his every move on the field. His unmatched determination and unwavering work ethic set him apart." },
         {
             "id": "#114",
-            "nombre": "Lindsey****",
+            "nombre": "Lindsey",
             "modelo": "DEF",
             "img": "img/114.webp",
             "precio": "SC->65",
@@ -1338,7 +1338,7 @@
             "historia": "<h5-titan>Lindsey:</h5-titan> <br> Lindsey, a rising star in women's football, defied expectations with her electrifying speed and agility. Her precision passes and powerful shots ignited her team's success. " },
         {
             "id": "#115",
-            "nombre": "Alvarado****",
+            "nombre": "Alvarado",
             "modelo": "MC",
             "img": "img/115.webp",
             "precio": "SC->66",
@@ -1349,7 +1349,7 @@
             "historia": "<h5-inferno>Alvarado:</h5-inferno> <br> Alvarado, a versatile footballer, possessed a natural flair that mesmerized spectators. His mesmerizing footwork and creative playmaking earned him accolades." },
         {
             "id": "#116",
-            "nombre": "Sanders****",
+            "nombre": "Sanders",
             "modelo": "MC",
             "img": "img/116.webp",
             "precio": "SC->67",
@@ -1360,7 +1360,7 @@
             "historia": "<h5-celestial>Sanders:</h5-celestial> <br> Sanders, a resilient footballer, overcame countless obstacles to reach the pinnacle of the game. His unyielding determination and relentless work ethic propelled him forward." },
         {
             "id": "#117",
-            "nombre": "Palmer****",
+            "nombre": "Palmer",
             "modelo": "MC",
             "img": "img/117.webp",
             "precio": "SC->68",
@@ -1371,7 +1371,7 @@
             "historia": "<h5-quantum>Palmer:</h5-quantum> <br> Palmer, a seasoned football veteran, possessed an unmatched football intelligence. His leadership and composure on the field guided his team to victory. " },
         {
             "id": "#118",
-            "nombre": "Lee****",
+            "nombre": "Lee",
             "modelo": "MC",
             "img": "img/118.webp",
             "precio": "SC->69",
@@ -1382,7 +1382,7 @@
             "historia": "<h5-arcane>Lee:</h5-arcane> <br> Lee, a prodigious young talent, captivated audiences with his raw potential. His lightning-fast pace and technical finesse made him a constant threat on the field." },
         {
             "id": "#119",
-            "nombre": "Foster****",
+            "nombre": "Foster",
             "modelo": "DEL",
             "img": "img/119.webp",
             "precio": "SC->69",
@@ -1393,7 +1393,7 @@
             "historia": "<h5-technomancer>Foster:</h5-technomancer> <br> Foster, a defensive stalwart, was a fortress at the heart of the team's defense. His impeccable timing and uncompromising tackles thwarted opponents' advances. " },
         {
             "id": "#120",
-            "nombre": "Gross****",
+            "nombre": "Gross",
             "modelo": "DEL",
             "img": "img/120.webp",
             "precio": "SC->68",
@@ -1404,7 +1404,7 @@
             "historia": "<h5-titan>Gross:</h5-titan> <br> Gross, a midfield maestro, orchestrated the rhythm of the game with his precise passes and exceptional vision" },
         {
             "id": "#121",
-            "nombre": "Wright****",
+            "nombre": "Wright",
             "modelo": "DEL",
             "img": "img/121.webp",
             "precio": "SC->67",
@@ -1415,7 +1415,7 @@
             "historia": "<h5-inferno>Wright:</h5-inferno> <br> Wright, a prolific striker, possessed a lethal combination of speed and clinical finishing. His explosive runs and instinctive goal-scoring ability." },
         {
             "id": "#122",
-            "nombre": "Davis****",
+            "nombre": "Davis",
             "modelo": "DEL",
             "img": "img/122.webp",
             "precio": "SC->66",
@@ -1426,7 +1426,7 @@
             "historia": "<h5-celestial>Davis:</h5-celestial> <br> Davis, a dependable goalkeeper, was a guardian between the posts. His acrobatic saves and quick reflexes earned him a reputation as a shot-stopping sensation. " },
         {
             "id": "#123",
-            "nombre": "Meyer****",
+            "nombre": "Meyer",
             "modelo": "DEL",
             "img": "img/123.webp",
             "precio": "SC->65",
@@ -1437,7 +1437,7 @@
             "historia": "<h5-quantum>Meyer:</h5-quantum> <br> Meyer, a creative playmaker, possessed a mesmerizing repertoire of skills. His deft touches and intricate dribbling mesmerized fans." },
         {
             "id": "#124",
-            "nombre": "Pacheco****",
+            "nombre": "Pacheco",
             "modelo": "POR",
             "img": "img/124.webp",
             "precio": "SC->68",
@@ -1448,7 +1448,7 @@
             "historia": "<h5-arcane>Pacheco:</h5-arcane> <br> Pacheco, a tenacious defender, was a stalwart in the team's backline. His impeccable timing and fearless tackles made him a formidable force." },
         {
             "id": "#125",
-            "nombre": "Boyle****",
+            "nombre": "Boyle",
             "modelo": "POR",
             "img": "img/125.webp",
             "precio": "SC->67",
@@ -1459,7 +1459,7 @@
             "historia": "<h5-technomancer>Boyle:</h5-technomancer> <br> Boyle, an explosive winger, possessed lightning-fast speed and dazzling dribbling skills. His ability to take on defenders and deliver pinpoint crosses made him a constant threat." },
         {
             "id": "#126",
-            "nombre": "Keller****",
+            "nombre": "Keller",
             "modelo": "DEF",
             "img": "img/126.webp",
             "precio": "SC->88",
@@ -1470,7 +1470,7 @@
             "historia": "<h5-titan>Keller:</h5-titan> <br> Keller, a veteran goalkeeper, commanded the penalty area with his experience and impeccable shot-stopping abilities." },
         {
             "id": "#127",
-            "nombre": "Sawyer****",
+            "nombre": "Sawyer",
             "modelo": "DEL",
             "img": "img/127.webp",
             "precio": "SC->88",
@@ -1481,7 +1481,7 @@
             "historia": "<h5-inferno>Sawyer:</h5-inferno> <br> Sawyer, a dynamic midfielder, possessed a blend of power and finesse that made him a force to be reckoned with. " },
         {
             "id": "#128",
-            "nombre": "Barron****",
+            "nombre": "Barron",
             "modelo": "MC",
             "img": "img/128.webp",
             "precio": "SC->88",
@@ -1492,7 +1492,7 @@
             "historia": "<h5-celestial>Barron:</h5-celestial> <br> Barron, a natural-born striker, had an instinct for goal-scoring. His predatory instincts and clinical finishing made him a nightmare for opposing defenders. " },
         {
             "id": "#129",
-            "nombre": "Robinson****",
+            "nombre": "Robinson",
             "modelo": "DEF",
             "img": "img/129.webp",
             "precio": "SC->69",
@@ -1503,7 +1503,7 @@
             "historia": "<h5-quantum>Robinson:</h5-quantum> <br> Robinson, a charismatic forward, possessed an innate ability to find the back of the net. His agility and clever movement made him a constant threat in the attacking third. " },
         {
             "id": "#130",
-            "nombre": "Ross****",
+            "nombre": "Ross",
             "modelo": "DEF",
             "img": "img/130.webp",
             "precio": "SC->68",
@@ -1514,7 +1514,7 @@
             "historia": "<h5-arcane>Ross:</h5-arcane> <br> Ross, a composed central midfielder, controlled the rhythm of the game with his precise passing and intelligent decision-making." },
         {
             "id": "#131",
-            "nombre": "Kaiser****",
+            "nombre": "Kaiser",
             "modelo": "DEF",
             "img": "img/131.webp",
             "precio": "SC->66",
@@ -1525,7 +1525,7 @@
             "historia": "<h5-technomancer>Kaiser:</h5-technomancer> <br> Kaiser, a towering central defender, was a formidable presence in the team's backline. His aerial dominance and commanding presence instilled fear in opposing attackers." },
         {
             "id": "#132",
-            "nombre": "Ronald****",
+            "nombre": "Ronald",
             "modelo": "MC",
             "img": "img/132.webp",
             "precio": "SC->69",
@@ -1536,7 +1536,7 @@
             "historia": "<h5-titan>Ronald:</h5-titan> <br> Ronald, a dazzling winger, dazzled spectators with his lightning-fast speed and mesmerizing dribbling skills." },
         {
             "id": "#133",
-            "nombre": "Fox****",
+            "nombre": "Fox",
             "modelo": "MC",
             "img": "img/133.webp",
             "precio": "SC->68",
@@ -1547,7 +1547,7 @@
             "historia": "<h5-inferno>Fox:</h5-inferno> <br> Fox, a no-nonsense central defender, was a pillar of strength in the team's defense. His tough tackles and commanding presence made him a formidable opponent for any striker." },
         {
             "id": "#134",
-            "nombre": "Herrera****",
+            "nombre": "Herrera",
             "modelo": "MC",
             "img": "img/134.webp",
             "precio": "SC->67",
@@ -1558,7 +1558,7 @@
             "historia": "<h5-celestial>Herrera:</h5-celestial> <br> Herrera, a midfield dynamo, orchestrated the team's play with his impeccable passing range and tireless work rate." },
         {
             "id": "#135",
-            "nombre": "Cole****",
+            "nombre": "Cole",
             "modelo": "DEF",
             "img": "img/135.webp",
             "precio": "SC->67",
@@ -1569,7 +1569,7 @@
             "historia": "<h5-quantum>Cole:</h5-quantum> <br> Cole, a composed and intelligent midfielder, dictated the team's play with his precise passing and exceptional vision. His ability to read the game and make decisive plays" },
         {
             "id": "#136",
-            "nombre": "Harris****",
+            "nombre": "Harris",
             "modelo": "MC",
             "img": "img/136.webp",
             "precio": "SC->66",
@@ -1580,7 +1580,7 @@
             "historia": "<h5-arcane>Harris:</h5-arcane> <br> Harris, a fearless and tenacious defender, was the backbone of the team's backline. Her exceptional positioning and strong tackles made her a formidable force to reckon with" },
         {
             "id": "#137",
-            "nombre": "Carpenter****",
+            "nombre": "Carpenter",
             "modelo": "DEL",
             "img": "img/137.webp",
             "precio": "SC->66",
@@ -1591,7 +1591,7 @@
             "historia": "<h5-technomancer>Carpenter:</h5-technomancer> <br> Carpenter, a dynamic and versatile forward, showcased her explosive speed and lethal finishing in the attacking third. Her ability to score goals from various positions." },
         {
             "id": "#138",
-            "nombre": "Wilson****",
+            "nombre": "Wilson",
             "modelo": "DEL",
             "img": "img/138.webp",
             "precio": "SC->67",
@@ -1602,7 +1602,7 @@
             "historia": "<h5-titan>Wilson:</h5-titan> <br> Wilson, a natural-born striker, possessed an uncanny ability to find the back of the net. His clinical finishing and intelligent movement made him a constant threat in the box." },
         {
             "id": "#139",
-            "nombre": "Chandler****",
+            "nombre": "Chandler",
             "modelo": "DEL",
             "img": "img/139.webp",
             "precio": "SC->68",
@@ -1613,7 +1613,7 @@
             "historia": "<h5-inferno>Chandler:</h5-inferno> <br> Chandler, a versatile and energetic full-back, covered every blade of grass on the field. His lung-bursting runs down the flank." },
         {
             "id": "#140",
-            "nombre": "Powers****",
+            "nombre": "Powers",
             "modelo": "DEL",
             "img": "img/140.webp",
             "precio": "SC->69",
@@ -1624,7 +1624,7 @@
             "historia": "<h5-celestial>Powers:</h5-celestial> <br> Powers, a midfield maestro, orchestrated the team's play with his exceptional passing range and intelligent decision-making." },
         {
             "id": "#141",
-            "nombre": "Hernandez****",
+            "nombre": "Hernandez",
             "modelo": "DEF",
             "img": "img/141.webp",
             "precio": "SC->83",
@@ -1635,7 +1635,7 @@
             "historia": "<h5-quantum>Hernandez:</h5-quantum> <br> Hernandez, a dynamic and skillful winger, dazzled spectators with his lightning-fast dribbling and intricate footwork. His ability to take on multiple defenders." },
         {
             "id": "#142",
-            "nombre": "Gomez****",
+            "nombre": "Gomez",
             "modelo": "MC",
             "img": "img/142.webp",
             "precio": "SC->84",
@@ -1646,7 +1646,7 @@
             "historia": "<h5-arcane>Gomez:</h5-arcane> <br> Gomez, a rock-solid central defender, provided a solid foundation for the team's defense. His strong tackles, aerial dominance." },
         {
             "id": "#143",
-            "nombre": "Hebert****",
+            "nombre": "Hebert",
             "modelo": "DEL",
             "img": "img/143.webp",
             "precio": "SC->85",
@@ -1657,7 +1657,7 @@
             "historia": "<h5-technomancer>Hebert:</h5-technomancer> <br> Hebert, a midfield general, orchestrated the team's play with his vision, passing accuracy, and tactical awareness. His ability to control the rhythm of the game." },
         {
             "id": "#144",
-            "nombre": "Buchanan****",
+            "nombre": "Buchanan",
             "modelo": "DEL",
             "img": "img/144.webp",
             "precio": "SC->92",
@@ -1668,7 +1668,7 @@
             "historia": "<h5-titan>Buchanan:</h5-titan> <br> Buchanan, a dynamic and versatile midfielder, showcased exceptional skills and athleticism on the field. His explosive speed, precise passing" },
         {
             "id": "#145",
-            "nombre": "Reese****",
+            "nombre": "Reese",
             "modelo": "MC",
             "img": "img/145.webp",
             "precio": "SC->93",
@@ -1679,7 +1679,7 @@
             "historia": "<h5-inferno>Reese:</h5-inferno> <br> Reese, a tenacious and reliable defender, was the anchor of the team's backline. Her strong tackles, superb positioning, and leadership skills made her a defensive stalwart." },
         {
             "id": "#146",
-            "nombre": "Hickman****",
+            "nombre": "Hickman",
             "modelo": "DEF",
             "img": "img/146.webp",
             "precio": "SC->94",
@@ -1690,7 +1690,7 @@
             "historia": "<h5-celestial>Hickman:</h5-celestial> <br> Hickman, a clinical and composed striker, had an innate ability to find the back of the net. His lethal finishing, intelligent movement, and aerial prowess." },
         {
             "id": "#147",
-            "nombre": "Nolan****",
+            "nombre": "Nolan",
             "modelo": "DEF",
             "img": "img/147.webp",
             "precio": "SC->77",
@@ -1701,7 +1701,7 @@
             "historia": "<h5-quantum>Nolan:</h5-quantum> <br> Nolan, a defender maestro, dictated the tempo of the game with his exceptional vision and passing accuracy." },
         {
             "id": "#148",
-            "nombre": "Allen****",
+            "nombre": "Allen",
             "modelo": "DEF",
             "img": "img/148.webp",
             "precio": "SC->78",
@@ -1712,7 +1712,7 @@
             "historia": "<h5-arcane>Allen:</h5-arcane> <br> Allen, an agile and dynamic winger, mesmerized spectators with his dazzling dribbling skills and explosive pace. His ability to take on defender." },
         {
             "id": "#149",
-            "nombre": "Barret****",
+            "nombre": "Barret",
             "modelo": "MC",
             "img": "img/149.webp",
             "precio": "SC->78",
@@ -1723,7 +1723,7 @@
             "historia": "<h5-technomancer>Barret:</h5-technomancer> <br> Barrett, a resolute and commanding central defender, provided a solid foundation for the team's defense. His impeccable timing in tackles." },
         {
             "id": "#150",
-            "nombre": "Sniper****",
+            "nombre": "Sniper",
             "modelo": "MC",
             "img": "img/150.webp",
             "precio": "SC->77",
@@ -1734,7 +1734,7 @@
             "historia": "<h5-titan>Sniper:</h5-titan> <br> Sniper, a clinical striker, possessed a lethal combination of speed and precision in front of goal." },
         {
             "id": "#151",
-            "nombre": "Pratt****",
+            "nombre": "Pratt",
             "modelo": "DEL",
             "img": "img/151.webp",
             "precio": "SC->77",
@@ -1745,7 +1745,7 @@
             "historia": "<h5-inferno>Pratt:</h5-inferno> <br> Pratt, a dynamic and versatile striker, was the engine of the team's striker. His tireless work rate, exceptional passing range," },
         {
             "id": "#152",
-            "nombre": "Ramirez****",
+            "nombre": "Ramirez",
             "modelo": "DEL",
             "img": "img/152.webp",
             "precio": "SC->78",
@@ -1756,7 +1756,7 @@
             "historia": "<h5-celestial>Ramirez:</h5-celestial> <br> Ramirez, a commanding goalkeeper, was a formidable presence between the posts. His exceptional reflexes, shot-stopping abilities." },
         {
             "id": "#153",
-            "nombre": "Lazaro****",
+            "nombre": "Lazaro",
             "modelo": "DEL",
             "img": "img/153.webp",
             "precio": "SC->69",
@@ -1767,7 +1767,7 @@
             "historia": "<h5-quantum>Lazaro:</h5-quantum> <br> Lazaro, an explosive and clinical striker, struck fear into the hearts of opposing defenses. His lightning-fast speed and deadly finishing made him a constant threat in front of goal" },
         {
             "id": "#154",
-            "nombre": "Velazquez****",
+            "nombre": "Velazquez",
             "modelo": "MC",
             "img": "img/154.webp",
             "precio": "SC->69",
@@ -1778,7 +1778,7 @@
             "historia": "<h5-arcane>Velazquez:</h5-arcane> <br> Velazquez, a tenacious and relentless full-back, was a defensive powerhouse. His speed, stamina, and strong tackles made him a formidable force on the flank. " },
         {
             "id": "#155",
-            "nombre": "Pace****",
+            "nombre": "Pace",
             "modelo": "DEF",
             "img": "img/155.webp",
             "precio": "SC->69",
@@ -1789,7 +1789,7 @@
             "historia": "<h5-technomancer>Pace:</h5-technomancer> <br> Pace, a solid and dependable defender, was a wall in the team's backline. His exceptional pace, defensive positioning, and ability to read the game " },
         {
             "id": "#156",
-            "nombre": "Bray****",
+            "nombre": "Bray",
             "modelo": "MC",
             "img": "img/156.webp",
             "precio": "SC->95",
@@ -1800,7 +1800,7 @@
             "historia": "<h5-titan>Bray:</h5-titan> <br> Bray, a composed and intelligent midfielder, controlled the flow of the game with his exceptional passing range and tactical awareness." },
         {
             "id": "#157",
-            "nombre": "Fuller****",
+            "nombre": "Fuller",
             "modelo": "POR",
             "img": "img/157.webp",
             "precio": "SC->68",
@@ -1811,7 +1811,7 @@
             "historia": "<h5-inferno>Fuller:</h5-inferno> <br> Fuller, a skilled and agile goalkeeper, was a crucial last line of defense for the team. His lightning-fast reflexes, excellent positioning, and ability to make acrobatic saves." },
         {
             "id": "#158",
-            "nombre": "Gibson****",
+            "nombre": "Gibson",
             "modelo": "POR",
             "img": "img/158.webp",
             "precio": "SC->69",
@@ -1822,7 +1822,7 @@
             "historia": "<h5-celestial>Gibson:</h5-celestial> <br> Gibson, another talented goalkeeper, brought a sense of calm and composure to the team's defense. With his exceptional shot-stopping ability, commanding presence in the box." },
         {
             "id": "#159",
-            "nombre": "Cobo ****",
+            "nombre": "Cobo ",
             "modelo": "POR",
             "img": "img/159.webp",
             "precio": "SC->85",
@@ -1833,7 +1833,7 @@
             "historia": "<h5-quantum>Cobo:</h5-quantum> <br> Cobo, an agile and athletic goalkeeper, displayed incredible reflexes and shot-stopping abilities. His ability to anticipate the opponent's moves and make acrobatic." },
         {
             "id": "#160",
-            "nombre": "Aguirre****",
+            "nombre": "Aguirre",
             "modelo": "POR",
             "img": "img/160.webp",
             "precio": "SC->89",
@@ -1844,7 +1844,7 @@
             "historia": "<h5-arcane>Aguirre:</h5-arcane> <br> Agurirre, another talented goalkeeper, possessed excellent positioning and great anticipation. His ability to read the game and make crucial saves under pressure made him a reliable presence in goal." },
         {
             "id": "#161",
-            "nombre": "Navarro****",
+            "nombre": "Navarro",
             "modelo": "POR",
             "img": "img/161.webp",
             "precio": "SC->88",
@@ -1855,7 +1855,7 @@
             "historia": "<h5-technomancer>Navarro:</h5-technomancer> <br> Navarro, a gifted shot-stopper, showcased exceptional agility and quick reflexes. His ability to make critical saves and control the box instilled confidence in the team's defense." },
         {
             "id": "#162",
-            "nombre": "Villena****",
+            "nombre": "Villena",
             "modelo": "POR",
             "img": "img/162.webp",
             "precio": "SC->72",
@@ -1866,7 +1866,7 @@
             "historia": "<h5-titan>Villena:</h5-titan> <br> Villena, another talented goalkeeper, brought a sense of stability to the team's defensive line." },
         {
             "id": "#163",
-            "nombre": "Carballo****",
+            "nombre": "Carballo",
             "modelo": "POR",
             "img": "img/163.webp",
             "precio": "SC->74",
@@ -1877,7 +1877,7 @@
             "historia": "<h5-inferno>Carballo:</h5-inferno> <br> Carballo, a skilled and agile goalkeeper, was a formidable presence in the team's defense. His lightning-fast reflexes, excellent positioning, and ability to make crucial saves." },
         {
             "id": "#164",
-            "nombre": "Bonet****",
+            "nombre": "Bonet",
             "modelo": "POR",
             "img": "img/164.webp",
             "precio": "SC->76",
@@ -1888,7 +1888,7 @@
             "historia": "<h5-celestial>Bonet:</h5-celestial> <br> Bonet, a gifted goalkeeper, possessed incredible reflexes and agility. His ability to make acrobatic saves and deny opponents' scoring opportunities made him a formidable force." },
         {
             "id": "#165",
-            "nombre": "Quevedo****",
+            "nombre": "Quevedo",
             "modelo": "POR",
             "img": "img/165.webp",
             "precio": "SC->78",
@@ -1899,7 +1899,7 @@
             "historia": "<h5-quantum>Quevedo:</h5-quantum> <br> Quevedo, a highly skilled goalkeeper, displayed remarkable reflexes and shot-stopping abilities. His agility and positioning in front of the net made." },
         {
             "id": "#166",
-            "nombre": "Tejedor****",
+            "nombre": "Tejedor",
             "modelo": "POR",
             "img": "img/166.webp",
             "precio": "SC->79",
@@ -1910,7 +1910,7 @@
             "historia": "<h5-arcane>Tejedor:</h5-arcane> <br> Tejedor, another talented goalkeeper, possessed excellent anticipation and a strong command of the penalty area. His ability to read the game, make decisive saves, and distribute the ball with precision." },
         {
             "id": "#167",
-            "nombre": "Roman****",
+            "nombre": "Roman",
             "modelo": "POR",
             "img": "img/167.webp",
             "precio": "SC->93",
@@ -1921,7 +1921,7 @@
             "historia": "<h5-technomancer>Roman:</h5-technomancer> <br> Roman, a rising star in the world of goalkeeping, showcased immense potential and natural talent. His agility, athleticism, and quick reflexes made him a formidable shot-stopper." },
         {
             "id": "#168",
-            "nombre": "Sandoval****",
+            "nombre": "Sandoval",
             "modelo": "DEF",
             "img": "img/168.webp",
             "precio": "SC->93",
@@ -1932,7 +1932,7 @@
             "historia": "<h5-titan>Sandoval:</h5-titan> <br> Sandoval, a tenacious and disciplined defender, anchored the team's backline with his solid defensive skills. His exceptional tackling ability, strong aerial presence, and tactical awareness" },
         {
             "id": "#169",
-            "nombre": "Velez****",
+            "nombre": "Velez",
             "modelo": "DEF",
             "img": "img/169.webp",
             "precio": "SC->75",
@@ -1943,7 +1943,7 @@
             "historia": "<h5-inferno>Velez:</h5-inferno> <br> Velez, a composed and intelligent defender, brought a calm and calculated approach to the team's defense. His excellent positioning, precise tackling, and ability to anticipate opponents." },
         {
             "id": "#170",
-            "nombre": "Nieto****",
+            "nombre": "Nieto",
             "modelo": "DEF",
             "img": "img/170.webp",
             "precio": "SC->78",
@@ -1954,7 +1954,7 @@
             "historia": "<h5-celestial>Nieto:</h5-celestial> <br> Nieto, a strong and physical defender, provided a commanding presence in the team's backline. His ability to win aerial duels, make crucial clearances, and block shots." },
         {
             "id": "#171",
-            "nombre": "Barrera****",
+            "nombre": "Barrera",
             "modelo": "MC",
             "img": "img/171.webp",
             "precio": "SC->79",
@@ -1965,7 +1965,7 @@
             "historia": "<h5-quantum>Barrera:</h5-quantum> <br> Barrera, a creative and influential central midfielder, orchestrated the team's play with his exceptional passing range and vision." },
         {
             "id": "#172",
-            "nombre": "Ribera****",
+            "nombre": "Ribera",
             "modelo": "DEL",
             "img": "img/172.webp",
             "precio": "SC->76",
@@ -1976,7 +1976,7 @@
             "historia": "<h5-arcane>Ribera:</h5-arcane> <br> Ribera, a dynamic and clinical striker, possessed an innate ability to find the back of the net. His exceptional finishing skills, quick instincts, and agility." },
         {
             "id": "#173",
-            "nombre": "Gomis****",
+            "nombre": "Gomis",
             "modelo": "DEF",
             "img": "img/173.webp",
             "precio": "SC->84",
@@ -1987,7 +1987,7 @@
             "historia": "<h5-technomancer>Gomis:</h5-technomancer> <br> Gomis, a solid and reliable defender, provided a strong presence in the team's backline. His exceptional tackling ability, aerial dominance, and positioning made him a formidable force." },
         {
             "id": "#174",
-            "nombre": "Barreda****",
+            "nombre": "Barreda",
             "modelo": "DEL",
             "img": "img/174.webp",
             "precio": "SC->83",
@@ -1998,7 +1998,7 @@
             "historia": "<h5-titan>Barreda:</h5-titan> <br> Barreda, a clinical and prolific striker, had a natural instinct for finding the back of the net. His lethal finishing, intelligent movement, and ability to create scoring opportunities." },
         {
             "id": "#175",
-            "nombre": "Murcia****",
+            "nombre": "Murcia",
             "modelo": "MC",
             "img": "img/175.webp",
             "precio": "SC->85",
@@ -2009,7 +2009,7 @@
             "historia": "<h5-inferno>Murcia:</h5-inferno> <br> Murcia, a versatile and creative midfielder, orchestrated the team's play with his exceptional passing range and vision. His ability to control the tempo of the game, dictate play, and create scoring." },
         {
             "id": "#176",
-            "nombre": "Torres****",
+            "nombre": "Torres",
             "modelo": "DEF",
             "img": "img/176.webp",
             "precio": "SC->66",
@@ -2020,7 +2020,7 @@
             "historia": "<h5-celestial>Torres:</h5-celestial> <br> Torres, a solid and tenacious defender, formed the backbone of the team's backline. His strong tackles, excellent positioning, and aerial dominance made him a formidable presence in defense." },
         {
             "id": "#177 ",
-            "nombre": "Sobrino****",
+            "nombre": "Sobrino",
             "modelo": "DEL",
             "img": "img/177.webp",
             "precio": "SC->66",
@@ -2031,7 +2031,7 @@
             "historia": "<h5-quantum>Sobrino:</h5-quantum> <br> Sobrino, a prolific and instinctive forward, possessed a natural ability to find the back of the net. His sharp movement off the ball, clinical finishing, and exceptional positioning." },
         {
             "id": "#178",
-            "nombre": "Enriquez****",
+            "nombre": "Enriquez",
             "modelo": "MC",
             "img": "img/178.webp",
             "precio": "SC->66",
@@ -2042,7 +2042,7 @@
             "historia": "<h5-arcane>Enriquez:</h5-arcane> <br> Enriquez, a dynamic and creative midfielder, orchestrated the team's play with his exceptional vision and passing range. His ability to control the tempo of the game." },
         {
             "id": "#179",
-            "nombre": "Baldomero****",
+            "nombre": "Baldomero",
             "modelo": "MC",
             "img": "img/179.webp",
             "precio": "SC->68",
@@ -2053,7 +2053,7 @@
             "historia": "<h5-technomancer>Baldomero:</h5-technomancer> <br> Baldomero, a tenacious and hardworking central midfielder, provided a strong presence in the heart of the team's midfield. His tireless work rate, ball-winning ability." },
         {
             "id": "#180",
-            "nombre": "Fuente****",
+            "nombre": "Fuente",
             "modelo": "MC",
             "img": "img/180.webp",
             "precio": "SC->69",
@@ -2064,7 +2064,7 @@
             "historia": "<h5-titan>Fuente:</h5-titan> <br> Fuente, a dynamic and creative central midfielder, orchestrated the team's play with his exceptional passing range and vision. His ability to control the tempo of the game and make precise through balls." },
         {
             "id": "#181",
-            "nombre": "Dominguez****",
+            "nombre": "Dominguez",
             "modelo": "DEL",
             "img": "img/181.webp",
             "precio": "SC->74",
@@ -2075,7 +2075,7 @@
             "historia": "<h5-inferno>Dominguez:</h5-inferno> <br> Dominguez, a prolific striker, possessed a natural instinct for scoring goals. His clinical finishing, agility, and ability to find space in the box made him a constant threat to opposing defenses." },
         {
             "id": "#182",
-            "nombre": "Reig****",
+            "nombre": "Reig",
             "modelo": "MC",
             "img": "img/182.webp",
             "precio": "SC->67",
@@ -2086,7 +2086,7 @@
             "historia": "<h5-celestial>Reig:</h5-celestial> <br> Reig, a versatile and industrious central midfielder, combined technical ability with tireless work rate. His ability to win duels, break up opposition play, and distribute the ball." },
         {
             "id": "#183",
-            "nombre": "Alemany****",
+            "nombre": "Alemany",
             "modelo": "DEL",
             "img": "img/183.webp",
             "precio": "SC->67",
@@ -2097,7 +2097,7 @@
             "historia": "<h5-quantum>Alemany:</h5-quantum> <br> Alemany, a skilled and technically gifted player, displayed remarkable control and finesse on the ball." },
         {
             "id": "#184",
-            "nombre": "Escobar****",
+            "nombre": "Escobar",
             "modelo": "DEL",
             "img": "img/184.webp",
             "precio": "SC->68",
@@ -2108,7 +2108,7 @@
             "historia": "<h5-arcane>Escobar:</h5-arcane> <br> Escobar, a tenacious and determined player, showed great work rate and commitment to the game." },
         {
             "id": "#185",
-            "nombre": "Pages****",
+            "nombre": "Pages",
             "modelo": "DEL",
             "img": "img/185.webp",
             "precio": "SC->69",
@@ -2119,7 +2119,7 @@
             "historia": "<h5-technomancer>Pages:</h5-technomancer> <br> Pages, a versatile and intelligent player, exhibited excellent positional awareness and tactical understanding. His ability to adapt to different roles on the field made him a valuable asset." },
         {
             "id": "#186",
-            "nombre": "Echevarria****",
+            "nombre": "Echevarria",
             "modelo": "DEF",
             "img": "img/186.webp",
             "precio": "SC->67",
@@ -2130,7 +2130,7 @@
             "historia": "<h5-titan>Echevarria:</h5-titan> <br> Echevarria, a dynamic and explosive player, showcased incredible speed and agility. His ability to take on defenders and beat them with his dribbling skills." },
         {
             "id": "#187",
-            "nombre": "Hoyos****",
+            "nombre": "Hoyos",
             "modelo": "DEF",
             "img": "img/187.webp",
             "precio": "SC->68",
@@ -2141,7 +2141,7 @@
             "historia": "<h5-inferno>Hoyos:</h5-inferno> <br> Hoyos, a composed and reliable player, exhibited exceptional composure and decision-making on the field. His ability to control the tempo of the game and make intelligent passes." },
         {
             "id": "#188",
-            "nombre": "Galvez****",
+            "nombre": "Galvez",
             "modelo": "DEF",
             "img": "img/188.webp",
             "precio": "SC->68",
@@ -2152,7 +2152,7 @@
             "historia": "<h5-celestial>Galvez:</h5-celestial> <br> Galvez, a skilled footballer, displayed remarkable technical ability and a keen sense of anticipation on the pitch." },
         {
             "id": "#189",
-            "nombre": "Mateu****",
+            "nombre": "Mateu",
             "modelo": "DEF",
             "img": "img/189.webp",
             "precio": "SC->69",
@@ -2163,7 +2163,7 @@
             "historia": "<h5-quantum>Metau:</h5-quantum> <br> Mateu, a versatile player, showcased adaptability in various roles on the field. His athleticism and work rate allowed him to contribute both in defense and in the attacking third." },
         {
             "id": "#190 ",
-            "nombre": "Carbajo****",
+            "nombre": "Carbajo",
             "modelo": "DEF",
             "img": "img/190.webp",
             "precio": "SC->78",
@@ -2174,7 +2174,7 @@
             "historia": "<h5-arcane>Carbajo:</h5-arcane> <br> Carbajo, a tenacious and relentless competitor, left everything on the field in every match. His fierce tackling, physicality, and never-say-die attitude inspired his teammates." },
         {
             "id": "#191",
-            "nombre": "Landa****",
+            "nombre": "Landa",
             "modelo": "DEF",
             "img": "img/191.webp",
             "precio": "SC->80",
@@ -2185,7 +2185,7 @@
             "historia": "<h5-technomancer>Landa:</h5-technomancer> <br> Landa, a calm and composed presence, displayed exceptional poise and tactical awareness in the midst of the action. His ability to read the game and make timely interceptions." },
         {
             "id": "#192",
-            "nombre": "Soler****",
+            "nombre": "Soler",
             "modelo": "DEL",
             "img": "img/192.webp",
             "precio": "SC->80",
@@ -2196,7 +2196,7 @@
             "historia": "<h5-titan>Soler:</h5-titan> <br> Soler, a talented playmaker, possessed an exquisite touch and great vision. His ability to unlock defenses with precise through balls and incisive passes created numerous scoring opportunities." },
         {
             "id": "#193",
-            "nombre": "Valles****",
+            "nombre": "Valles",
             "modelo": "DEL",
             "img": "img/193.webp",
             "precio": "SC->78",
@@ -2207,7 +2207,7 @@
             "historia": "<h5-inferno>Valles:</h5-inferno> <br> Valles displayed exceptional technical skills and a keen eye for goal. With precise passes and agile dribbling, Vallez consistently created scoring opportunities for the team." },
         {
             "id": "#194",
-            "nombre": "Ortiz****",
+            "nombre": "Ortiz",
             "modelo": "MC",
             "img": "img/194.webp",
             "precio": "SC->78",
@@ -2218,7 +2218,7 @@
             "historia": "<h5-celestial>Ortiz:</h5-celestial> <br> Ortiz showcased versatility and adaptability in various roles on the pitch. With a strong work ethic and solid defensive capabilities." },
         {
             "id": "#195",
-            "nombre": "Arenas****",
+            "nombre": "Arenas",
             "modelo": "MC",
             "img": "img/195.webp",
             "precio": "SC->80",
@@ -2229,7 +2229,7 @@
             "historia": "<h5-quantum>Arenas:</h5-quantum> <br> Arenas brought physicality and determination to the game. With their strength and athleticism, Arenas was a formidable force in both aerial duels and challenges." },
         {
             "id": "#196",
-            "nombre": "Arbeloa****",
+            "nombre": "Arbeloa",
             "modelo": "MC",
             "img": "img/196.webp",
             "precio": "SC->81",
@@ -2240,7 +2240,7 @@
             "historia": "<h5-arcane>Arbeloa:</h5-arcane> <br> Arbeloa demonstrated excellent defensive skills and disciplined positioning. With precise tackles and timely interceptions, Arbeloa consistently disrupted opposing attacks." },
         {
             "id": "#197",
-            "nombre": "Atienza****",
+            "nombre": "Atienza",
             "modelo": "DEF",
             "img": "img/197.webp",
             "precio": "SC->81",
@@ -2251,7 +2251,7 @@
             "historia": "<h5-technomancer>Atienza:</h5-technomancer> <br> Atienza exhibited leadership qualities on and off the field. With their strong communication skills and tactical understanding, Atienza played a vital role in organizing the team's defense." },
         {
             "id": "#198",
-            "nombre": "Ignacio****",
+            "nombre": "Ignacio",
             "modelo": "DEL",
             "img": "img/198.webp",
             "precio": "SC->81",
@@ -2262,7 +2262,7 @@
             "historia": "<h5-titan>Ignacio:</h5-titan> <br> Ignacio, a skillful player, demonstrated excellent technique and a keen eye for opportunities on the field. His ability to read the game and make intelligent decisions." },
         {
             "id": "#199",
-            "nombre": "Bellido****",
+            "nombre": "Bellido",
             "modelo": "DEL",
             "img": "img/199.webp",
             "precio": "SC->91",
@@ -2273,7 +2273,7 @@
             "historia": "<h5-inferno>Bellido:</h5-inferno> <br> Bellido, a determined and tenacious competitor, consistently displayed a strong work ethic and unwavering commitment to the team's success. With his relentless pursuit of the ball and physical presence." },
         {
             "id": "#200",
-            "nombre": "Perez****",
+            "nombre": "Perez",
             "modelo": "DEF",
             "img": "img/200.webp",
             "precio": "SC->91",
@@ -2284,7 +2284,7 @@
             "historia": "<h5-celestial>Perez:</h5-celestial> <br> Perez, a composed and disciplined defender, provided a solid presence at the backline. With his exceptional positioning, strong tackles, and aerial prowess, Perez was a reliable force in thwarting opposing attacks." },
         {
             "id": "#201",
-            "nombre": "Tonya****",
+            "nombre": "Tonya",
             "modelo": "DEF",
             "img": "img/201.webp",
             "precio": "SC->65",
@@ -2295,7 +2295,7 @@
             "historia": "<h5-quantum>Tonya:</h5-quantum> <br> Tonya, a dynamic and tenacious player, possessed exceptional speed and agility on the field. Her ability to outpace defenders and make penetrating runs down the flanks." },
         {
             "id": "#202",
-            "nombre": "Cox****",
+            "nombre": "Cox",
             "modelo": "DEF",
             "img": "img/202.webp",
             "precio": "SC->66",
@@ -2306,7 +2306,7 @@
             "historia": "<h5-arcane>Cox:</h5-arcane> <br> Cox, a versatile and reliable player, showcased adaptability in various positions on the field. His exceptional technical skills and tactical intelligence allowed him to excel in both midfield and defensive roles." },
         {
             "id": "#203",
-            "nombre": "Ortiz****",
+            "nombre": "Ortiz",
             "modelo": "MC",
             "img": "img/203.webp",
             "precio": "SC->66",
@@ -2317,7 +2317,7 @@
             "historia": "<h5-technomancer>Ortiz:</h5-technomancer> <br> Ortiz, a creative and skillful player, dazzled spectators with her ball control and dribbling abilities. Her ability to navigate through tight spaces and beat defenders." },
         {
             "id": "#204",
-            "nombre": "Moody****",
+            "nombre": "Moody",
             "modelo": "MC",
             "img": "img/204.webp",
             "precio": "SC->65",
@@ -2328,7 +2328,7 @@
             "historia": "<h5-titan>Moody:</h5-titan> <br> Moody, a composed and intelligent player, dictated the team's play from a central midfield position. With her exceptional passing range and vision." },
         {
             "id": "#205",
-            "nombre": "Ayers****",
+            "nombre": "Ayers",
             "modelo": "DEL",
             "img": "img/205.webp",
             "precio": "SC->66",
@@ -2339,7 +2339,7 @@
             "historia": "<h5-inferno>Ayers:</h5-inferno> <br> Ayers, a solid and commanding presence in defense, provided stability and leadership to the team's backline. With her excellent positioning, timing of tackles, and aerial prowess." },
         {
             "id": "#206",
-            "nombre": "Beasly****",
+            "nombre": "Beasly",
             "modelo": "DEL",
             "img": "img/206.webp",
             "precio": "SC->65",
@@ -2350,7 +2350,7 @@
             "historia": "<h5-celestial>Beasly:</h5-celestial> <br> Beasly, a tenacious and energetic player, possessed incredible stamina and work rate on the field. His tireless running and relentless pressing disrupted opponents' rhythm and created turnovers." },
         {
             "id": "#207",
-            "nombre": "Novak****",
+            "nombre": "Novak",
             "modelo": "DEF",
             "img": "img/207.webp",
             "precio": "SC->95",
@@ -2361,7 +2361,7 @@
             "historia": "<h5-quantum>Novak:</h5-quantum> <br> Novak, a natural goal scorer, had a predatory instinct inside the box. His clinical finishing and ability to find space in crowded areas made him a constant threat to opposing defenses." },
         {
             "id": "#208",
-            "nombre": "Fuentes****",
+            "nombre": "Fuentes",
             "modelo": "DEF",
             "img": "img/208.webp",
             "precio": "SC->68",
@@ -2372,7 +2372,7 @@
             "historia": "<h5-arcane>Fuentes:</h5-arcane> <br> Fuentes, a composed and technically gifted player, possessed exceptional ball control and dribbling skills. His ability to maintain possession under pressure." },
         {
             "id": "#209",
-            "nombre": "Edwards****",
+            "nombre": "Edwards",
             "modelo": "DEL",
             "img": "img/209.webp",
             "precio": "SC->68",
@@ -2383,7 +2383,7 @@
             "historia": "<h5-technomancer>Edwards:</h5-technomancer> <br> Edwards, a solid and commanding presence in striker, provided stability and leadership to the team's. With his excellent positional sense and well-timed tackles." },
         {
             "id": "#210",
-            "nombre": "Booth****",
+            "nombre": "Booth",
             "modelo": "MC",
             "img": "img/210.webp",
             "precio": "SC->68",
@@ -2394,7 +2394,7 @@
             "historia": "<h5-titan>Booth:</h5-titan> <br> Booth, a versatile and skillful player, seamlessly transitioned between different positions on the field. His exceptional technical abilities and tactical intelligence." },
         {
             "id": "#211",
-            "nombre": "Ted****",
+            "nombre": "Ted",
             "modelo": "MC",
             "img": "img/211.webp",
             "precio": "SC->88",
@@ -2405,7 +2405,7 @@
             "historia": "<h5-inferno>Ted:</h5-inferno> <br> Ted, a charismatic and agile player, dazzled spectators with his agility and creativity. His quick feet and ability to beat defenders with his dribbling skills made him a constant threat in the attacking third." },
         {
             "id": "#212",
-            "nombre": "Mccoy****",
+            "nombre": "Mccoy",
             "modelo": "POR",
             "img": "img/212.webp",
             "precio": "SC->68",
@@ -2416,7 +2416,7 @@
             "historia": "<h5-celestial>Mccoy:</h5-celestial> <br> McCoy, a talented and agile goalkeeper, possessed lightning-fast reflexes and exceptional shot-stopping abilities. His ability to anticipate the opponent's moves." },
         {
             "id": "#213",
-            "nombre": "Trevino****",
+            "nombre": "Trevino",
             "modelo": "POR",
             "img": "img/213.webp",
             "precio": "SC->70",
@@ -2427,7 +2427,7 @@
             "historia": "<h5-quantum>Trevino:</h5-quantum> <br> Trevino, a composed and reliable shot-stopper, possessed excellent positioning and a strong command of his penalty area. His ability to read the game and make crucial saves." },
         {
             "id": "#214",
-            "nombre": "Nichols****",
+            "nombre": "Nichols",
             "modelo": "DEL",
             "img": "img/214.webp",
             "precio": "SC->85",
@@ -2438,7 +2438,7 @@
             "historia": "<h5-arcane>Nichols:</h5-arcane> <br> Nichols, a player with exceptional technical skills, possessed a natural ability to control the ball with finesse. His precise passing and ability to create scoring opportunities." },
         {
             "id": "#215",
-            "nombre": "Carrol****",
+            "nombre": "Carrol",
             "modelo": "DEF",
             "img": "img/215.webp",
             "precio": "SC->88",
@@ -2449,7 +2449,7 @@
             "historia": "<h5-technomancer>Carrol:</h5-technomancer> <br> Carrol, a determined and hardworking player, showcased unwavering dedication on the field. Her relentless pursuit of the ball and her ability to win crucial challenges." },
         {
             "id": "#216",
-            "nombre": "Alemdar****",
+            "nombre": "Alemdar",
             "modelo": "DEF",
             "img": "img/216.webp",
             "precio": "SC->89",
@@ -2460,7 +2460,7 @@
             "historia": "<h5-titan>Alemdar:</h5-titan> <br> Alemdar, a player with a natural flair and creativity, dazzled spectators with his skillful dribbling and quick footwork. His ability to navigate through tight spaces." },
         {
             "id": "#217",
-            "nombre": "Bayan****",
+            "nombre": "Bayan",
             "modelo": "DEF",
             "img": "img/217.webp",
             "precio": "SC->68",
@@ -2471,7 +2471,7 @@
             "historia": "<h5-inferno>Bayan:</h5-inferno> <br> Bayan, a composed and intelligent player, possessed excellent decision-making skills on the field. Her ability to read the game and make accurate passes disrupted opposing attacks." },
         {
             "id": "#218",
-            "nombre": "Zorlu****",
+            "nombre": "Zorlu",
             "modelo": "DEL",
             "img": "img/218.webp",
             "precio": "SC->68",
@@ -2482,7 +2482,7 @@
             "historia": "<h5-celestial>Zorlu:</h5-celestial> <br> Zorlu, a player with natural athleticism and agility, possessed exceptional speed and stamina on the field. His ability to cover ground quickly and make crucial interceptions disrupted opposing attacks." },
         {
             "id": "#219",
-            "nombre": "Egeneur****",
+            "nombre": "Egeneur",
             "modelo": "MC",
             "img": "img/219.webp",
             "precio": "SC->69",
@@ -2493,7 +2493,7 @@
             "historia": "<h5-quantum>Egeneur:</h5-quantum> <br> Egeneur, a player with a strong presence and physicality, provided stability and leadership to the team. His commanding aerial ability and well-timed tackles." },
         {
             "id": "#220",
-            "nombre": "Nurcan****",
+            "nombre": "Nurcan",
             "modelo": "MC",
             "img": "img/220.webp",
             "precio": "SC->68",
@@ -2504,7 +2504,7 @@
             "historia": "<h5-arcane>Nurcan:</h5-arcane> <br> Nurcan, a player with exceptional technical skills, possessed a natural ability to control the ball with finesse. Their precise passing and ability to create scoring opportunities." },
         {
             "id": "#221",
-            "nombre": "Evans****",
+            "nombre": "Evans",
             "modelo": "MC",
             "img": "img/221.webp",
             "precio": "SC->95",
@@ -2515,7 +2515,7 @@
             "historia": "<h5-technomancer>Evans:</h5-technomancer> <br> Evans, a determined and hardworking player, showcased unwavering dedication on the field. Their relentless pursuit of the ball and their ability to win crucial challenges." },
         {
             "id": "#222",
-            "nombre": "Erasland****",
+            "nombre": "Erasland",
             "modelo": "DEL",
             "img": "img/222.webp",
             "precio": "SC->94",
@@ -2526,7 +2526,7 @@
             "historia": "<h5-titan>Erasland:</h5-titan> <br> Erasland, a player with a natural flair and creativity, dazzled spectators with their skillful dribbling and quick footwork. Their ability to navigate through tight spaces." },
         {
             "id": "#223",
-            "nombre": "Arsoy****",
+            "nombre": "Arsoy",
             "modelo": "DEL",
             "img": "img/223.webp",
             "precio": "SC->98",
@@ -2537,7 +2537,7 @@
             "historia": "<h5-inferno>Arsoy:</h5-inferno> <br> Arsoy, a composed and intelligent player, possessed excellent decision-making skills on the field. Their ability to read the game and make accurate passes disrupted opposing attacks." },
         {
             "id": "#224",
-            "nombre": "Teybet****",
+            "nombre": "Teybet",
             "modelo": "MC",
             "img": "img/224.webp",
             "precio": "SC->97",
@@ -2548,7 +2548,7 @@
             "historia": "<h5-celestial>Teybet:</h5-celestial> <br> Teybet's versatility allowed them to contribute effectively in various positions, both in defense and in the midfield. Their positive attitude and relentless work ethic inspired their teammates to give their all on the field and strive for excellence." },
         {
             "id": "#225",
-            "nombre": "Parker****",
+            "nombre": "Parker",
             "modelo": "DEF",
             "img": "img/225.webp",
             "precio": "SC->98",
@@ -2559,7 +2559,7 @@
             "historia": "<h5-quantum>Parker:</h5-quantum> <br> Parker, a player with a strong presence and physicality, provided stability and leadership to the team. Their commanding aerial ability and well-timed tackles." },
         {
             "id": "#226",
-            "nombre": "Cobb****",
+            "nombre": "Cobb",
             "modelo": "MC",
             "img": "img/226.webp",
             "precio": "SC->77",
@@ -2570,7 +2570,7 @@
             "historia": "<h5-arcane>Cobb:</h5-arcane> <br> Cobb, a player with exceptional versatility, seamlessly transitioned between different positions on the field. Their adaptability and understanding of the game allowed them to contribute effectively." },
         {
             "id": "#227 ",
-            "nombre": "Santana****",
+            "nombre": "Santana",
             "modelo": "DEF",
             "img": "img/227.webp",
             "precio": "SC->77",
@@ -2581,7 +2581,7 @@
             "historia": "<h5-technomancer>Santana:</h5-technomancer> <br> Santana, a player with explosive speed and technical prowess, dazzled spectators with their skillful dribbling and ability to beat defenders." },
         {
             "id": "#228",
-            "nombre": "Short****",
+            "nombre": "Short",
             "modelo": "DEL",
             "img": "img/228.webp",
             "precio": "SC->77",
@@ -2592,7 +2592,7 @@
             "historia": "<h5-titan>Short:</h5-titan> <br> Short, a tenacious and hardworking player, possessed exceptional stamina and determination on the field. Their tireless running and relentless pressing disrupted opponents' rhythm and created turnovers." },
         {
             "id": "#229",
-            "nombre": "Patel****",
+            "nombre": "Patel",
             "modelo": "POR",
             "img": "img/229.webp",
             "precio": "SC->98",
@@ -2603,7 +2603,7 @@
             "historia": "<h5-inferno>Patel:</h5-inferno> <br> Patel, a commanding presence in goal, exhibited exceptional shot-stopping abilities and strong command of the penalty area. Their quick reflexes and agility allowed them to make crucial saves." },
         {
             "id": "#230",
-            "nombre": "Lopez****",
+            "nombre": "Lopez",
             "modelo": "POR",
             "img": "img/230.webp",
             "precio": "SC->85",
@@ -2614,7 +2614,7 @@
             "historia": "<h5-celestial>Lopez:</h5-celestial> <br> Lopez, a skilled and composed goalkeeper, possessed excellent positioning and a strong understanding of the game. Their ability to read the play and anticipate the opponent's moves." },
         {
             "id": "#231",
-            "nombre": "Griffin****",
+            "nombre": "Griffin",
             "modelo": "POR",
             "img": "img/231.webp",
             "precio": "SC->74",
@@ -2625,7 +2625,7 @@
             "historia": "<h5-quantum>Griffin:</h5-quantum> <br> Griffin, a highly talented goalkeeper, showcased remarkable athleticism and agility between the posts. Their acrobatic saves and fearless approach to challenging aerial duels." },
         {
             "id": "#232",
-            "nombre": "Hamilton****",
+            "nombre": "Hamilton",
             "modelo": "DEF",
             "img": "img/232.webp",
             "precio": "SC->74",
@@ -2636,7 +2636,7 @@
             "historia": "<h5-arcane>Hamilton:</h5-arcane> <br> A relentless midfielder, Hamilton's tireless work rate and exceptional passing ability dictated the team's tempo. His vision on the field and precise through balls unlocked defenses." },
         {
             "id": "#233",
-            "nombre": "Marquez****",
+            "nombre": "Marquez",
             "modelo": "DEF",
             "img": "img/233.webp",
             "precio": "SC->82",
@@ -2647,7 +2647,7 @@
             "historia": "<h5-technomancer>Marquez:</h5-technomancer> <br> A seasoned defender, Marquez's experience and tactical intelligence made him a stalwart in the backline." },
         {
             "id": "#234",
-            "nombre": "Kim****",
+            "nombre": "Kim",
             "modelo": "MC",
             "img": "img/234.webp",
             "precio": "SC->72",
@@ -2658,7 +2658,7 @@
             "historia": "<h5-titan>Kim:</h5-titan> <br> A dynamic winger, Kim's blistering pace and tricky dribbling skills left defenders in his wake. His accurate crosses and eye for goal made him a constant." },
         {
             "id": "#235",
-            "nombre": "Irwin****",
+            "nombre": "Irwin",
             "modelo": "MC",
             "img": "img/235.webp",
             "precio": "SC->70",
@@ -2669,7 +2669,7 @@
             "historia": "<h5-inferno>Irwin:</h5-inferno> <br> A composed and agile midfield, Irwin's cat-like reflexes and shot-stopping abilities kept the opposition at bay." },
         {
             "id": "#236",
-            "nombre": "Burnet****",
+            "nombre": "Burnet",
             "modelo": "MC",
             "img": "img/236.webp",
             "precio": "SC->72",
@@ -2680,7 +2680,7 @@
             "historia": "<h5-celestial>Burnet:</h5-celestial> <br> A versatile player, Burnet's ability to play in multiple positions made him a valuable asset to the team. His tenacity and determination on the field." },
         {
             "id": "#237",
-            "nombre": "Goat****",
+            "nombre": "Goat",
             "modelo": "DEL",
             "img": "img/237.webp",
             "precio": "SC->99",
@@ -2691,7 +2691,7 @@
             "historia": "<h5-celestial>Goat:</h5-celestial> <br> Goat, the interstellar striker, defied gravity with his mesmerizing agility and lightning-fast speed. His rocket-powered boots propelled him past alien defenders, scoring celestial goals that echoed across the galaxies." },
         {
             "id": "#238",
-            "nombre": "Miles****",
+            "nombre": "Miles",
             "modelo": "POR",
             "img": "img/238.webp",
             "precio": "SC->68",
@@ -2702,7 +2702,7 @@
             "historia": "<h5-arcane>Miles:</h5-arcane> <br> Miles, the cosmic goalkeeper, guarded the goal with unmatched reflexes and cosmic awareness. His gravity-defying dives and incredible saves." },
         {
             "id": "#239",
-            "nombre": "Gutierrez****",
+            "nombre": "Gutierrez",
             "modelo": "POR",
             "img": "img/239.webp",
             "precio": "SC->67",
@@ -2713,7 +2713,7 @@
             "historia": "<h5-technomancer>Gutierrez:</h5-technomancer> <br> Gutierrez, a stellar shot-stopper, utilized his alien-like agility and lightning-quick reactions to deny opponents from scoring." },
         {
             "id": "#240",
-            "nombre": "Lowery****",
+            "nombre": "Lowery",
             "modelo": "POR",
             "img": "img/240.webp",
             "precio": "SC->70",
@@ -2724,7 +2724,7 @@
             "historia": "<h5-titan>Lowery:</h5-titan> <br> Lowery, the stellar netminder, possessed an otherworldly presence between the posts. His ability to read the game and make precise interventions disrupted opposing attacks." },
         {
             "id": "#241",
-            "nombre": "Tran****",
+            "nombre": "Tran",
             "modelo": "POR",
             "img": "img/241.webp",
             "precio": "SC->65",
@@ -2735,7 +2735,7 @@
             "historia": "<h5-inferno>Tran:</h5-inferno> <br> Tran, the interstellar guardian, used her extraordinary reflexes and impeccable positioning to keep the opposition at bay. Her calm and collected demeanor in the face of cosmic shots." },
         {
             "id": "#242",
-            "nombre": "Garden****",
+            "nombre": "Garden",
             "modelo": "POR",
             "img": "img/242.webp",
             "precio": "SC->78",
@@ -2746,7 +2746,7 @@
             "historia": "<h5-celestial>Garden:</h5-celestial> <br> Garden, an intergalactic shot-stopper, commanded her area with unwavering authority. Her telepathic understanding of the game allowed her to anticipate shots before they were taken." },
         {
             "id": "#243",
-            "nombre": "Mann****",
+            "nombre": "Mann",
             "modelo": "DEL",
             "img": "img/243.webp",
             "precio": "SC->84",
@@ -2757,7 +2757,7 @@
             "historia": "<h5-quantum>Mann:</h5-quantum> <br> Mann, a player with extraordinary skill, dazzled onlookers with their exceptional technique and creativity on the field." },
         {
             "id": "#244",
-            "nombre": "Maddox****",
+            "nombre": "Maddox",
             "modelo": "DEF",
             "img": "img/244.webp",
             "precio": "SC->84",
@@ -2768,7 +2768,7 @@
             "historia": "<h5-arcane>Maddox:</h5-arcane> <br> Maddox, a determined and hardworking player, showcased unwavering dedication and perseverance in every match." },
         {
             "id": "#245",
-            "nombre": "Farell****",
+            "nombre": "Farell",
             "modelo": "MC",
             "img": "img/245.webp",
             "precio": "SC->87",
@@ -2779,7 +2779,7 @@
             "historia": "<h5-technomancer>Farell:</h5-technomnacer> <br> Farell, a player with a natural flair and creativity, mesmerized spectators with their mesmerizing dribbling and unpredictable movements." },
         {
             "id": "#246",
-            "nombre": "Dorsey****",
+            "nombre": "Dorsey",
             "modelo": "DEL",
             "img": "img/246.webp",
             "precio": "SC->94",
@@ -2790,7 +2790,7 @@
             "historia": "<h5-titan>Dorsey:</h5-titan> <br> Dorsey, a composed and intelligent player, exhibited excellent decision-making skills and tactical awareness. Their ability to read the game and make accurate passes." },
         {
             "id": "#247 ",
-            "nombre": "Castillo****",
+            "nombre": "Castillo",
             "modelo": "MC",
             "img": "img/247.webp",
             "precio": "SC->91",
@@ -2801,7 +2801,7 @@
             "historia": "<h5-inferno>Castillo:</h5-inferno> <br> Castillo, a player with immense speed and agility, left opponents in their wake with their lightning-quick bursts and explosive runs." },
         {
             "id": "#248",
-            "nombre": "Scott****",
+            "nombre": "Scott",
             "modelo": "DEF",
             "img": "img/248.webp",
             "precio": "SC->92",
@@ -2812,7 +2812,7 @@
             "historia": "<h5-celestial>Scott:</h5-celestial> <br> Scott, a versatile and adaptable player, seamlessly transitioned between different positions on the field. Their understanding of the game and versatility allowed them to contribute effectively in various areas." },
         {
             "id": "#249",
-            "nombre": "Long****",
+            "nombre": "Long",
             "modelo": "DEF",
             "img": "img/249.webp",
             "precio": "SC->96",
@@ -2823,7 +2823,7 @@
             "historia": "<h5-quantum>Long:</h5-quantum> <br> Long, a player with a strong presence and physicality, provided stability and leadership to the team. Their aerial dominance and commanding tackles." },
         {
             "id": "#250",
-            "nombre": "White****",
+            "nombre": "White",
             "modelo": "DEL",
             "img": "img/250.webp",
             "precio": "SC->96",
@@ -2834,7 +2834,7 @@
             "historia": "<h5-arcane>White:</h5-arcane> <br> White, a player with exceptional technical skills, possessed a natural ability to control the ball with finesse. Their precise passing and ability to create scoring opportunities." },
         {
             "id": "#251",
-            "nombre": "Howe****",
+            "nombre": "Howe",
             "modelo": "DEF",
             "img": "img/251.webp",
             "precio": "SC->94",
@@ -2845,7 +2845,7 @@
             "historia": "<h5-technomancer>Howe:</h5-technomnacer> <br> Howe, a tenacious and hardworking player, showcased unwavering dedication and relentless work ethic on the field. Their ability to win crucial challenges." },
         {
             "id": "#252",
-            "nombre": "Moran****",
+            "nombre": "Moran",
             "modelo": "DEL",
             "img": "img/252.webp",
             "precio": "SC->93",
@@ -2856,7 +2856,7 @@
             "historia": "<h5-titan>Moran:</h5-titan> <br> Moran, a composed and intelligent player, exhibited excellent decision-making skills and tactical awareness. Their ability to read the game and anticipate the opposition's moves." },
         {
             "id": "#253",
-            "nombre": "Sanders****",
+            "nombre": "Sanders",
             "modelo": "POR",
             "img": "img/253.webp",
             "precio": "SC->83",
@@ -2867,7 +2867,7 @@
             "historia": "<h5-inferno>Sanders:</h5-inferno> <br> Sanders, a player with exceptional skill, dazzled onlookers with their technical ability and creativity on the field. Their precise passing and clever dribbling contributed to the team's attacking prowess." },
         {
             "id": "#254",
-            "nombre": "Knight****",
+            "nombre": "Knight",
             "modelo": "POR",
             "img": "img/254.webp",
             "precio": "SC->94",
@@ -2878,7 +2878,7 @@
             "historia": "<h5-celestial>Knight:</h5-celestial> <br> Knight, a determined and hardworking player, showcased unwavering dedication and perseverance in every match. Their relentless pursuit of the ball and strong." },
         {
             "id": "#255",
-            "nombre": "Sadat****",
+            "nombre": "Sadat",
             "modelo": "POR",
             "img": "img/255.webp",
             "precio": "SC->96",
@@ -2889,7 +2889,7 @@
             "historia": "<h5-quantum>Sadat:</h5-quantum> <br> Sadat, a composed and agile goalkeeper, exhibited excellent shot-stopping abilities and strong command of the penalty area. Their quick reflexes and fearless presence in goal." },
         {
             "id": "#256",
-            "nombre": "Durdu****",
+            "nombre": "Durdu",
             "modelo": "DEL",
             "img": "img/256.webp",
             "precio": "SC->89",
@@ -2900,7 +2900,7 @@
             "historia": "<h5-arcane>Durdu:</h5-arcane> <br> Durdu, a player with a natural flair and creativity, mesmerized spectators with their mesmerizing dribbling and unpredictable movements." },
         {
             "id": "#257",
-            "nombre": "Aslan****",
+            "nombre": "Aslan",
             "modelo": "DEF",
             "img": "img/257.webp",
             "precio": "SC->87",
@@ -2911,7 +2911,7 @@
             "historia": "<h5-technomancer>Aslan:</h5-technomancer> <br> Aslan, a versatile and adaptable player, seamlessly transitioned between different positions on the field. Their understanding of the game and versatility allowed them to contribute effectively in various areas." },
         {
             "id": "#258",
-            "nombre": "Losekan****",
+            "nombre": "Losekan",
             "modelo": "DEL",
             "img": "img/258.webp",
             "precio": "SC->80",
@@ -2922,7 +2922,7 @@
             "historia": "<h5-titan>Losekan:</h5-titan> <br> Losekan, a relentless and hardworking player, gave his all on the field. With his tireless work ethic and physicality, Losekan constantly battled for possession and won crucial challenges." },
         {
             "id": "#259",
-            "nombre": "Enver****",
+            "nombre": "Enver",
             "modelo": "DEL",
             "img": "img/259.webp",
             "precio": "SC->87",
@@ -2933,7 +2933,7 @@
             "historia": "<h5-inferno>Enver:</h5-inferno> <br> Enver, a goal-scoring machine, possessed incredible accuracy and power in his shots. His ability to find the back of the net from any angle made him a lethal striker." },
         {
             "id": "#260",
-            "nombre": "Ingmar****",
+            "nombre": "Ingmar",
             "modelo": "DEF",
             "img": "img/260.webp",
             "precio": "SC->84",
@@ -2944,7 +2944,7 @@
             "historia": "<h5-celestial>Ingmar:</h5-celestial> <br> Ingmar, a versatile player, showcased adaptability and versatility in various positions on the field. His exceptional technical skills and tactical intelligence allowed him to seamlessly transition between midfield and attack." },
         {
             "id": "#261",
-            "nombre": "Naser****",
+            "nombre": "Naser",
             "modelo": "DEF",
             "img": "img/261.webp",
             "precio": "SC->88",
@@ -2955,7 +2955,7 @@
             "historia": "<h5-quantum>Naser:</h5-quantum> <br> Naser, a resolute and fearless defender, stood tall in the face of opposing attacks. His strong tackles, aerial prowess, and excellent positioning made him a formidable force in the backline." },
         {
             "id": "#262",
-            "nombre": "Trub****",
+            "nombre": "Trub",
             "modelo": "MC",
             "img": "img/262.webp",
             "precio": "SC->89",
@@ -2966,7 +2966,7 @@
             "historia": "<h5-arcane>Trub:</h5-arcane> <br> Trub, an agile and quick-witted player, had a knack for creating scoring opportunities. His exceptional dribbling skills." },
         {
             "id": "#263",
-            "nombre": "Metz****",
+            "nombre": "Metz",
             "modelo": "MC",
             "img": "img/263.webp",
             "precio": "SC->86",
@@ -2977,7 +2977,7 @@
             "historia": "<h5-technomancer>Metz:</h5-techmomancer> <br> Metz, a disciplined and focused player, possessed a natural talent for the game. His precise passing and ability to control the midfield allowed him to dictate the team's tempo." },
         {
             "id": "#264",
-            "nombre": "Rogger****",
+            "nombre": "Rogger",
             "modelo": "POR",
             "img": "img/264.webp",
             "precio": "SC->82",
@@ -2988,7 +2988,7 @@
             "historia": "<h5-titan>Rogger:</h5-titan> <br> Rogger, a skilled shot-stopper, had excellent anticipation and agility between the goalposts. His ability to make critical saves, including diving stops and reflex blocks, saved his team from conceding crucial goals." },
         {
             "id": "#265",
-            "nombre": "Ronald****",
+            "nombre": "Ronald",
             "modelo": "POR",
             "img": "img/265.webp",
             "precio": "SC->89",
@@ -2999,7 +2999,7 @@
             "historia": "<h5-inferno>Ronald:</h5-inferno> <br> Ronald, a formidable presence in goal, possessed exceptional reflexes and shot-stopping ability. His acrobatic saves and quick decision-making under pressure made him a vital last line of defense." },
         {
             "id": "#266",
-            "nombre": "Faust****",
+            "nombre": "Faust",
             "modelo": "MC",
             "img": "img/266.webp",
             "precio": "SC->92",
@@ -3010,7 +3010,7 @@
             "historia": "<h5-celestial>Faust:</h5-celestial> <br> Faust, a commanding presence in defense, possessed strength, composure, and excellent reading of the game. His ability to anticipate plays, make crucial interceptions." },
         {
             "id": "#267",
-            "nombre": "Stolze****",
+            "nombre": "Stolze",
             "modelo": "DEL",
             "img": "img/267.webp",
             "precio": "SC->81",
@@ -3021,7 +3021,7 @@
             "historia": "<h5-quantum>Stolze:</h5-quantum> <br> Stolze, a lethal striker, possessed clinical finishing and a natural instinct for goal. His precise shots and clever movement in the box made him a constant threat to opposing defenses." },
         {
             "id": "#268",
-            "nombre": "Rose****",
+            "nombre": "Rose",
             "modelo": "DEL",
             "img": "img/268.webp",
             "precio": "SC->83",
@@ -3032,7 +3032,7 @@
             "historia": "<h5-arcane>Rose:</h5-arcane> <br> Rose, a graceful and technically gifted player, possessed exceptional ball control and a natural ability to navigate through tight spaces. Her quick footwork and agility allowed her to evade defenders effortlessly." },
         {
             "id": "#269",
-            "nombre": "Martin****",
+            "nombre": "Martin",
             "modelo": "DEL",
             "img": "img/269.webp",
             "precio": "SC->85",
@@ -3043,7 +3043,7 @@
             "historia": "<h5-technomancer>Martin:</h5-technomancer> <br> Martin, a tenacious and determined player, approached every game with unmatched passion and intensity. His relentless work rate and unwavering commitment." },
         {
             "id": "#270",
-            "nombre": "Rust****",
+            "nombre": "Rust",
             "modelo": "DEL",
             "img": "img/270.webp",
             "precio": "SC->88",
@@ -3054,7 +3054,7 @@
             "historia": "<h5-titan>Rust:</h5-titan> <br> Rust, a dependable and composed defender, provided stability and leadership in the team's backline. With his solid positioning, strong aerial ability, and well-timed tackles." },
         {
             "id": "#271",
-            "nombre": "Carolin****",
+            "nombre": "Carolin",
             "modelo": "DEF",
             "img": "img/271.webp",
             "precio": "SC->88",
@@ -3065,7 +3065,7 @@
             "historia": "<h5-inferno>Carolin:</h5-inferno> <br> Carolin, a dynamic and agile winger, possessed blistering speed and exceptional dribbling skills. Her ability to take on defenders one-on-one and deliver accurate crosses." },
         {
             "id": "#272",
-            "nombre": "Stumpf****",
+            "nombre": "Stumpf",
             "modelo": "DEF",
             "img": "img/272.webp",
             "precio": "SC->86",
@@ -3076,7 +3076,7 @@
             "historia": "<h5-celestial>Stumpf:</h5-celestial> <br> Stumpf, a versatile player, seamlessly transitioned between positions with ease. His adaptability and understanding of different roles made him a valuable asset to the team." },
         {
             "id": "#273",
-            "nombre": "Hoffmann****",
+            "nombre": "Hoffmann",
             "modelo": "DEF",
             "img": "img/273.webp",
             "precio": "SC->84",
@@ -3087,7 +3087,7 @@
             "historia": "<h5-quantum>Hoffmann:</h5-quantum> <br> Hoffmann, a tenacious and hardworking player, gave his all on the field. With his relentless work ethic and physicality, Hoffmann constantly battled for possession and won crucial challenges." },
         {
             "id": "#274",
-            "nombre": "Plath****",
+            "nombre": "Plath",
             "modelo": "DEF",
             "img": "img/274.webp",
             "precio": "SC->82",
@@ -3098,7 +3098,7 @@
             "historia": "<h5-arcane>Plath:</h5-arcane> <br> Plath, a skilled and composed player, possessed exceptional technique and an innate understanding of the game. His precise passing and ability to control the midfield allowed him to dictate the flow of play." },
         {
             "id": "#275",
-            "nombre": "Ivonne****",
+            "nombre": "Ivonne",
             "modelo": "MC",
             "img": "img/275.webp",
             "precio": "SC->80",
@@ -3109,7 +3109,7 @@
             "historia": "<h5-technomacer>Ivonne:</h5-technomancer> <br> Ivonne, an electrifying forward, dazzled spectators with her speed, agility, and goal-scoring ability. Her ability to beat defenders with her quick dribbling." },
         {
             "id": "#276",
-            "nombre": "Speer****",
+            "nombre": "Speer",
             "modelo": "MC",
             "img": "img/276.webp",
             "precio": "SC->82",
@@ -3120,7 +3120,7 @@
             "historia": "<h5-titan>Speer:</h5-titan> <br> Speer, a commanding presence in defense, possessed strength, agility, and excellent tactical awareness. His ability to read the game and make timely interceptions disrupted opposing attacks." },
         {
             "id": "#277",
-            "nombre": "Beyer****",
+            "nombre": "Beyer",
             "modelo": "MC",
             "img": "img/277.webp",
             "precio": "SC->84",
@@ -3131,7 +3131,7 @@
             "historia": "<h5-inferno>Beyer:</h5-inferno> <br> Beyer, a technically gifted player, had exceptional ball control and precise passing abilities. His vision and creativity allowed him to unlock defenses and create scoring opportunities for his teammates." },
         {
             "id": "#278",
-            "nombre": "Kensy****",
+            "nombre": "Kensy",
             "modelo": "MC",
             "img": "img/278.webp",
             "precio": "SC->86",
@@ -3142,7 +3142,7 @@
             "historia": "<h5-celestial>Kensy:</h5-celestial> <br> Kensy, a determined and relentless player, possessed a never-give-up attitude on the football pitch. With his unwavering work ethic and passion for the game." },
         {
             "id": "#279",
-            "nombre": "Kuhl****",
+            "nombre": "Kuhl",
             "modelo": "MC",
             "img": "img/279.webp",
             "precio": "SC->88",
@@ -3153,7 +3153,7 @@
             "historia": "<h5-quantum>Kuhl:</h5-quantum> <br> Kuhl, a commanding presence in defense, provided stability and leadership to the team's backline. With his strong aerial ability, well-timed tackles, and excellent positioning." },
         {
             "id": "#280",
-            "nombre": "Geisler****",
+            "nombre": "Geisler",
             "modelo": "MC",
             "img": "img/280.webp",
             "precio": "SC->91",
@@ -3164,7 +3164,7 @@
             "historia": "<h5-technomacer>Geisler:</h5-technomancer> <br> Geisler, a composed and intelligent player, dictated the rhythm of the game from a central midfield position. With his exceptional passing range and vision." },
         {
             "id": "#281 ",
-            "nombre": "Vargas****",
+            "nombre": "Vargas",
             "modelo": "DEF",
             "img": "img/281.webp",
             "precio": "SC->92",
@@ -3175,7 +3175,7 @@
             "historia": "<h5-titan>Vargas:</h5-titan> <br> Vargas, a dynamic and explosive winger, possessed incredible speed and dribbling skills. His ability to beat defenders one-on-one and deliver pinpoint crosses made him a constant threat in the attacking third." },
         {
             "id": "#282",
-            "nombre": "Infante****",
+            "nombre": "Infante",
             "modelo": "DEL",
             "img": "img/282.webp",
             "precio": "SC->93",
@@ -3186,7 +3186,7 @@
             "historia": "<h5-inferno>Infante:</h5-inferno> <br> Infante, a fearless and tenacious player, never shied away from a challenge on the football pitch. With his aggressive tackling and relentless pursuit of the ball." },
         {
             "id": "#283",
-            "nombre": "Casals****",
+            "nombre": "Casals",
             "modelo": "DEF",
             "img": "img/283.webp",
             "precio": "SC->94",
@@ -3197,7 +3197,7 @@
             "historia": "<h5-celestial>Casals:</h5-celestial> <br> Casals, a versatile player, showcased adaptability and versatility in various positions on the field. His exceptional technical skills and tactical intelligence." },
         {
             "id": "#284",
-            "nombre": "Conde****",
+            "nombre": "Conde",
             "modelo": "DEL",
             "img": "img/284.webp",
             "precio": "SC->95",
@@ -3208,7 +3208,7 @@
             "historia": "<h5-quantum>Conde:</h5-quantum> <br> Conde, a stalwart in defense, was known for his strength, positioning, and excellent reading of the game. His ability to anticipate plays and make crucial interceptions disrupted opposing attacks." },
         {
             "id": "#285",
-            "nombre": "Galindo****",
+            "nombre": "Galindo",
             "modelo": "DEF",
             "img": "img/285.webp",
             "precio": "SC->97",
@@ -3219,7 +3219,7 @@
             "historia": "<h5-arcane>Galindo:</h5-arcane> <br> Galindo, a technically gifted player, possessed a unique ability to control the ball with finesse and precision. His graceful dribbling and impeccable ball control mesmerized both fans." },
         {
             "id": "#286",
-            "nombre": "Diego****",
+            "nombre": "Diego",
             "modelo": "MC",
             "img": "img/286.webp",
             "precio": "SC->98",
@@ -3230,7 +3230,7 @@
             "historia": "<h5-technomancer>Diego:</h5-technomancer> <br> Diego, a determined and hardworking player, possessed an insatiable appetite for success. With his relentless work ethic and commitment to self-improvement." },
         {
             "id": "#287",
-            "nombre": "Olmo****",
+            "nombre": "Olmo",
             "modelo": "DEL",
             "img": "img/287.webp",
             "precio": "SC->96",
@@ -3241,7 +3241,7 @@
             "historia": "<h5-titan>Olmo:</h5-titan> <br> Olmo, a fearless and creative player, dazzled spectators with his breathtaking skills and mesmerizing style of play. His ability to unlock defenses with his precise passes and ingenious." },
         {
             "id": "#288",
-            "nombre": "Varela****",
+            "nombre": "Varela",
             "modelo": "POR",
             "img": "img/288.webp",
             "precio": "SC->93",
@@ -3252,7 +3252,7 @@
             "historia": "<h5-inferno>Varela:</h5-inferno> <br> Valera, a formidable presence between the goalposts, commanded the penalty area with authority and skill. His lightning-fast reflexes and acrobatic saves left opponents in awe." },
         {
             "id": "#289",
-            "nombre": "Rojas****",
+            "nombre": "Rojas",
             "modelo": "DEL",
             "img": "img/289.webp",
             "precio": "SC->94",
@@ -3263,7 +3263,7 @@
             "historia": "<h5-celestial>Rojas:</h5-celestial> <br> Rojas, a naturally gifted athlete, possessed exceptional speed and agility. His explosive bursts of pace and lightning-fast dribbling left opponents in awe." },
         {
             "id": "#290",
-            "nombre": "Lion****",
+            "nombre": "Lion",
             "modelo": "DEL",
             "img": "img/290.webp",
             "precio": "SC->96",
