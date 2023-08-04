@@ -37,7 +37,10 @@ function mostrarBicicletas() {
   });
   //alert("Filtro: " + filtroBusqueda + ", modelo: " + filtroModelo + ", categoría: " + filtroCategoria);
   //alert("Filtro: " + filtroBusqueda + ", modelo: " + filtroModelo + ", categoría: " + filtroCategoria + " BICICLETAS: " + window.bicicletas.length + "filtradas : " + bicicletasFiltradas.length);
-// Recorrer cada bicicleta
+
+  displayResults(bicicletasFiltradas);
+
+  // Recorrer cada bicicleta
 bicicletasFiltradas.forEach(function (bicicleta) {
   // Comprobar si la bicicleta cumple con los criterios de los filtros
       // Crear un elemento div para la bicicleta
@@ -323,27 +326,6 @@ results.forEach(result => {
   }
 });
 
-    
-    
-    
-    
-
-
-
-    
-    function displayResults(results) {
-      // Vaciar el contenedor de resultados
-      resultsContainer.innerHTML = '';
-    
-      // Mostrar el número de resultados encontrados
-      const count = results.length;
-      const countText = count === 1 ? 'shimmer' : 'shimmers';
-      const countDiv = document.createElement('div');
-      countDiv.textContent = `${count} ${countText} encontrado(s).`;
-      resultsContainer.appendChild(countDiv);
-    
-      
-    }
 
         });
   
@@ -352,6 +334,17 @@ results.forEach(result => {
   */
   
 };
+
+function displayResults(results) {
+  // Mostrar el número de resultados encontrados
+  const count = results.length;
+  const countText = count === 1 ? 'shimmer' : 'shimmers';
+  const countDiv = document.createElement('div');
+  countDiv.textContent = `${count} ${countText} encontrado(s).`;
+  countDiv.classList.add("txtresultados");
+  bicicletasContenedor.appendChild(countDiv);
+
+}
 
 // Función para realizar la búsqueda
 function searchForTerm(term) {

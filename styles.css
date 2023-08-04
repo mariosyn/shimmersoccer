@@ -1644,3 +1644,10 @@ ul {
   scale: 0.2;
 }
 
+.txtresultados {
+  scale: 1.20;
+  position: absolute;
+  margin-top: -6vh;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
